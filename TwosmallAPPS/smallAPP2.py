@@ -29,12 +29,12 @@ my_dataset = "final_processed_data_0.csv"
 # To Improve speed and cache data
 @st.cache(persist=True)
 def explore_data(dataset):
-    df = pd.read_csv('G://google download/Research/UBS_pitch/final_processed_data_0.csv')
+    df = pd.read_csv(os.path.join('final_processed_data_0.csv'))
     #df2 = pd.read_csv('G://google download/Research/UBS_pitch/closure_history_1.csv')
     return df 
 
 def explore_data_2(dataset):
-    df_2 = pd.read_csv('G://google download/Research/UBS_pitch/closure_history_1.csv')
+    df_2 = pd.read_csv(os.path.join('closure_history_1.csv'))
     #df2 = pd.read_csv('G://google download/Research/UBS_pitch/closure_history_1.csv')
     return df_2 
 
