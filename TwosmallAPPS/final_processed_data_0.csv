@@ -1,0 +1,1242 @@
+target,Company Name,Address,City,ZIP Code,Metro Area,Sales_Change,Employee_Change,County,Civilian_labor_force_2019,Median_Household_Income_2018,Location Employee Size Actual,Location Sales Volume Actual,Years In Database,Square Footage,Credit Score Alpha,Grocery_within_Zip,Supermarket_within_5_miles,Google_Scores,Google_Reviews
+0,Food Express Inc,57 Franklin St,Elmwood Park,7407,"Nw Yrk, NY-NJ-PA",0.0,0.0,Bergen,482038,100181,4,1010000.0,10,1999.5,2,21,25,4.0,4.0
+0,George Pandel Grocery,134 Vreeland Ave,Leonia,7605,"Nw Yrk, NY-NJ-PA",-0.16,-0.25,Bergen,482038,100181,2,505000.0,13,1999.5,1,6,29,4.1,340.0
+0,J & A Food Market,29 W Main St,Rahway,7065,"Nw Yrk, NY-NJ-PA",-0.16,-0.25,Union,276382,80737,2,481000.0,10,1999.5,1,50,25,4.4,20.0
+0,Hoser Farm,664 S Main St,Stewartsville,8886,"Allen-Bth-Est,PA",0.12,0.0,Warren,56060,77571,1,235000.0,10,1999.5,0,4,3,4.4,20.0
+0,Abel Mini Market,187 Parker Ave,Passaic,7055,"Nw Yrk, NY-NJ-PA",-0.16,-0.25,Passaic,242208,71959,2,416000.0,10,1999.5,1,250,29,4.4,20.0
+0,Market Safety Research,18 Jagged Rock Rd,Parsippany,7054,"Nw Yrk, NY-NJ-PA",0.12,0.0,Morris,256698,112396,2,529000.0,12,750.0,1,60,13,4.4,20.0
+0,Yash Auto Svc,325 Princeton Hightstown Rd,East Windsor,8512,"Trenton, NJ",0.0,0.0,Mercer,202885,79979,2,2459000.0,11,750.0,0,7,4,4.4,9.0
+0,Deutsch Enterprises,14 Blue Devil Ln,Trenton,8619,"Trenton, NJ",0.12,0.0,Mercer,202885,79979,5,1173000.0,12,1999.5,2,30,13,4.4,20.0
+0,Metropolitan Food Systems,401 Hamburg Tpke # 210,Wayne,7470,"Nw Yrk, NY-NJ-PA",1.25,1.0,Passaic,242208,71959,3,623000.0,19,750.0,2,56,12,4.4,20.0
+0,Optimal Trip,6 Casson Ln,North Haledon,7508,"Nw Yrk, NY-NJ-PA",0.24,0.0,Passaic,242208,71959,2,416000.0,12,750.0,1,35,17,4.4,20.0
+0,Punto Fijo Deli & Grocery Inc,333 Grand St,Paterson,7505,"Nw Yrk, NY-NJ-PA",-0.72,0.0,Passaic,242208,71959,1,55000.0,18,750.0,0,37,18,4.4,20.0
+0,Himi Inc,326 US Highway 46,Mountain Lakes,7046,"Nw Yrk, NY-NJ-PA",0.49,0.0,Morris,256698,112396,3,3777000.0,18,750.0,1,2,8,4.4,20.0
+0,Mar Brothers,5208 Palisade Ave,West New York,7093,"Nw Yrk, NY-NJ-PA",3.22,2.75,Hudson,361189,73337,2,461000.0,10,1999.5,1,149,59,4.4,20.0
+0,Franklin Food Mart,650 Franklin Blvd,Somerset,8873,"Nw Yrk, NY-NJ-PA",0.0,0.0,Somerset,171371,119731,6,6787000.0,17,750.0,2,81,10,1.0,1.0
+0,7-Eleven,365 New Brunswick Ave,Perth Amboy,8861,"Nw Yrk, NY-NJ-PA",0.0,0.0,Middlesex,439073,87666,7,1603000.0,8,3749.5,2,98,12,1.8,9.0
+0,Herrera Mini Market,808 Stuyvesant Ave,Trenton,8618,"Trenton, NJ",0.67,0.67,Mercer,202885,79979,3,704000.0,18,1999.5,2,50,6,4.4,20.0
+0,Marina's Food Store,67 Franklin St # 14,Bloomfield,7003,"Nw Yrk, NY-NJ-PA",0.0,0.0,Essex,368748,62875,1,243000.0,22,750.0,0,78,25,4.0,4.0
+0,Great Wall Supermarket,3151 State Route 27 # A,Franklin Park,8823,"Nw Yrk, NY-NJ-PA",0.0,0.0,Somerset,171371,119731,2,459000.0,14,3749.5,1,13,0,4.1,7.0
+0,Sultan Foods Inc,115 Stryker Ln # 4,Hillsborough,8844,"Nw Yrk, NY-NJ-PA",7.12,0.0,Somerset,171371,119731,2,459000.0,9,1999.5,1,24,3,4.4,20.0
+0,Annie's Quick Stop LLC,5106 Bergenline Ave,West New York,7093,"Nw Yrk, NY-NJ-PA",0.0,0.0,Hudson,361189,73337,2,461000.0,8,1999.5,1,149,59,1.0,1.0
+0,KNJ Mini Mart,329 2nd Ave W,Newark,7107,"Nw Yrk, NY-NJ-PA",0.0,0.0,Essex,368748,62875,2,486000.0,10,1999.5,1,108,17,5.0,1.0
+0,Sun Food Mart,486 State Route 57 W,Washington,7882,"Allen-Bth-Est,PA",0.0,0.0,Warren,56060,77571,5,267000.0,10,1999.5,1,23,1,4.0,4.0
+0,"Rodriguez, Victor",170 Market St,Passaic,7055,"Nw Yrk, NY-NJ-PA",-0.33,-0.33,Passaic,242208,71959,2,416000.0,6,1999.5,0,250,29,4.4,20.0
+0,Top Tomato,200 Mounts Corner Dr,Freehold,7728,"Nw Yrk, NY-NJ-PA",0.0,0.0,Monmouth,328661,99223,3,687000.0,12,750.0,1,86,10,3.2,11.0
+0,Tapia Grocery,1105 Main St,Paterson,7503,"Nw Yrk, NY-NJ-PA",0.0,0.0,Passaic,242208,71959,2,416000.0,12,1999.5,1,65,24,2.0,1.0
+0,Blitzs Market,104 S Main St,Cape May Court House,8210,"Ocean City, NJ",1.5,1.5,Cape May,45947,62175,2,817000.0,7,1999.5,0,18,2,4.4,20.0
+0,Food Associates Co,91 Quincy Ave,Kearny,7032,"Nw Yrk, NY-NJ-PA",-0.25,-0.25,Hudson,361189,73337,3,692000.0,21,1999.5,2,47,20,4.4,20.0
+0,"Ethan, Melissa",1505 Summit Ave # A,Union City,7087,"Nw Yrk, NY-NJ-PA",-0.33,-0.33,Hudson,361189,73337,2,461000.0,6,1999.5,0,210,55,3.5,2.0
+0,Camila's Deli Grocery,5900 Hudson Ave,West New York,7093,"Nw Yrk, NY-NJ-PA",-0.33,-0.33,Hudson,361189,73337,2,461000.0,8,1999.5,1,149,59,4.0,2.0
+0,Clifton Food Mart,206 Lakeview Ave,Clifton,7011,"Nw Yrk, NY-NJ-PA",-0.33,-0.33,Passaic,242208,71959,2,416000.0,8,1999.5,1,77,29,4.4,20.0
+0,D & S Grocery,54 Florence Ave,Irvington,7111,"Nw Yrk, NY-NJ-PA",-0.33,-0.33,Essex,368748,62875,2,486000.0,14,750.0,1,220,26,4.4,20.0
+0,Fabyan Place Grocery LLC,87 Fabyan Pl,Newark,7112,"Nw Yrk, NY-NJ-PA",-0.33,-0.33,Essex,368748,62875,2,486000.0,12,1999.5,1,80,24,4.4,20.0
+0,Feliz Suriel Grocery,1075 Grove St,Irvington,7111,"Nw Yrk, NY-NJ-PA",-0.33,-0.33,Essex,368748,62875,2,486000.0,10,1999.5,1,220,26,3.0,1.0
+0,Floyd's,1801 Route 37 E,Toms River,8753,"Nw Yrk, NY-NJ-PA",-0.4,-0.4,Ocean,275023,68483,6,317000.0,8,1999.5,1,79,8,4.4,20.0
+0,J M Supermarket,317 Lake St,Newark,7104,"Nw Yrk, NY-NJ-PA",-0.33,-0.33,Essex,368748,62875,2,486000.0,7,1999.5,0,158,17,4.4,20.0
+0,Jaloon Specialty Foods,10 E 21st St,Bayonne,7002,"Nw Yrk, NY-NJ-PA",-0.4,-0.4,Hudson,361189,73337,3,692000.0,9,1999.5,1,106,18,4.4,20.0
+0,Kas Supermarket,444 Central Ave,Newark,7107,"Nw Yrk, NY-NJ-PA",-0.33,-0.33,Essex,368748,62875,2,486000.0,8,1999.5,1,108,17,4.4,20.0
+0,Leapy Grocery,801 E 6th St,Plainfield,7062,"Nw Yrk, NY-NJ-PA",-0.33,-0.33,Union,276382,80737,2,481000.0,11,1999.5,1,19,15,5.0,1.0
+0,Los Tres Garcias Grocery,171 Passaic St,Passaic,7055,"Nw Yrk, NY-NJ-PA",-0.33,-0.33,Passaic,242208,71959,2,416000.0,7,1999.5,0,250,29,4.4,20.0
+0,M J Grocery,599 Kennedy Blvd # A,Bayonne,7002,"Nw Yrk, NY-NJ-PA",-0.33,-0.33,Hudson,361189,73337,2,461000.0,9,1999.5,1,106,18,4.4,20.0
+0,Nia's Grocery,1815 Kerrigan Ave,Union City,7087,"Nw Yrk, NY-NJ-PA",0.0,0.0,Hudson,361189,73337,1,231000.0,6,1999.5,0,210,55,3.8,4.0
+0,R J Super Market,56 W Main St,Bogota,7603,"Nw Yrk, NY-NJ-PA",-0.33,-0.33,Bergen,482038,100181,2,505000.0,9,1999.5,1,6,27,4.4,20.0
+0,Ruby Grocery,977 Bergen St,Newark,7112,"Nw Yrk, NY-NJ-PA",-0.33,-0.33,Essex,368748,62875,2,486000.0,8,1999.5,1,80,24,4.4,20.0
+0,Torres Grocery,930 E Grand St,Elizabeth,7201,"Nw Yrk, NY-NJ-PA",-0.33,-0.33,Union,276382,80737,2,481000.0,11,1999.5,1,122,25,1.0,1.0
+0,Trebol Food Market,110 Columbia Ave,Passaic,7055,"Nw Yrk, NY-NJ-PA",-0.33,-0.33,Passaic,242208,71959,2,416000.0,8,1999.5,1,250,29,4.4,20.0
+0,Aksharpati Corp,168 Valley Blvd,Wood Ridge,7075,"Nw Yrk, NY-NJ-PA",-0.09,0.0,Bergen,482038,100181,1,253000.0,12,1999.5,0,6,34,4.4,20.0
+0,Jg Grocery,391 Somerset St,Somerset,8873,"Nw Yrk, NY-NJ-PA",-0.17,0.0,Somerset,171371,119731,2,459000.0,9,1999.5,1,81,10,4.4,20.0
+0,Roxy's Old Time Deli,200 N Black Horse Pike,Williamstown,8094,"Phl, PA-NJ-DE-MD",0.54,-0.33,Gloucester,149747,81315,2,318000.0,10,1999.5,1,32,5,4.4,20.0
+0,Arias Minimarket & Deli,765 E 18th St,Paterson,7501,"Nw Yrk, NY-NJ-PA",-0.25,0.0,Passaic,242208,71959,2,416000.0,7,750.0,0,180,20,4.4,20.0
+0,Food Market LLC,594 21st Ave,Paterson,7513,"Nw Yrk, NY-NJ-PA",18.82,2.5,Passaic,242208,71959,2,416000.0,10,1999.5,1,30,18,4.4,20.0
+0,Frederick's Supermarket,1031 S Orange Ave,Newark,7106,"Nw Yrk, NY-NJ-PA",-0.12,0.0,Essex,368748,62875,2,486000.0,8,1999.5,1,90,22,4.4,20.0
+0,Gonzales Grocery,402 10th Ave,Paterson,7514,"Nw Yrk, NY-NJ-PA",-0.25,0.0,Passaic,242208,71959,2,416000.0,10,1999.5,1,59,21,4.4,20.0
+0,Ing Grocery,96 Elwood Ave,Newark,7104,"Nw Yrk, NY-NJ-PA",-0.12,0.0,Essex,368748,62875,2,486000.0,10,1999.5,1,158,17,1.5,2.0
+0,K2K Food Market Inc,225 S Olden Ave,Trenton,8629,"Trenton, NJ",-0.15,0.0,Mercer,202885,79979,2,469000.0,33,1999.5,1,17,8,4.0,6.0
+0,Modern Bazaar,163 Main St,Hackensack,7601,"Nw Yrk, NY-NJ-PA",-0.09,0.0,Bergen,482038,100181,2,505000.0,13,1999.5,1,79,23,4.4,20.0
+0,Newmarket Pharmaceuticals LLC,621 Executive Dr,Princeton,8540,"Nw Yrk, NY-NJ-PA",-0.17,0.0,Somerset,171371,119731,3,688000.0,8,1999.5,1,35,7,4.4,20.0
+0,Village News,401 Piaget Ave,Clifton,7011,"Nw Yrk, NY-NJ-PA",-0.63,-0.5,Passaic,242208,71959,1,208000.0,18,1999.5,0,77,29,5.0,4.0
+0,Center Deli,105 Cedarbridge Ave # C,Lakewood,8701,"Nw Yrk, NY-NJ-PA",-0.23,0.0,Ocean,275023,68483,10,528000.0,15,1999.5,2,84,10,5.0,1.0
+0,E & L Deli Grocery,297 Van Houten St,Paterson,7501,"Nw Yrk, NY-NJ-PA",-0.19,0.0,Passaic,242208,71959,1,55000.0,12,750.0,0,180,20,4.4,20.0
+0,Eugenio J De LA Cruz,1511 43rd St,North Bergen,7047,"Nw Yrk, NY-NJ-PA",-0.17,0.0,Hudson,361189,73337,2,461000.0,7,750.0,0,99,55,4.4,20.0
+0,Hofa Market LLC,624 N State Rt 17,Paramus,7652,"Nw Yrk, NY-NJ-PA",-0.09,0.0,Bergen,482038,100181,2,505000.0,9,1999.5,1,35,22,4.4,20.0
+0,J & M Deli & Grocery,2113 Springfield Ave # A,Vauxhall,7088,"Nw Yrk, NY-NJ-PA",-0.13,0.0,Union,276382,80737,1,241000.0,19,1999.5,0,10,22,4.4,20.0
+0,LA Doninicana III,244 Park Ave,Orange,7050,"Nw Yrk, NY-NJ-PA",-0.13,0.0,Essex,368748,62875,3,728000.0,36,750.0,2,92,16,4.4,20.0
+0,Magic Convenience,783 Fischer Blvd,Toms River,8753,"Nw Yrk, NY-NJ-PA",-0.07,0.0,Ocean,275023,68483,2,518000.0,10,750.0,1,79,8,4.4,20.0
+0,Marsh Supermarkets Inc,1 Evergreen Pl,Morristown,7960,"Nw Yrk, NY-NJ-PA",-0.05,0.0,Morris,256698,112396,3,793000.0,6,1999.5,1,45,11,4.4,20.0
+0,Big Bear Natrl Foods Inc Of Nj,17 Arctic Pkwy,Ewing,8638,"Trenton, NJ",0.0,0.0,Mercer,202885,79979,3,704000.0,24,750.0,2,43,6,3.8,8.0
+0,Family Delight Grocery Store,284 Somerset St,New Brunswick,8901,"Nw Yrk, NY-NJ-PA",-0.17,0.0,Middlesex,439073,87666,2,458000.0,14,1999.5,1,93,20,4.4,20.0
+0,Food Specialties,28 W Grand Ave # 6,Montvale,7645,"Nw Yrk, NY-NJ-PA",-0.08,0.0,Bergen,482038,100181,3,190000.0,12,750.0,1,20,13,4.4,20.0
+0,L B's Variety,92 Lindsley Ave,Newark,7106,"Nw Yrk, NY-NJ-PA",-0.12,0.0,Essex,368748,62875,2,486000.0,7,1999.5,0,90,22,4.4,20.0
+0,Main Street Euro-Amer Bistro,301 N Harrison St # 51b,Princeton,8540,"Trenton, NJ",-0.12,0.0,Mercer,202885,79979,34,2048000.0,22,7499.5,4,35,7,4.4,20.0
+0,Marsh Supermarket,2047 N Riverside Dr,Atlantic City,8401,"Atlantic Cty, NJ",-0.05,0.0,Atlantic,120728,60826,2,529000.0,6,1999.5,0,159,3,4.4,20.0
+0,Super Sale Inc,5504 Bergenline Ave,West New York,7093,"Nw Yrk, NY-NJ-PA",-0.17,0.0,Hudson,361189,73337,2,461000.0,10,1999.5,1,149,59,4.4,20.0
+0,Carnita Mini Market,1216 W Front St,Plainfield,7063,"Nw Yrk, NY-NJ-PA",-0.13,0.0,Union,276382,80737,2,481000.0,9,1999.5,1,17,16,3.0,1.0
+0,Gourmet Store,24 Franklin Ave,Ridgewood,7450,"Nw Yrk, NY-NJ-PA",-0.09,0.0,Bergen,482038,100181,2,505000.0,10,1999.5,1,14,14,4.4,20.0
+0,Just Groceries,498 Ocean Ave,Jersey City,7305,"Nw Yrk, NY-NJ-PA",-0.2,0.0,Hudson,361189,73337,2,109000.0,10,750.0,1,166,21,3.8,6.0
+0,Sunny's Cafe,26 Journal Sq # 1c,Jersey City,7306,"Nw Yrk, NY-NJ-PA",-0.17,0.0,Hudson,361189,73337,3,692000.0,26,1999.5,2,200,39,4.4,20.0
+0,All American Dell,399 Dover Rd # 1a,Toms River,8757,"Nw Yrk, NY-NJ-PA",-0.07,0.0,Ocean,275023,68483,5,1293000.0,10,3749.5,2,10,6,4.4,20.0
+0,Beira Centro Supermarket,657 Jackson Ave,Elizabeth,7201,"Nw Yrk, NY-NJ-PA",-0.13,0.0,Union,276382,80737,2,481000.0,12,750.0,1,122,25,4.4,20.0
+0,Convenience Store,1450 Route 532 # A,Chatsworth,8019,"Phl, PA-NJ-DE-MD",-0.15,0.0,Burlington,230589,84470,2,473000.0,13,1999.5,1,0,0,4.4,20.0
+0,Century Food Market Inc,86 Anderson St,Hackensack,7601,"Nw Yrk, NY-NJ-PA",-0.09,0.0,Bergen,482038,100181,2,505000.0,27,750.0,1,79,23,4.4,20.0
+0,Green Tomato,526 21st St,Union City,7087,"Nw Yrk, NY-NJ-PA",-0.19,0.0,Hudson,361189,73337,1,55000.0,29,750.0,0,210,55,5.0,1.0
+0,Idalis Food Market,265 S Orange Ave,Newark,7103,"Nw Yrk, NY-NJ-PA",-0.13,0.0,Essex,368748,62875,2,486000.0,12,1999.5,1,119,15,4.4,20.0
+0,Pinos Market Grill,25 Howe Ave # 2,Passaic,7055,"Nw Yrk, NY-NJ-PA",-0.25,0.0,Passaic,242208,71959,2,416000.0,12,1999.5,1,250,29,4.4,20.0
+0,Atco Cold Cuts,299 Jackson Rd # F,Atco,8004,"Phl, PA-NJ-DE-MD",0.01,0.0,Camden,253053,67135,2,90000.0,15,750.0,0,9,3,4.4,20.0
+0,B-B-Big Food Mart Inc,14 S 2nd Ave,Highland Park,8904,"Nw Yrk, NY-NJ-PA",0.0,0.0,Middlesex,439073,87666,3,687000.0,27,1999.5,2,12,19,5.0,2.0
+0,Brothers Store,181 Spring St,Elizabeth,7201,"Nw Yrk, NY-NJ-PA",-0.13,0.0,Union,276382,80737,2,481000.0,11,1999.5,1,122,25,4.4,20.0
+0,J & M Gourmet Foods,16 Manor Rd,Denville,7834,"Nw Yrk, NY-NJ-PA",-0.05,0.0,Morris,256698,112396,3,793000.0,9,1999.5,1,20,13,4.4,20.0
+0,Nicholas Markets,195 Browertown Rd,Woodland Park,7424,"Nw Yrk, NY-NJ-PA",-0.25,0.0,Passaic,242208,71959,7,1453000.0,9,3749.5,2,48,19,4.6,5.0
+0,Wawa Food Market,Broad & Bnk,Cape May,8204,"Ocean City, NJ",0.0,0.0,Cape May,45947,62175,12,665000.0,9,3749.5,2,21,5,3.9,361.0
+1,Circle P Food Store,264 Main St,New Milford,7646,"Nw Yrk, NY-NJ-PA",0.0,0.0,Bergen,482038,100181,1,253000.0,29,750.0,1,10,20,4.2,10.0
+1,Circle P Food Store,264 Main St,New Milford,7646,"Nw Yrk, NY-NJ-PA",0.0,0.0,Bergen,482038,100181,1,253000.0,29,750.0,1,10,20,4.2,10.0
+1,Clc Gourmet Foods Inc,196 Paterson Ave # 202,East Rutherford,7073,"Nw Yrk, NY-NJ-PA",0.0,0.0,Bergen,482038,100181,2,505000.0,10,3749.5,1,23,28,5.0,1.0
+1,Clinton News,31 Clinton St,Newark,7102,"Nw Yrk, NY-NJ-PA",0.0,0.0,Essex,368748,62875,2,486000.0,12,3749.5,1,74,17,5.0,3.0
+1,Coastal Mini Mart,941 Atlantic City Blvd,Bayville,8721,"Nw Yrk, NY-NJ-PA",0.0,0.0,Ocean,275023,68483,2,518000.0,12,750.0,1,17,6,4.6,14.0
+1,Collings Lake Food Mart,10 E Black Horse Pike # 1,Williamstown,8094,"Atlantic Cty, NJ",0.0,0.0,Atlantic,120728,60826,2,529000.0,5,1999.5,0,32,5,3.9,16.0
+1,Corner Store,120 Rhode Island Ave,East Orange,7018,"Nw Yrk, NY-NJ-PA",0.0,0.0,Essex,368748,62875,1,243000.0,21,750.0,0,92,15,3.6,22.0
+1,Country Farms,1320 Sea Girt Ave,Sea Girt,8750,"Nw Yrk, NY-NJ-PA",0.0,0.0,Monmouth,328661,99223,2,458000.0,6,1999.5,0,5,10,4.4,7.0
+1,Country Farms,193 Route 70,Toms River,8755,"Nw Yrk, NY-NJ-PA",0.0,0.0,Ocean,275023,68483,2,518000.0,22,750.0,1,32,8,5.0,1.0
+1,Criollo's Latin Cuisine,811 W Main St,Millville,8332,"Vineland, NJ",0.0,0.0,Cumberland,65061,51790,5,238000.0,2,1999.5,0,35,4,4.7,146.0
+1,Cugino's Italian Specialties,147 W Delaware Ave,Pennington,8534,"Trenton, NJ",0.0,0.0,Mercer,202885,79979,5,302000.0,10,750.0,1,13,3,4.8,124.0
+1,Daisey Food Market,76 Remsen Ave,New Brunswick,8901,"Nw Yrk, NY-NJ-PA",0.0,0.0,Middlesex,439073,87666,5,1145000.0,23,1999.5,3,93,20,3.9,74.0
+1,Dean's Natural Food Market,490 Broad St,Shrewsbury,7702,"Nw Yrk, NY-NJ-PA",0.0,0.0,Monmouth,328661,99223,15,3435000.0,17,7499.5,3,8,11,4.5,137.0
+1,Dean's Natural Market,25 Mountainview Blvd,Basking Ridge,7920,"Nw Yrk, NY-NJ-PA",0.0,0.0,Somerset,171371,119731,20,2731000.0,8,69999.5,3,14,4,4.5,138.0
+1,Deli Delight,10 New St,Metuchen,8840,"Nw Yrk, NY-NJ-PA",0.0,0.0,Middlesex,439073,87666,4,239000.0,27,750.0,2,23,23,4.0,4.0
+0,Diami Grocery,33 South St,Newark,7102,"Nw Yrk, NY-NJ-PA",0.0,0.0,Essex,368748,62875,2,486000.0,21,1999.5,1,74,17,5.0,1.0
+1,Dover Plaza Market,216 E Mcfarlan St # 1,Dover,7801,"Nw Yrk, NY-NJ-PA",0.0,0.0,Morris,256698,112396,2,529000.0,25,750.0,1,23,10,4.6,20.0
+1,E Z Pantry,415 Commerce Ln # 3,West Berlin,8091,"Phl, PA-NJ-DE-MD",0.0,0.0,Camden,253053,67135,8,1772000.0,13,1999.5,3,12,7,5.0,1.0
+1,E Z Pantry,415 Commerce Ln # 3,West Berlin,8091,"Phl, PA-NJ-DE-MD",0.0,0.0,Camden,253053,67135,8,1772000.0,13,1999.5,3,12,7,5.0,1.0
+1,Eagle Supermarket,1427 Saint George Ave,Roselle,7203,"Nw Yrk, NY-NJ-PA",0.0,0.0,Union,276382,80737,2,481000.0,13,1999.5,1,43,32,3.9,219.0
+1,Edwin's Supermarket,179 Catherine St,Elizabeth,7201,"Nw Yrk, NY-NJ-PA",0.0,0.0,Union,276382,80737,3,721000.0,29,750.0,2,122,25,5.0,3.0
+1,El Cerrito,223 Atlantic City Blvd,Beachwood,8722,"Nw Yrk, NY-NJ-PA",0.0,0.0,Ocean,275023,68483,1,259000.0,15,750.0,0,7,7,4.6,16.0
+1,El Manantial,17 S Broad St,Woodbury,8096,"Phl, PA-NJ-DE-MD",0.0,0.0,Gloucester,149747,81315,1,61000.0,13,750.0,0,55,17,4.3,295.0
+1,El Surtido Ecuatoriano,1370 Springfield Ave,Irvington,7111,"Nw Yrk, NY-NJ-PA",0.0,0.0,Essex,368748,62875,2,486000.0,17,1999.5,1,220,26,4.0,4.0
+1,El Tropical Meat & Groceries,1897 Woodbridge Ave,Edison,8817,"Nw Yrk, NY-NJ-PA",4.15625,0.0,Middlesex,439073,87666,3,2970000.0,8,1999.5,1,82,22,4.8,5.0
+1,Emporium 112 Super,112 Wilson Ave,Newark,7105,"Nw Yrk, NY-NJ-PA",0.0,0.0,Essex,368748,62875,4,971000.0,28,750.0,2,106,19,4.5,171.0
+1,Enzo's Market,1422 Bergen Blvd,Fort Lee,7024,"Nw Yrk, NY-NJ-PA",0.0,0.0,Bergen,482038,100181,2,505000.0,10,1999.5,1,44,40,4.7,87.0
+1,Espinosa Market,725 State St,Perth Amboy,8861,"Nw Yrk, NY-NJ-PA",0.0,0.0,Middlesex,439073,87666,2,458000.0,19,750.0,1,98,12,4.7,23.0
+1,Exito Fresh Market,115 Monticello Ave,Jersey City,7304,"Nw Yrk, NY-NJ-PA",0.0,0.0,Hudson,361189,73337,2,461000.0,6,1999.5,0,118,32,3.8,261.0
+1,Express Deli & Grocery LLC,1528 Monroe Ave,Neptune,7753,"Nw Yrk, NY-NJ-PA",0.0,0.0,Monmouth,328661,99223,3,687000.0,13,750.0,1,55,8,4.2,5.0
+1,Fairchilds,171 Eagle Rock Ave,Roseland,7068,"Nw Yrk, NY-NJ-PA",0.0,0.0,Essex,368748,62875,20,4853000.0,15,29999.5,4,10,12,4.3,190.0
+1,Family Grocery Fortuna,867 Stuyvesant Ave,Irvington,7111,"Nw Yrk, NY-NJ-PA",0.0,0.0,Essex,368748,62875,2,486000.0,13,1999.5,1,220,26,4.8,4.0
+1,Fast Break Basketball Camp LLC,7 Peter Rd,West Milford,7480,"Nw Yrk, NY-NJ-PA",0.0,0.0,Passaic,242208,71959,2,416000.0,12,1999.5,1,10,1,3.0,1.0
+1,Fernandez Supermarket-Trenton,634 Whittaker Ave,Trenton,8611,"Trenton, NJ",0.0,0.0,Mercer,202885,79979,3,704000.0,17,750.0,2,78,8,4.3,384.0
+1,Fieni's Ristorante,800 S Burnt Mill Rd,Voorhees,8043,"Phl, PA-NJ-DE-MD",0.0,0.0,Camden,253053,67135,10,518000.0,24,1999.5,3,23,18,4.6,315.0
+0,Filstop,683 Newark Ave,Jersey City,7306,"Nw Yrk, NY-NJ-PA",0.0,0.0,Hudson,361189,73337,4,217000.0,27,750.0,2,200,39,4.4,429.0
+1,Fior D Italia,1400 Burnet Ave,Union,7083,"Nw Yrk, NY-NJ-PA",0.0,0.0,Union,276382,80737,4,238000.0,32,750.0,2,71,29,4.3,67.0
+1,Five Star Deli & Grill,538 Lakehurst Rd,Browns Mills,8015,"Phl, PA-NJ-DE-MD",3.402985075,0.0,Burlington,230589,84470,5,1182000.0,6,1999.5,2,12,1,5.0,1.0
+0,Filstop,683 Newark Ave,Jersey City,7306,"Nw Yrk, NY-NJ-PA",0.0,0.0,Hudson,361189,73337,4,217000.0,27,750.0,2,200,39,4.4,429.0
+1,Fior D Italia,1400 Burnet Ave,Union,7083,"Nw Yrk, NY-NJ-PA",0.0,0.0,Union,276382,80737,4,238000.0,32,750.0,2,71,29,4.3,67.0
+0,Food City Markets Inc,1 Blue Hill Plz,Englewood Cliffs,7632,"Nw Yrk, NY-NJ-PA",0.0,0.0,Bergen,482038,100181,2,505000.0,6,1999.5,0,12,28,4.4,20.0
+1,Food Depot,75b 1st St,Newark,7107,"Nw Yrk, NY-NJ-PA",0.49794238700000004,0.0,Essex,368748,62875,2,486000.0,9,1999.5,1,108,17,4.0,322.0
+1,Food Ex,407 Princeton Ave,Lakewood,8701,"Nw Yrk, NY-NJ-PA",0.0,0.0,Ocean,275023,68483,2,518000.0,20,750.0,1,84,10,4.3,158.0
+1,Food Express,202 Broad St,Summit,7901,"Nw Yrk, NY-NJ-PA",0.0,0.0,Union,276382,80737,2,481000.0,16,750.0,1,15,17,2.6,16.0
+1,Food Mart 4 U,235 Paterson Ave,Wallington,7057,"Nw Yrk, NY-NJ-PA",0.0,0.0,Bergen,482038,100181,3,758000.0,8,1999.5,1,20,29,4.8,9.0
+1,Franklin Riggins,69 W Broad St,Bridgeton,8302,"Vineland, NJ",0.0,0.0,Cumberland,65061,51790,2,478000.0,14,1999.5,1,71,2,4.2,35.0
+1,Fresca Gourmet,115 Town Square Pl,Jersey City,7310,"Nw Yrk, NY-NJ-PA",0.0,0.0,Hudson,361189,73337,3,692000.0,13,1999.5,1,23,52,3.5,48.0
+1,Fresh Bui,57 Elm St,Westfield,7090,"Nw Yrk, NY-NJ-PA",0.0,0.0,Union,276382,80737,5,1201000.0,5,3749.5,1,22,26,4.9,25.0
+1,Fresh Farm Market,201 E Broad St,Palmyra,8065,"Phl, PA-NJ-DE-MD",0.0,0.0,Burlington,230589,84470,2,473000.0,21,750.0,1,10,33,4.1,71.0
+1,Galaxy Foods,855 Industrial Hwy,Cinnaminson,8077,"Phl, PA-NJ-DE-MD",0.0,0.0,Burlington,230589,84470,7,1654000.0,5,7499.5,1,22,28,5.0,3.0
+1,Gene's III,87 N Beverwyck Rd,Lake Hiawatha,7034,"Nw Yrk, NY-NJ-PA",0.0,0.0,Morris,256698,112396,2,529000.0,29,3749.5,1,12,8,3.9,39.0
+1,Giant Farmers Market,350 Ramapo Valley Rd # 12,Oakland,7436,"Nw Yrk, NY-NJ-PA",0.0,0.0,Bergen,482038,100181,2,505000.0,8,7499.5,1,18,9,4.5,198.0
+1,Giant Farmers Market,19 Wyckoff Ave,Waldwick,7463,"Nw Yrk, NY-NJ-PA",0.0,0.0,Bergen,482038,100181,2,505000.0,3,750.0,0,11,16,4.4,319.0
+1,Gene's III,87 N Beverwyck Rd,Lake Hiawatha,7034,"Nw Yrk, NY-NJ-PA",0.0,0.0,Morris,256698,112396,2,529000.0,29,3749.5,1,12,8,3.9,39.0
+1,Giant Farmers Market,350 Ramapo Valley Rd # 12,Oakland,7436,"Nw Yrk, NY-NJ-PA",0.0,0.0,Bergen,482038,100181,2,505000.0,8,7499.5,1,18,9,4.5,198.0
+1,Giant Farmers Market,19 Wyckoff Ave,Waldwick,7463,"Nw Yrk, NY-NJ-PA",0.0,0.0,Bergen,482038,100181,2,505000.0,3,750.0,0,11,16,4.4,319.0
+1,Glutenfree Grocer,701 N Black Horse Pike,Williamstown,8094,"Phl, PA-NJ-DE-MD",0.0,0.0,Gloucester,149747,81315,2,318000.0,6,3749.5,0,32,5,5.0,1.0
+1,Gokul Indian Supermarket,209 S New Rd,Absecon,8201,"Atlantic Cty, NJ",0.0,0.0,Atlantic,120728,60826,4,1058000.0,12,750.0,2,15,7,4.5,256.0
+1,Gold Valley Supermarket,211 Morris Ave,Springfield,7081,"Nw Yrk, NY-NJ-PA",0.0,0.0,Union,276382,80737,2,481000.0,6,3749.5,0,45,22,4.1,347.0
+1,Grasso Girls Farm Market,353 Wolfert Station Rd,Mullica Hill,8062,"Phl, PA-NJ-DE-MD",0.0,0.0,Gloucester,149747,81315,12,1903000.0,14,3749.5,3,14,1,4.5,103.0
+1,Great Foods Market,225 Kinderkamack Rd,Oradell,7649,"Nw Yrk, NY-NJ-PA",-0.749206349,0.0,Bergen,482038,100181,5,316000.0,23,750.0,2,9,19,4.4,23.0
+1,Green Nectar Juicery,358 Millburn Ave # E,Millburn,7041,"Nw Yrk, NY-NJ-PA",0.0,0.0,Essex,368748,62875,2,486000.0,8,3749.5,1,9,18,4.2,24.0
+1,Gsfm Corp,1824 Whitehorse Mercerville Rd,Mercerville,8619,"Trenton, NJ",0.0,0.0,Mercer,202885,79979,3,704000.0,5,750.0,0,30,13,4.5,59.0
+1,Haledon CITGO,351 Haledon Ave,Haledon,7508,"Nw Yrk, NY-NJ-PA",0.0,0.0,Passaic,242208,71959,3,361000.0,28,750.0,2,35,17,3.8,40.0
+1,Harvest Moon Health,22 Marshall Hill Rd,West Milford,7480,"Nw Yrk, NY-NJ-PA",0.0,0.0,Passaic,242208,71959,2,416000.0,24,1999.5,1,10,1,5.0,10.0
+1,Hawthorne Convenience Store,413 Lafayette Ave,Hawthorne,7506,"Nw Yrk, NY-NJ-PA",0.0,0.0,Passaic,242208,71959,2,416000.0,4,1999.5,0,13,18,4.7,3.0
+1,Healthway Natural Food Ctr,35 Riveredge Rd # B,Tenafly,7670,"Nw Yrk, NY-NJ-PA",0.0,0.0,Bergen,482038,100181,2,239000.0,36,750.0,1,10,19,4.9,18.0
+0,High Bridge Farmers Mkt & Groc,20 Main St,High Bridge,8829,"Nw Yrk, NY-NJ-PA",0.0,0.0,Hunterdon,64523,112335,5,1124000.0,4,1999.5,1,4,1,3.0,4.0
+1,Hind Hing,702 Chancellor Ave,Irvington,7111,"Nw Yrk, NY-NJ-PA",0.0,0.0,Essex,368748,62875,2,486000.0,14,1999.5,1,220,26,5.0,7.0
+1,Honeytree,331 Tilton Rd # 26,Northfield,8225,"Atlantic Cty, NJ",0.0,0.0,Atlantic,120728,60826,5,524000.0,37,7499.5,2,10,10,4.6,27.0
+1,Honeytree,331 Tilton Rd # 26,Northfield,8225,"Atlantic Cty, NJ",0.0,0.0,Atlantic,120728,60826,5,524000.0,37,7499.5,2,10,10,4.6,27.0
+1,I Castillo Grocery Corp,60 Congress St,Jersey City,7307,"Nw Yrk, NY-NJ-PA",0.0,0.0,Hudson,361189,73337,2,461000.0,7,750.0,0,110,49,4.5,17.0
+1,Ilayda Market Place,744 Anderson Ave,Cliffside Park,7010,"Nw Yrk, NY-NJ-PA",0.0,0.0,Bergen,482038,100181,5,316000.0,6,750.0,0,30,56,4.4,157.0
+0,Inserra Inc,583 Avenue C,Bayonne,7002,"Nw Yrk, NY-NJ-PA",0.0,0.0,Hudson,361189,73337,2,461000.0,6,1999.5,0,106,18,4.4,20.0
+1,Island Breeze,676 Franklin Blvd,Somerset,8873,"Nw Yrk, NY-NJ-PA",0.0,0.0,Somerset,171371,119731,5,308000.0,15,1999.5,2,81,10,4.0,177.0
+1,J E Mini Market Corp,1901 River Ave,Camden,8105,"Phl, PA-NJ-DE-MD",0.0,0.0,Camden,253053,67135,2,443000.0,6,750.0,0,69,29,5.0,1.0
+1,Jamesburg Deli & Grocery,155 Gatzmer Ave,Jamesburg,8831,"Nw Yrk, NY-NJ-PA",0.0,0.0,Middlesex,439073,87666,3,687000.0,22,1999.5,2,36,2,3.9,14.0
+1,J E Mini Market Corp,1901 River Ave,Camden,8105,"Phl, PA-NJ-DE-MD",0.0,0.0,Camden,253053,67135,2,443000.0,6,750.0,0,69,29,5.0,1.0
+1,Jarochos Food Mart,3 N Burlington Rd,Bridgeton,8302,"Vineland, NJ",0.0,0.0,Cumberland,65061,51790,2,478000.0,8,1999.5,1,71,2,5.0,1.0
+1,Jason Liquors,764 Chancellor Ave,Irvington,7111,"Nw Yrk, NY-NJ-PA",0.0,0.0,Essex,368748,62875,2,644000.0,34,750.0,2,220,26,4.2,6.0
+1,Jenny's Supermarket,421 S Delsea Dr,Vineland,8360,"Vineland, NJ",0.0,0.0,Cumberland,65061,51790,3,716000.0,10,750.0,1,92,8,5.0,4.0
+1,Jersey Farms,1820 Lanes Mill Rd # A,Brick,8724,"Nw Yrk, NY-NJ-PA",0.0,0.0,Ocean,275023,68483,16,4137000.0,13,14999.5,3,30,9,4.1,67.0
+1,Jersey Farms,2540 Hooper Ave,Brick,8723,"Nw Yrk, NY-NJ-PA",0.0,0.0,Ocean,275023,68483,10,2586000.0,33,7499.5,3,49,6,4.7,35.0
+1,Jersey Pride Convenience Store,642 Newman Springs Rd # J,Lincroft,7738,"Nw Yrk, NY-NJ-PA",0.0,0.0,Monmouth,328661,99223,2,458000.0,27,1999.5,1,7,9,5.0,6.0
+1,Josal Ingredients,48 Decker Rd,Butler,7405,"Nw Yrk, NY-NJ-PA",0.0,0.0,Morris,256698,112396,3,793000.0,7,1999.5,1,15,3,5.0,2.0
+0,Joseph Centanni,249 W Jersey St,Elizabeth,7202,"Nw Yrk, NY-NJ-PA",0.0,0.0,Union,276382,80737,4,805000.0,9,1999.5,3,67,28,2.0,2.0
+1,Jr Supermarket,915 W Front St,Plainfield,7063,"Nw Yrk, NY-NJ-PA",0.0,0.0,Union,276382,80737,2,481000.0,8,1999.5,1,17,16,4.8,4.0
+1,JSK Food Market Corp,193 Monroe St,Passaic,7055,"Nw Yrk, NY-NJ-PA",0.0,0.0,Passaic,242208,71959,2,416000.0,14,1999.5,1,250,29,4.3,59.0
+1,Kabayan Filipino Oriental Str,1421 Stuyvesant Ave # D,Union,7083,"Nw Yrk, NY-NJ-PA",0.0,0.0,Union,276382,80737,2,481000.0,25,1999.5,1,71,29,4.6,80.0
+1,Kam Man Foods Inc,200 State Route 10 # 10,East Hanover,7936,"Nw Yrk, NY-NJ-PA",0.0,0.0,Morris,256698,112396,40,4410000.0,21,69999.5,3,22,10,4.2,518.0
+1,Kings Super Markets,265 Pompton Ave,Verona,7044,"Nw Yrk, NY-NJ-PA",0.0,0.0,Essex,368748,62875,2,486000.0,8,3749.5,1,10,16,4.2,277.0
+1,Klae Construction Inc,1 Tidland Rd,Oak Ridge,7438,"Nw Yrk, NY-NJ-PA",0.0,0.0,Passaic,242208,71959,18,6435000.0,37,3749.5,3,7,1,3.8,4.0
+1,Krishna General Store,535 E 2nd Ave # 1,Roselle,7203,"Nw Yrk, NY-NJ-PA",0.0,0.0,Union,276382,80737,2,130000.0,37,750.0,0,43,32,3.8,4.0
+1,LA China Poblana,116 Shrewsbury Ave,Red Bank,7701,"Nw Yrk, NY-NJ-PA",0.0,0.0,Monmouth,328661,99223,3,687000.0,10,1999.5,1,47,12,3.7,17.0
+1,LA Mixtequita,123 E Commerce St,Bridgeton,8302,"Vineland, NJ",0.0,0.0,Cumberland,65061,51790,3,395000.0,22,750.0,2,71,2,4.4,55.0
+1,LA Placita Grocery Store,541 Monroe Ave,Elizabeth,7201,"Nw Yrk, NY-NJ-PA",0.0,0.0,Union,276382,80737,1,241000.0,27,750.0,1,122,25,4.4,32.0
+1,Larry's Cold Cuts,418 Black Horse Pike,Glendora,8029,"Phl, PA-NJ-DE-MD",0.0,0.0,Camden,253053,67135,2,443000.0,37,750.0,1,4,23,4.7,145.0
+1,Lasolas Market,3591 Route 35 N,Lavallette,8735,"Nw Yrk, NY-NJ-PA",0.0,0.0,Ocean,275023,68483,30,1584000.0,37,14999.5,4,6,4,4.2,171.0
+1,Lebanon Boro General Store Inc,83 Main St,Lebanon,8833,"Nw Yrk, NY-NJ-PA",0.0,0.0,Hunterdon,64523,112335,2,450000.0,17,750.0,1,7,1,4.7,102.0
+1,Linares Grocery LLC,162 Monmouth St,Red Bank,7701,"Nw Yrk, NY-NJ-PA",0.0,0.0,Monmouth,328661,99223,3,687000.0,10,750.0,1,47,12,4.2,88.0
+0,Los Tocayos Mini Market,343 Avon Ave,Newark,7108,"Nw Yrk, NY-NJ-PA",0.0,0.0,Essex,368748,62875,2,486000.0,25,1999.5,1,95,20,5.0,1.0
+1,Made In Ecuador LLC,4004 Bergenline Ave,Union City,7087,"Nw Yrk, NY-NJ-PA",0.0,0.0,Hudson,361189,73337,1,231000.0,21,750.0,0,210,55,4.6,74.0
+1,Main Line Deli,606 Shiloh Pike,Bridgeton,8302,"Vineland, NJ",0.0,0.0,Cumberland,65061,51790,1,239000.0,17,1999.5,0,71,2,4.7,20.0
+1,Market Gourmet,1 Market St # 1a,Camden,8102,"Phl, PA-NJ-DE-MD",0.0,0.0,Camden,253053,67135,2,2596000.0,3,7499.5,0,42,28,4.6,22.0
+1,Market Place,800 Canistear Rd,Highland Lakes,7422,"Nw Yrk, NY-NJ-PA",0.0,0.0,Sussex,73963,92284,11,2732000.0,16,3749.5,3,1,1,4.4,118.0
+1,Marmolejos Deli & Grocery,475 Penn St,Perth Amboy,8861,"Nw Yrk, NY-NJ-PA",0.0,0.0,Middlesex,439073,87666,2,458000.0,14,1999.5,1,98,12,4.3,34.0
+1,Martino's Grocery,107 Lodi St,Hackensack,7601,"Nw Yrk, NY-NJ-PA",0.0,0.0,Bergen,482038,100181,2,505000.0,37,750.0,1,79,23,4.8,61.0
+1,Mc Kinley Convenience LLC,100 Mckinley Ave # 4,Manahawkin,8050,"Nw Yrk, NY-NJ-PA",0.0,0.0,Ocean,275023,68483,1,259000.0,10,1999.5,0,32,6,5.0,5.0
+1,Mcgowan's Food Mkt Deli & Grll,3900 Landis Ave,Sea Isle City,8243,"Ocean City, NJ",0.0,0.0,Cape May,45947,62175,2,817000.0,8,750.0,1,7,4,4.6,64.0
+1,Meadowbrook Food Ctr,3012 Union Ave,Pennsauken,8109,"Phl, PA-NJ-DE-MD",0.0,0.0,Camden,253053,67135,14,3101000.0,37,3749.5,3,30,28,4.7,270.0
+1,Mediterranean Gourmet,490 Main St,Fort Lee,7024,"Nw Yrk, NY-NJ-PA",0.0,0.0,Bergen,482038,100181,1,253000.0,32,1999.5,1,44,40,4.9,52.0
+1,Metro Foods Market,2 Thoreau Dr,Freehold,7728,"Nw Yrk, NY-NJ-PA",0.0,0.0,Monmouth,328661,99223,2,458000.0,22,1999.5,1,86,10,5.0,4.0
+0,Mi Pequeno Rincon De Mexico,4308 New York Ave,Union City,7087,"Nw Yrk, NY-NJ-PA",0.0,0.0,Hudson,361189,73337,1,55000.0,15,750.0,0,210,55,4.4,20.0
+1,Mid East Market,1681 Princeton Ave,Lawrence Township,8648,"Trenton, NJ",0.0,0.0,Mercer,202885,79979,3,704000.0,17,1999.5,2,38,10,4.7,11.0
+1,Mini Mart,34 Ridgedale Ave # B,East Hanover,7936,"Nw Yrk, NY-NJ-PA",0.0,0.0,Morris,256698,112396,2,529000.0,23,1999.5,1,22,10,5.0,1.0
+1,Mini Mart Food Store,786 Bloomfield Ave,Clifton,7012,"Nw Yrk, NY-NJ-PA",0.0,0.0,Passaic,242208,71959,2,416000.0,13,1999.5,1,12,27,4.8,12.0
+1,Minit Stop Food Store,440 Chandler Rd # 1,Jackson,8527,"Nw Yrk, NY-NJ-PA",0.0,0.0,Ocean,275023,68483,4,1293000.0,37,3749.5,2,51,6,4.6,196.0
+1,Mossuto's Market,2029 State Route 35 # 4,Wall Township,7719,"Nw Yrk, NY-NJ-PA",0.0,0.0,Monmouth,328661,99223,12,2748000.0,33,3749.5,3,35,12,4.4,209.0
+1,Mr Ts Jackson Deli,81 Cassville Rd,Jackson,8527,"Nw Yrk, NY-NJ-PA",0.0,0.0,Ocean,275023,68483,2,518000.0,12,1999.5,1,51,6,4.5,13.0
+1,Nachos Mini Market,466 N Pearl St,Bridgeton,8302,"Vineland, NJ",0.0,0.0,Cumberland,65061,51790,1,239000.0,15,1999.5,0,71,2,4.1,29.0
+1,Nature's Corner Natrl Mkt Str,2407 State Route 71 # 3,Spring Lake,7762,"Nw Yrk, NY-NJ-PA",0.0,0.0,Monmouth,328661,99223,30,3672000.0,25,29999.5,3,5,9,4.7,40.0
+1,Nealtican Grocery,120 E 2nd Ave,Roselle,7203,"Nw Yrk, NY-NJ-PA",0.0,0.0,Union,276382,80737,2,481000.0,11,1999.5,1,43,32,4.9,8.0
+1,Neptune Market,8014 Long Beach Blvd,Harvey Cedars,8008,"Nw Yrk, NY-NJ-PA",0.0,0.0,Ocean,275023,68483,3,776000.0,11,750.0,1,20,1,4.7,166.0
+1,New City Food Market,15 W Main St,Freehold,7728,"Nw Yrk, NY-NJ-PA",0.0,0.0,Monmouth,328661,99223,5,1145000.0,12,3749.5,2,86,10,4.1,69.0
+1,Noypai Phillipino Asian Store,231 Wanaque Ave,Pompton Lakes,7442,"Nw Yrk, NY-NJ-PA",0.0,0.0,Passaic,242208,71959,1,208000.0,13,750.0,0,9,9,4.5,29.0
+1,Nutrition Zone LLC,Ginsberg Trailer Park 350 #105,Rockaway,7866,"Nw Yrk, NY-NJ-PA",0.0,0.0,Morris,256698,112396,2,138000.0,3,750.0,0,15,9,4.6,18.0
+1,Ny Poultry Co,3351 Tremley Point Rd,Linden,7036,"Nw Yrk, NY-NJ-PA",0.0,0.0,Union,276382,80737,15,3601000.0,16,3749.5,3,94,28,3.0,2.0
+1,Nyamekye African Market,653 Hamilton St,Somerset,8873,"Nw Yrk, NY-NJ-PA",0.0,0.0,Somerset,171371,119731,2,459000.0,6,1999.5,0,81,10,4.3,29.0
+1,Ocean Gate Market,216 Ocean Gate Ave,Ocean Gate,8740,"Nw Yrk, NY-NJ-PA",0.0,0.0,Ocean,275023,68483,2,518000.0,14,1999.5,1,1,6,4.3,106.0
+1,One Stop Quick Lube,170 Route 37 E,Toms River,8753,"Nw Yrk, NY-NJ-PA",0.0,0.0,Ocean,275023,68483,5,932000.0,17,750.0,3,79,8,4.8,126.0
+0,Organico,475 N Franklin Tpke,Ramsey,7446,"Nw Yrk, NY-NJ-PA",0.0,0.0,Bergen,482038,100181,9,1075000.0,17,1999.5,2,25,10,4.4,29.0
+1,Original Tropical,29 Dodd St # A,Bloomfield,7003,"Nw Yrk, NY-NJ-PA",0.0,0.0,Essex,368748,62875,3,728000.0,18,750.0,2,78,25,4.2,31.0
+1,Panda Food Mart,230 Mountain Ave # 1,Middlesex,8846,"Nw Yrk, NY-NJ-PA",0.0,0.0,Middlesex,439073,87666,2,458000.0,9,1999.5,1,22,14,4.3,28.0
+1,Pantry Farm Food Store,2085 Route 88,Brick,8724,"Nw Yrk, NY-NJ-PA",0.0,0.0,Ocean,275023,68483,1,259000.0,6,750.0,0,30,9,4.4,13.0
+1,Paramount Foods LLC,343 Somerset St,Stirling,7980,"Nw Yrk, NY-NJ-PA",0.0,0.0,Morris,256698,112396,3,793000.0,6,1999.5,1,14,10,1.0,1.0
+1,Paramus Food Ctr,548 Paramus Rd,Paramus,7652,"Nw Yrk, NY-NJ-PA",0.0,0.0,Bergen,482038,100181,2,505000.0,37,750.0,1,35,22,4.0,15.0
+1,Park Ave Mini Mart,180 Park Ave # A,Paterson,7501,"Nw Yrk, NY-NJ-PA",0.0,0.0,Passaic,242208,71959,2,416000.0,13,750.0,1,180,20,4.8,4.0
+1,Pastosa Ravioli,346 Union Hill Rd,Manalapan,7726,"Nw Yrk, NY-NJ-PA",0.0,0.0,Monmouth,328661,99223,20,4580000.0,13,14999.5,3,45,11,4.8,152.0
+1,Patidar Cash Carry,128 Durham Ave,South Plainfield,7080,"Nw Yrk, NY-NJ-PA",0.0,0.0,Middlesex,439073,87666,6,1374000.0,14,1999.5,2,49,24,3.9,436.0
+1,Patidar Supermarket,761 Route 33 W,East Windsor,8520,"Trenton, NJ",0.0,0.0,Mercer,202885,79979,8,1876000.0,10,3749.5,2,30,4,4.3,677.0
+1,Pequannock Deli,383 Newark Pompton Tunrkpike,Pompton Plains,7444,"Nw Yrk, NY-NJ-PA",0.0,0.0,Morris,256698,112396,6,379000.0,3,1999.5,0,10,6,4.5,116.0
+1,Petro Bordentown,402 Rising Sun Rd,Bordentown,8505,"Phl, PA-NJ-DE-MD",0.0,0.0,Burlington,230589,84470,3,2884000.0,4,1999.5,0,32,8,3.8,1783.0
+1,Prime Food Market,449 Herbertsville Rd,Brick,8724,"Nw Yrk, NY-NJ-PA",0.0,0.0,Ocean,275023,68483,5,892000.0,12,1999.5,2,30,9,4.5,266.0
+1,Quick Check Food Store,2 Brooks Blvd,Manville,8835,"Nw Yrk, NY-NJ-PA",0.0,0.0,Somerset,171371,119731,2,459000.0,9,750.0,1,17,9,2.9,18.0
+0,Quick Food Mart,648 W Grand Ave,Rahway,7065,"Nw Yrk, NY-NJ-PA",-0.134,0.0,Union,276382,80737,4,961000.0,11,750.0,2,50,25,4.4,20.0
+1,Quick Mart Food Stores,172 S Livingston Ave,Livingston,7039,"Nw Yrk, NY-NJ-PA",0.0,0.0,Essex,368748,62875,4,971000.0,14,750.0,2,24,12,4.2,6.0
+1,Quick Mart Pharmacy,100 Ryders Ln,Milltown,8850,"Nw Yrk, NY-NJ-PA",0.0,0.0,Middlesex,439073,87666,8,2662000.0,11,7499.5,2,13,13,4.3,11.0
+1,Quick Stop Food Stores,1665 Stelton Rd # A,Piscataway,8854,"Nw Yrk, NY-NJ-PA",0.0,0.0,Middlesex,439073,87666,2,458000.0,12,3749.5,1,41,17,4.1,23.0
+1,Quick Stop Wine & Liquor,83 Godwin Ave,Ridgewood,7450,"Nw Yrk, NY-NJ-PA",0.0,0.0,Bergen,482038,100181,2,757000.0,10,1999.5,1,14,14,4.7,54.0
+1,Quicks Convenience Food Store,2619 Woodbridge Ave,Edison,8817,"Nw Yrk, NY-NJ-PA",0.0,0.0,Middlesex,439073,87666,2,458000.0,9,750.0,1,82,22,4.1,9.0
+1,Quicks Convenience Food Store,2625 Woodbridge Ave,Edison,8817,"Nw Yrk, NY-NJ-PA",0.0,0.0,Middlesex,439073,87666,6,1374000.0,19,1999.5,2,82,22,4.1,9.0
+0,Qwik Stop,606 Midland Ave,Saddle Brook,7663,"Nw Yrk, NY-NJ-PA",0.0,0.0,Bergen,482038,100181,2,505000.0,22,750.0,1,34,23,4.4,20.0
+1,Rainforest Dist,20 Pulaski St,Bayonne,7002,"Nw Yrk, NY-NJ-PA",0.0,0.0,Hudson,361189,73337,2,461000.0,5,1999.5,0,106,18,3.6,23.0
+1,Ramz Oriental Store,30 N Washington Ave,Bergenfield,7621,"Nw Yrk, NY-NJ-PA",0.0,0.0,Bergen,482038,100181,3,564000.0,13,750.0,1,27,20,4.7,16.0
+1,Randy's Auto Repair Inc,11 Crescent Ave,Waldwick,7463,"Nw Yrk, NY-NJ-PA",0.0,0.0,Bergen,482038,100181,4,5191000.0,23,750.0,2,11,16,4.8,16.0
+1,Ravi West Indian Grocery,202 Clinton Ave,Plainfield,7063,"Nw Yrk, NY-NJ-PA",0.0,0.0,Union,276382,80737,2,481000.0,14,1999.5,1,17,16,4.2,47.0
+1,Raymond Deli Grocery,130 S Cook Ave,Trenton,8609,"Trenton, NJ",0.0,0.0,Mercer,202885,79979,2,469000.0,11,750.0,1,39,8,4.0,32.0
+1,Red Top Farm Market,1801 Route 70,Southampton,8088,"Phl, PA-NJ-DE-MD",0.0,0.0,Burlington,230589,84470,2,473000.0,20,750.0,1,12,0,4.6,191.0
+1,Rinconcito Copaneco,15 Jordan Ave,Jersey City,7306,"Nw Yrk, NY-NJ-PA",0.0,0.0,Hudson,361189,73337,2,461000.0,13,1999.5,1,200,39,4.5,254.0
+1,Ringoes Country Deli,1080 Old York Rd,Ringoes,8551,"Nw Yrk, NY-NJ-PA",0.0,0.0,Hunterdon,64523,112335,2,116000.0,17,750.0,0,11,3,3.7,44.0
+1,Red Top Farm Market,1801 Route 70,Southampton,8088,"Phl, PA-NJ-DE-MD",0.0,0.0,Burlington,230589,84470,2,473000.0,20,750.0,1,12,0,4.6,191.0
+1,Rosario Deli Grocery,490 Avon Ave,Newark,7108,"Nw Yrk, NY-NJ-PA",0.0,0.0,Essex,368748,62875,3,728000.0,23,1999.5,2,95,20,5.0,2.0
+1,Rosario's Convenience Store,178 E 33rd St,Paterson,7504,"Nw Yrk, NY-NJ-PA",0.0,0.0,Passaic,242208,71959,2,416000.0,15,750.0,1,21,23,3.0,2.0
+1,Sanford Mini Market,159 Sanford St,East Orange,7018,"Nw Yrk, NY-NJ-PA",0.0,0.0,Essex,368748,62875,5,1214000.0,21,1999.5,3,92,15,4.8,10.0
+1,Santamaria Grocery Co,136 Main St,Matawan,7747,"Nw Yrk, NY-NJ-PA",0.0,0.0,Monmouth,328661,99223,3,687000.0,9,750.0,1,46,12,4.6,13.0
+1,Sara's Produce,679 Haddon Ave # 1,Collingswood,8108,"Phl, PA-NJ-DE-MD",0.0,0.0,Camden,253053,67135,1,222000.0,12,750.0,0,17,21,4.8,31.0
+1,Seabra Foods,123 Ferry St,Newark,7105,"Nw Yrk, NY-NJ-PA",0.0,0.0,Essex,368748,62875,2,486000.0,11,1999.5,1,106,19,4.0,8.0
+1,Secaucas Food Mart,40 Meadowlands Pkwy,Secaucus,7094,"Nw Yrk, NY-NJ-PA",0.44782608700000004,0.0,Hudson,361189,73337,10,3331000.0,8,750.0,4,34,43,3.9,403.0
+1,Shahi Food,61 N Beverwyck Rd,Lake Hiawatha,7034,"Nw Yrk, NY-NJ-PA",0.0,0.0,Morris,256698,112396,3,793000.0,18,1999.5,2,12,8,3.8,88.0
+1,Shop Rite,127 Ark Rd # 24,Mount Laurel,8054,"Phl, PA-NJ-DE-MD",0.0,0.0,Burlington,230589,84470,3,5480000.0,4,1999.5,2,41,15,4.1,1114.0
+1,SHOPPERS,155 Roseland Ave # 2,Caldwell,7006,"Nw Yrk, NY-NJ-PA",0.0,0.0,Essex,368748,62875,3,728000.0,30,3749.5,2,18,11,4.6,5.0
+1,Skyler's Hoagie,1200 S Church St,Mount Laurel,8054,"Phl, PA-NJ-DE-MD",0.0,0.0,Burlington,230589,84470,5,268000.0,8,7499.5,1,41,15,4.7,112.0
+1,Speedy Mart,248 Espanong Rd,Lake Hopatcong,7849,"Nw Yrk, NY-NJ-PA",0.0,0.0,Morris,256698,112396,1,265000.0,37,1999.5,1,6,4,3.0,1.0
+1,Speedy Mart Welsh Farms,17 Old York Rd,Bridgewater,8807,"Nw Yrk, NY-NJ-PA",0.0,0.0,Somerset,171371,119731,1,230000.0,22,750.0,0,31,9,3.4,8.0
+1,St Francis Deli & Grocery,695 Chambers St,Trenton,8611,"Trenton, NJ",0.0,0.0,Mercer,202885,79979,3,704000.0,9,1999.5,1,78,8,4.2,10.0
+1,Star Big Bazaar,4110 Quakerbridge Rd,Lawrenceville,8648,"Trenton, NJ",0.0,0.0,Mercer,202885,79979,4,938000.0,7,1999.5,2,38,10,4.1,683.0
+1,Stop One,995 Bergen St,Newark,7112,"Nw Yrk, NY-NJ-PA",0.0,0.0,Essex,368748,62875,2,486000.0,9,750.0,1,80,24,4.5,2.0
+1,Summit Grocery,2714 Summit Ave # 1,Union City,7087,"Nw Yrk, NY-NJ-PA",0.0,0.0,Hudson,361189,73337,2,461000.0,23,750.0,1,210,55,4.4,9.0
+1,Sun Gate Mini Mart,427 Prospect St,Long Branch,7740,"Nw Yrk, NY-NJ-PA",0.0,0.0,Monmouth,328661,99223,2,458000.0,27,750.0,1,42,7,3.3,9.0
+1,Sunrise Dairy & Deli,195 Main St,Hackettstown,7840,"Allen-Bth-Est,PA",0.0,0.0,Warren,56060,77571,2,469000.0,16,750.0,1,37,4,3.7,11.0
+1,Super 7 Deli,2325 Spruce St,Trenton,8638,"Trenton, NJ",0.253112033,0.25,Mercer,202885,79979,5,302000.0,16,1999.5,2,43,6,4.3,31.0
+1,Super Supermarket,53 S Jefferson St,Orange,7050,"Nw Yrk, NY-NJ-PA",0.0,0.0,Essex,368748,62875,10,2427000.0,32,3749.5,3,92,16,3.9,523.0
+1,Sweet Green Food Market,2746 Hooper Ave,Brick,8723,"Nw Yrk, NY-NJ-PA",0.0,0.0,Ocean,275023,68483,2,518000.0,8,1999.5,1,49,6,4.6,79.0
+1,Tony's Deli,9 Frank E Rodgers Blvd N # A,Harrison,7029,"Nw Yrk, NY-NJ-PA",0.0,0.0,Hudson,361189,73337,2,922000.0,21,750.0,1,30,16,4.8,51.0
+1,Twin City Supermarket,1016 Sherman Ave,Elizabeth,7208,"Nw Yrk, NY-NJ-PA",0.0,0.0,Union,276382,80737,12,2881000.0,32,7499.5,3,47,25,4.2,1664.0
+1,Twinings North America Inc,777 Passaic Ave # 230,Clifton,7012,"Nw Yrk, NY-NJ-PA",0.0,0.0,Passaic,242208,71959,20,2792000.0,25,100000.0,3,12,27,3.6,10.0
+1,Uja Inc,285 Grove St,Jersey City,7302,"Nw Yrk, NY-NJ-PA",0.0,0.0,Hudson,361189,73337,2,461000.0,3,750.0,0,73,48,5.0,1.0
+1,Union City Cosmetic,4404 Bergenline Ave,Union City,7087,"Nw Yrk, NY-NJ-PA",0.0,0.0,Hudson,361189,73337,2,461000.0,12,750.0,1,210,55,4.1,9.0
+1,Valdez Supermarket,405 Watchung Ave,Plainfield,7060,"Nw Yrk, NY-NJ-PA",0.0,0.0,Union,276382,80737,2,481000.0,16,750.0,1,92,17,4.6,50.0
+1,Vega Grocery,349 Rosa Parks Blvd,Paterson,7501,"Nw Yrk, NY-NJ-PA",0.0,0.0,Passaic,242208,71959,3,623000.0,17,1999.5,2,180,20,4.3,22.0
+1,Villita Farm Market,3005 Atlantic Ave,Atlantic City,8401,"Atlantic Cty, NJ",0.0,0.0,Atlantic,120728,60826,3,462000.0,10,750.0,1,159,3,3.8,51.0
+1,Vingelinas,3338 US Highway 9,Freehold,7728,"Nw Yrk, NY-NJ-PA",0.0,0.0,Monmouth,328661,99223,10,2290000.0,6,29999.5,2,86,10,4.4,9.0
+1,Washington Mini-Mart,208 Watchung Ave,West Orange,7052,"Nw Yrk, NY-NJ-PA",0.0,0.0,Essex,368748,62875,2,486000.0,22,750.0,1,52,11,5.0,1.0
+1,WCRS Quick Mark & Subs,303 3rd St,Elizabeth,7206,"Nw Yrk, NY-NJ-PA",0.0,0.0,Union,276382,80737,2,481000.0,6,750.0,0,80,24,4.6,14.0
+1,Weaver's Farm Market,759 Garden Rd,Elmer,8318,"Phl, PA-NJ-DE-MD",0.0,0.0,Salem,29180,64524,7,428000.0,17,750.0,3,14,0,4.8,112.0
+1,Wilson Mini Mart,166 Wilson Ave # 3,Newark,7105,"Nw Yrk, NY-NJ-PA",0.0,0.0,Essex,368748,62875,2,486000.0,7,750.0,0,106,19,3.8,8.0
+1,WINZ Market,16 Laird St,Long Branch,7740,"Nw Yrk, NY-NJ-PA",0.0,0.0,Monmouth,328661,99223,3,687000.0,2,750.0,0,42,7,5.0,11.0
+1,Wolfson J Super Market,480 Boonton Tpke # 1,Lincoln Park,7035,"Nw Yrk, NY-NJ-PA",0.0,0.0,Morris,256698,112396,20,5283000.0,37,14999.5,4,6,4,4.5,169.0
+1,Woodbridge News Inc,250 Woodbridge Ctr # 1155,Woodbridge,7095,"Nw Yrk, NY-NJ-PA",0.0,0.0,Middlesex,439073,87666,2,458000.0,14,7499.5,1,39,16,4.4,9.0
+1,Xpress Mart,107 Egg Harbor Rd,Sewell,8080,"Phl, PA-NJ-DE-MD",0.0,0.0,Gloucester,149747,81315,2,318000.0,6,1999.5,0,36,9,4.1,62.0
+0,Yogi Grocer Inc,1263 Broad St,Bloomfield,7003,"Nw Yrk, NY-NJ-PA",0.0,0.0,Essex,368748,62875,4,971000.0,17,750.0,2,78,25,2.7,3.0
+1,686 Grand Corp,686 Grand Ave,Ridgefield,7657,"Nw Yrk, NY-NJ-PA",0.0,0.0,Bergen,482038,100181,2,505000.0,9,3749.5,1,19,48,4.2,34.0
+0,JYO Deli Market Corp,319 W Hanover St,Trenton,8618,"Trenton, NJ",0.0,0.0,Mercer,202885,79979,2,469000.0,13,750.0,1,50,6,4.0,5.0
+1,Melo Deli Grocery,786 Summer Ave # A,Newark,7104,"Nw Yrk, NY-NJ-PA",0.0,0.0,Essex,368748,62875,2,486000.0,20,1999.5,1,158,17,4.2,80.0
+1,Met Foodmarkets,514 Ferry St,Newark,7105,"Nw Yrk, NY-NJ-PA",0.0,0.0,Essex,368748,62875,12,2912000.0,20,3749.5,3,106,19,3.9,103.0
+1,Met Pinacle Super Market,6818 Bergenline Ave,Guttenberg,7093,"Nw Yrk, NY-NJ-PA",0.0,0.0,Hudson,361189,73337,20,4608000.0,37,14999.5,4,149,59,3.9,170.0
+1,Milltown Convenience,152 S Main St,Milltown,8850,"Nw Yrk, NY-NJ-PA",0.0,0.0,Middlesex,439073,87666,4,916000.0,28,750.0,2,13,13,3.3,7.0
+1,Minute Mart,3 Netcong Rd # 1,Budd Lake,7828,"Nw Yrk, NY-NJ-PA",0.0,0.0,Morris,256698,112396,1,265000.0,21,750.0,0,26,7,4.6,7.0
+1,Northern Kingdom LLC,320 W Branch Ave,Pine Hill,8021,"Phl, PA-NJ-DE-MD",0.0,0.0,Camden,253053,67135,1,168000.0,1,1999.5,1,54,16,3.2,88.0
+1,One Stop Shop,300 Parkville Station Rd,Mantua,8051,"Phl, PA-NJ-DE-MD",0.0,0.0,Gloucester,149747,81315,2,318000.0,22,750.0,1,6,9,1.0,1.0
+1,One Stop Shoppe,103 NE Atlantic Ave,Magnolia,8049,"Phl, PA-NJ-DE-MD",0.0,0.0,Camden,253053,67135,1,222000.0,27,1999.5,1,9,25,3.0,4.0
+1,Pantry 1 Food Market,4 Route 47 S,Cape May Court House,8210,"Ocean City, NJ",0.0,0.0,Cape May,45947,62175,4,2201000.0,16,750.0,2,18,2,4.6,27.0
+1,Paulino Grocery,471 Summer St,Paterson,7501,"Nw Yrk, NY-NJ-PA",0.0,0.0,Passaic,242208,71959,3,623000.0,16,750.0,2,180,20,4.0,4.0
+1,Quick Food Store,102 Berlin Rd N,Lindenwold,8021,"Phl, PA-NJ-DE-MD",0.0,0.0,Camden,253053,67135,2,443000.0,28,1999.5,1,54,16,4.6,7.0
+1,Quick Stop,1353 Ringwood Ave # D,Haskell,7420,"Nw Yrk, NY-NJ-PA",0.0,0.0,Passaic,242208,71959,1,208000.0,18,1999.5,0,9,7,3.7,6.0
+1,Race Star Inc,915 Port Reading Ave,Port Reading,7064,"Nw Yrk, NY-NJ-PA",0.0,0.0,Middlesex,439073,87666,2,458000.0,14,750.0,1,7,19,4.4,26.0
+1,Rockys Rod Shop,104 W Main St,High Bridge,8829,"Nw Yrk, NY-NJ-PA",0.0,0.0,Hunterdon,64523,112335,1,1010000.0,30,750.0,0,4,1,5.0,7.0
+1,Rosemary Supermarket,556 S 6th St,Camden,8103,"Phl, PA-NJ-DE-MD",0.0,0.0,Camden,253053,67135,2,443000.0,22,750.0,1,45,31,4.7,21.0
+1,Sarah's Tent Inc,100 Norwood Ave,Deal,7723,"Nw Yrk, NY-NJ-PA",0.0,0.0,Monmouth,328661,99223,3,368000.0,27,750.0,1,4,7,4.9,60.0
+1,Small Apple V Grocery,253 Broadway,Newark,7104,"Nw Yrk, NY-NJ-PA",0.0,0.0,Essex,368748,62875,2,486000.0,25,1999.5,1,158,17,4.0,27.0
+1,Stop-N-Go,176 Pulaski Ave,Sayreville,8872,"Nw Yrk, NY-NJ-PA",0.0,0.0,Middlesex,439073,87666,3,687000.0,23,750.0,2,14,12,4.2,11.0
+1,Sunrise Convenience Store,671 Kennedy Blvd,Bayonne,7002,"Nw Yrk, NY-NJ-PA",0.0,0.0,Hudson,361189,73337,2,461000.0,12,750.0,1,106,18,4.8,4.0
+1,21st Avenue Deli Grocery,306 21st Ave,Paterson,7501,"Nw Yrk, NY-NJ-PA",0.0,0.0,Passaic,242208,71959,2,110000.0,18,1999.5,0,180,20,5.0,3.0
+1,Al Madins Supermarket LLC,301 Preakness Ave,Paterson,7502,"Nw Yrk, NY-NJ-PA",0.0,0.0,Passaic,242208,71959,2,416000.0,4,1999.5,0,42,17,4.9,17.0
+1,Alexca Grocery Deli Inc,525 Elizabeth Ave,Newark,7112,"Nw Yrk, NY-NJ-PA",0.0,0.0,Essex,368748,62875,2,486000.0,16,1999.5,1,80,24,3.9,7.0
+1,Allamuchy General Store,86 Main St,Allamuchy,7820,"Allen-Bth-Est,PA",0.0,0.0,Warren,56060,77571,2,469000.0,10,750.0,1,2,1,4.6,231.0
+1,Ando Jersey City West Indian,760 W Side Ave # A,Jersey City,7306,"Nw Yrk, NY-NJ-PA",0.0,0.0,Hudson,361189,73337,2,461000.0,18,750.0,1,200,39,4.4,45.0
+1,Arias Mini Market,1177 Princess Ave # 1,Camden,8103,"Phl, PA-NJ-DE-MD",0.0,0.0,Camden,253053,67135,2,443000.0,21,750.0,1,45,31,4.0,9.0
+1,Bargain Man,130 Broad St # 1,Elizabeth,7201,"Nw Yrk, NY-NJ-PA",0.0,0.0,Union,276382,80737,18,3365000.0,27,7499.5,3,122,25,3.4,13.0
+1,Bautista Grocery,3703 Pacific Ave,Wildwood,8260,"Ocean City, NJ",0.0,0.0,Cape May,45947,62175,1,409000.0,19,750.0,0,40,7,3.1,14.0
+1,Checo Supermarket,210 Anderson Ave,Fairview,7022,"Nw Yrk, NY-NJ-PA",0.0,0.0,Bergen,482038,100181,2,505000.0,12,1999.5,1,34,55,4.4,30.0
+1,Clarissas Supermarket Inc,509 Martin Luther King Jr Dr,Jersey City,7304,"Nw Yrk, NY-NJ-PA",0.0,0.0,Hudson,361189,73337,3,692000.0,3,750.0,2,118,32,5.0,7.0
+1,Clark Commons LLC,1255 Raritan Rd,Clark,7066,"Nw Yrk, NY-NJ-PA",0.0,0.0,Union,276382,80737,4,283000.0,6,1999.5,1,18,23,4.5,1909.0
+1,Clearview Windows,284 N Clinton St,East Orange,7017,"Nw Yrk, NY-NJ-PA",0.0,0.0,Essex,368748,62875,6,1456000.0,12,3749.5,2,72,18,4.2,20.0
+1,Corner News,1200 Summit Ave # 1,Union City,7087,"Nw Yrk, NY-NJ-PA",0.0,0.0,Hudson,361189,73337,1,231000.0,12,1999.5,0,210,55,5.0,5.0
+1,Country Farms,500 Washington Ave # 1,Point Pleasant Beach,8742,"Nw Yrk, NY-NJ-PA",0.0,0.0,Ocean,275023,68483,1,259000.0,24,1999.5,0,39,8,4.2,5.0
+1,Deli Multiservice,334 Bloomfield Ave,Bloomfield,7003,"Nw Yrk, NY-NJ-PA",0.0,0.0,Essex,368748,62875,1,243000.0,17,750.0,0,78,25,4.2,5.0
+1,E Z Market,155 University Ave # 2,Newark,7102,"Nw Yrk, NY-NJ-PA",0.0,0.0,Essex,368748,62875,6,1456000.0,14,3749.5,2,74,17,3.6,22.0
+1,Englishtown Liquors-Convience,4 Tennent Ave,Englishtown,7726,"Nw Yrk, NY-NJ-PA",0.0,0.0,Monmouth,328661,99223,4,1157000.0,37,750.0,3,45,11,4.4,67.0
+1,Family Supermarket,959 Liberty St,Trenton,8611,"Trenton, NJ",0.0,0.0,Mercer,202885,79979,2,469000.0,9,1999.5,1,78,8,4.4,122.0
+1,Five Corners,103 Westwood Ave,Westwood,7675,"Nw Yrk, NY-NJ-PA",0.0,0.0,Bergen,482038,100181,1,253000.0,12,1999.5,0,24,15,3.7,19.0
+1,Food Barn,24 County Rd 639,Sussex,7461,"Nw Yrk, NY-NJ-PA",0.0,0.0,Sussex,73963,92284,9,2235000.0,37,1999.5,3,15,1,4.5,55.0
+1,Food Mart,219 Riva Ave,Milltown,8850,"Nw Yrk, NY-NJ-PA",0.0,0.0,Middlesex,439073,87666,3,687000.0,27,1999.5,2,13,13,5.0,1.0
+1,Foodzon Corp,1538 Liberty Ave,Hillside,7205,"Nw Yrk, NY-NJ-PA",0.0,0.0,Union,276382,80737,2,327000.0,4,1999.5,0,39,27,4.3,20.0
+1,Four Seasons Thai Cuisine,1353 Stelton Rd,Piscataway,8854,"Nw Yrk, NY-NJ-PA",0.0,0.0,Middlesex,439073,87666,5,1145000.0,31,3749.5,3,41,17,4.2,532.0
+1,Freddy's Corner,295 Mount Pleasant Ave,Woodland Park,7424,"Nw Yrk, NY-NJ-PA",0.0,0.0,Passaic,242208,71959,1,338000.0,17,750.0,1,48,19,3.3,16.0
+1,Four Seasons Thai Cuisine,1353 Stelton Rd,Piscataway,8854,"Nw Yrk, NY-NJ-PA",0.0,0.0,Middlesex,439073,87666,5,1145000.0,31,3749.5,3,41,17,4.2,532.0
+1,Grier Ave Supermarket,2117 Grier Ave,Linden,7036,"Nw Yrk, NY-NJ-PA",0.0,0.0,Union,276382,80737,2,481000.0,6,1999.5,0,94,28,4.1,8.0
+1,Hoboken Mini Mart,532 Washington St # A,Hoboken,7030,"Nw Yrk, NY-NJ-PA",0.0,0.0,Hudson,361189,73337,2,461000.0,15,1999.5,1,65,54,5.0,1.0
+1,Hummus Taza Mediterranean Mkt,6825 Tilton Rd # 3,Egg Harbor Township,8234,"Atlantic Cty, NJ",0.0,0.0,Atlantic,120728,60826,2,529000.0,3,3749.5,0,40,9,3.9,14.0
+1,Hummus Taza Mediterranean Mkt,6825 Tilton Rd # 3,Egg Harbor Township,8234,"Atlantic Cty, NJ",0.0,0.0,Atlantic,120728,60826,2,529000.0,3,3749.5,0,40,9,3.9,14.0
+1,Isacc Grocery Store LLC,128 Drs James Parker Blvd,Red Bank,7701,"Nw Yrk, NY-NJ-PA",0.0,0.0,Monmouth,328661,99223,3,687000.0,4,1999.5,0,47,12,3.9,15.0
+1,Judy Supermarket,293 Park Ave,East Orange,7017,"Nw Yrk, NY-NJ-PA",0.0,0.0,Essex,368748,62875,2,486000.0,35,750.0,1,72,18,4.5,19.0
+1,Juquila,106 Shrewsbury Ave,Red Bank,7701,"Nw Yrk, NY-NJ-PA",0.0,0.0,Monmouth,328661,99223,1,229000.0,13,1999.5,0,47,12,4.0,10.0
+1,Kapamilya Philippine Cuisine,4228 US Highway 9,Howell,7731,"Nw Yrk, NY-NJ-PA",0.0,0.0,Monmouth,328661,99223,2,114000.0,13,750.0,0,30,7,4.7,20.0
+1,Kings 99 Cents Officekings 99,351 21st Ave,Paterson,7501,"Nw Yrk, NY-NJ-PA",0.0,0.0,Passaic,242208,71959,4,907000.0,15,3749.5,2,180,20,4.5,21.0
+1,Korner Store Inc,14 Burnham Pkwy,Morristown,7960,"Nw Yrk, NY-NJ-PA",0.0,0.0,Morris,256698,112396,2,529000.0,7,1999.5,0,45,11,5.0,6.0
+1,LA Plaza,520 E Landis Ave,Vineland,8360,"Vineland, NJ",0.0,0.0,Cumberland,65061,51790,1,239000.0,23,750.0,0,92,8,5.0,1.0
+1,Livotis Old World Market,1077 State Route 34 # 34,Matawan,7747,"Nw Yrk, NY-NJ-PA",0.0,0.0,Monmouth,328661,99223,3,368000.0,11,7499.5,1,46,12,4.5,267.0
+1,Los Tiburones Supermarket,566 Bergen St,Newark,7108,"Nw Yrk, NY-NJ-PA",0.0,0.0,Essex,368748,62875,7,1699000.0,28,1999.5,3,95,20,3.8,56.0
+1,Maliks Mini Mart,621 Beverly Rancocas Rd # 1e,Willingboro,8046,"Phl, PA-NJ-DE-MD",0.0,0.0,Burlington,230589,84470,3,709000.0,28,1999.5,2,30,12,4.4,15.0
+1,Margarita Grocery,80 Haledon Ave # 1,Paterson,7522,"Nw Yrk, NY-NJ-PA",0.0,0.0,Passaic,242208,71959,1,208000.0,19,1999.5,0,59,18,4.2,28.0
+1,Masonville News & Food Store,241 Masonville Rd,Mount Laurel,8054,"Phl, PA-NJ-DE-MD",0.0,0.0,Burlington,230589,84470,1,237000.0,19,1999.5,0,41,15,5.0,1.0
+1,Megha Liquor & Grocery Inc,8 E Fort Lee Rd,Bogota,7603,"Nw Yrk, NY-NJ-PA",0.0,0.0,Bergen,482038,100181,1,253000.0,15,750.0,0,6,27,4.5,6.0
+1,Miss T's Two,264 1st St,Hackensack,7601,"Nw Yrk, NY-NJ-PA",0.0,0.0,Bergen,482038,100181,1,253000.0,15,1999.5,0,79,23,3.7,3.0
+1,Mo Bay Jamaican Restaurant,332 Smith St,Perth Amboy,8861,"Nw Yrk, NY-NJ-PA",0.0,0.0,Middlesex,439073,87666,2,120000.0,27,750.0,1,98,12,3.9,58.0
+1,Moca Liquor II,497 Broadway,Paterson,7514,"Nw Yrk, NY-NJ-PA",0.0,0.0,Passaic,242208,71959,5,1038000.0,27,3749.5,3,59,21,3.6,8.0
+1,News Plus,600 Mule Rd,Toms River,8757,"Nw Yrk, NY-NJ-PA",0.0,0.0,Ocean,275023,68483,2,518000.0,24,3749.5,1,10,6,5.0,1.0
+1,Old Nelson Food Co,404 S Warwick Rd,Somerdale,8083,"Phl, PA-NJ-DE-MD",0.0,0.0,Camden,253053,67135,6,1329000.0,14,1999.5,2,14,21,4.2,45.0
+1,Pantry 1 Food Mart,1400 Black Horse Pike,Hammonton,8037,"Atlantic Cty, NJ",0.0,0.0,Atlantic,120728,60826,5,1323000.0,14,3749.5,2,42,2,4.9,8.0
+0,Quick Food Stores,1721 Park Ave,South Plainfield,7080,"Nw Yrk, NY-NJ-PA",0.0,0.0,Middlesex,439073,87666,1,229000.0,27,750.0,1,49,24,1.0,1.0
+1,Quick Mart,250 Glenwood Ave # 3,Bloomfield,7003,"Nw Yrk, NY-NJ-PA",0.0,0.0,Essex,368748,62875,2,486000.0,22,3749.5,1,78,25,4.5,2.0
+1,Rumba Supermarket,404 S Broad St,Elizabeth,7202,"Nw Yrk, NY-NJ-PA",0.0,0.0,Union,276382,80737,4,238000.0,14,750.0,1,67,28,4.4,23.0
+1,Salem Grocery Inc,269 Grove St,Jersey City,7302,"Nw Yrk, NY-NJ-PA",0.0,0.0,Hudson,361189,73337,2,461000.0,29,1999.5,1,73,48,4.4,16.0
+1,Salerno Saluneria Grocer,453 Central Ave # A,Jersey City,7307,"Nw Yrk, NY-NJ-PA",0.0,0.0,Hudson,361189,73337,1,231000.0,37,750.0,1,110,49,4.7,27.0
+1,Santos Meat Market,79 Whitehead Ave # B,South River,8882,"Nw Yrk, NY-NJ-PA",0.0,0.0,Middlesex,439073,87666,2,458000.0,19,1999.5,1,22,12,5.0,1.0
+1,Speedy Mart,222 W Merchant St,Audubon,8106,"Phl, PA-NJ-DE-MD",0.0,0.0,Camden,253053,67135,3,665000.0,21,1999.5,2,7,27,4.6,11.0
+1,Speedy Mart,1830 Easton Ave,Somerset,8873,"Nw Yrk, NY-NJ-PA",0.0,0.0,Somerset,171371,119731,2,459000.0,9,3749.5,1,81,10,1.8,11.0
+1,Stop Buy Food Stores,613 Ridge Rd # 103,Monmouth Junction,8852,"Nw Yrk, NY-NJ-PA",0.0,0.0,Middlesex,439073,87666,2,458000.0,27,1999.5,1,21,8,4.0,9.0
+1,Subzi-Mandi,1518 Oak Tree Rd # B,Iselin,8830,"Nw Yrk, NY-NJ-PA",0.0,0.0,Middlesex,439073,87666,14,3205000.0,32,7499.5,3,37,21,4.1,1253.0
+1,Super Shop Food,190 W Passaic St,Rochelle Park,7662,"Nw Yrk, NY-NJ-PA",0.0,0.0,Bergen,482038,100181,2,505000.0,25,750.0,1,13,24,4.4,13.0
+1,Tamer Grocery LLC,181 Spring St,Elizabeth,7201,"Nw Yrk, NY-NJ-PA",0.0,0.0,Union,276382,80737,2,481000.0,10,1999.5,1,122,25,5.0,3.0
+1,Teaneck Quick Shop,725 Cedar Ln,Teaneck,7666,"Nw Yrk, NY-NJ-PA",0.0,0.0,Bergen,482038,100181,3,758000.0,14,750.0,1,33,23,3.9,61.0
+1,Tenafly Gourmet Farms Inc,15 Highwood Ave,Tenafly,7670,"Nw Yrk, NY-NJ-PA",0.0,0.0,Bergen,482038,100181,15,1773000.0,21,1999.5,3,10,19,4.3,161.0
+1,Tony's Mini Market,305 Park Ave,Paterson,7504,"Nw Yrk, NY-NJ-PA",0.0,0.0,Passaic,242208,71959,3,623000.0,22,750.0,2,21,23,4.7,6.0
+1,Towne Market,135 S Main St,Phillipsburg,8865,"Allen-Bth-Est,PA",0.0,0.0,Warren,56060,77571,4,937000.0,24,1999.5,2,46,5,4.1,48.0
+1,Welsh Farms,1 Schuyler Dr,Edison,8817,"Nw Yrk, NY-NJ-PA",0.0,0.0,Middlesex,439073,87666,2,458000.0,13,750.0,1,82,22,3.3,7.0
+1,Welsh Farms Food Store,92 Flock Rd,Trenton,8619,"Trenton, NJ",0.0,0.0,Mercer,202885,79979,2,469000.0,22,1999.5,1,30,13,4.2,5.0
+1,Welsh Farms Food Stores,715 River Rd,New Milford,7646,"Nw Yrk, NY-NJ-PA",0.0,0.0,Bergen,482038,100181,2,505000.0,23,750.0,1,10,20,3.0,3.0
+1,Fairway Market,1214 Anderson Ave,Fort Lee,7024,"Nw Yrk, NY-NJ-PA",0.0,0.0,Bergen,482038,100181,2,505000.0,13,1999.5,1,44,40,4.5,597.0
+1,Fairway Market,1214 Anderson Ave,Fort Lee,7024,"Nw Yrk, NY-NJ-PA",0.0,0.0,Bergen,482038,100181,2,505000.0,13,1999.5,1,44,40,4.5,597.0
+1,786 Food Store,321 State Route 15 N,Wharton,7885,"Nw Yrk, NY-NJ-PA",0.0,0.0,Morris,256698,112396,3,793000.0,10,3749.5,1,13,8,4.3,4.0
+1,88 West Deli & Grocery,1659 Route 88,Brick,8724,"Nw Yrk, NY-NJ-PA",0.0,0.0,Ocean,275023,68483,7,1810000.0,27,7499.5,3,30,9,3.3,13.0
+1,911 Quick Stop,600 Main St # C,East Orange,7018,"Nw Yrk, NY-NJ-PA",0.0,0.0,Essex,368748,62875,3,728000.0,9,1999.5,1,92,15,4.0,7.0
+1,A Seabra Foods,1350 Galloping Hill Rd # A,Union,7083,"Nw Yrk, NY-NJ-PA",0.0,0.0,Union,276382,80737,2,481000.0,10,3749.5,1,71,29,4.2,311.0
+1,Acoreana Grocery Store,237 2nd St,Elizabeth,7206,"Nw Yrk, NY-NJ-PA",0.0,0.0,Union,276382,80737,3,721000.0,37,1999.5,2,80,24,4.3,63.0
+1,Aldo Food Market,15 N Harrison St,East Orange,7017,"Nw Yrk, NY-NJ-PA",0.0,0.0,Essex,368748,62875,3,728000.0,12,1999.5,1,72,18,4.5,844.0
+1,Alexandra Food Ctr,441 Mount Prospect Ave,Newark,7104,"Nw Yrk, NY-NJ-PA",0.0,0.0,Essex,368748,62875,5,1214000.0,11,3749.5,2,158,17,4.2,36.0
+1,Alexis Mini Market,2600 Central Ave,Union City,7087,"Nw Yrk, NY-NJ-PA",0.0,0.0,Hudson,361189,73337,2,461000.0,11,1999.5,1,210,55,4.4,35.0
+1,Aliyah International Market,542 Orange St,Newark,7107,"Nw Yrk, NY-NJ-PA",0.0,0.0,Essex,368748,62875,1,243000.0,10,750.0,0,108,17,5.0,1.0
+1,Alsalm Market LLC,1651 Main Ave,Clifton,7011,"Nw Yrk, NY-NJ-PA",0.0,0.0,Passaic,242208,71959,2,416000.0,16,1999.5,1,77,29,4.9,18.0
+1,Amboy Deli Grocery,200 Sherman St,Perth Amboy,8861,"Nw Yrk, NY-NJ-PA",0.0,0.0,Middlesex,439073,87666,3,687000.0,17,750.0,2,98,12,3.9,14.0
+1,Amboy Food Liquor & News,101 N Broadway,South Amboy,8879,"Nw Yrk, NY-NJ-PA",0.0,0.0,Middlesex,439073,87666,6,1374000.0,29,3749.5,3,25,9,4.6,305.0
+1,Angel Mini Food Mart,3511 John F Kennedy Blvd,Jersey City,7307,"Nw Yrk, NY-NJ-PA",0.0,0.0,Hudson,361189,73337,2,461000.0,28,1999.5,1,110,49,4.3,14.0
+1,Anj Deli & Mini Market,917 Grand Ave,North Bergen,7047,"Nw Yrk, NY-NJ-PA",0.0,0.0,Hudson,361189,73337,2,461000.0,12,1999.5,1,99,55,3.6,8.0
+1,Anna's Market,136 Oakland Ave,Closter,7624,"Nw Yrk, NY-NJ-PA",0.0,0.0,Bergen,482038,100181,2,505000.0,2,750.0,0,11,13,3.9,97.0
+1,Annapurna Indian Grocery,561 Cedar Ln,Teaneck,7666,"Nw Yrk, NY-NJ-PA",0.0,0.0,Bergen,482038,100181,1,253000.0,14,750.0,0,33,23,3.6,194.0
+1,Apna Bazar,485 Georges Rd,Dayton,8810,"Nw Yrk, NY-NJ-PA",0.0,0.0,Middlesex,439073,87666,10,2290000.0,14,14999.5,3,12,8,3.3,179.0
+1,Asafo African Market,4 W Camden St,Hackensack,7601,"Nw Yrk, NY-NJ-PA",0.0,0.0,Bergen,482038,100181,1,253000.0,23,750.0,0,79,23,3.9,34.0
+1,Asian American Food Mart,23 Veterans Plz,Bergenfield,7621,"Nw Yrk, NY-NJ-PA",0.0,0.0,Bergen,482038,100181,2,505000.0,21,1999.5,1,27,20,4.7,24.0
+1,Asian Food Market,701 State Rt 440,Jersey City,7304,"Nw Yrk, NY-NJ-PA",0.0,0.0,Hudson,361189,73337,2,461000.0,8,7499.5,1,118,32,4.2,707.0
+1,Aster Market Commercial,10 Myrtle Ave,Wayne,7470,"Nw Yrk, NY-NJ-PA",0.0,0.0,Passaic,242208,71959,2,416000.0,19,1999.5,1,56,12,1.0,1.0
+1,Atco Food Co,669 Jackson Rd,Atco,8004,"Phl, PA-NJ-DE-MD",0.0,0.0,Camden,253053,67135,4,886000.0,2,750.0,0,9,3,4.1,74.0
+1,Athenia Food Mart,722 Van Houten Ave,Clifton,7013,"Nw Yrk, NY-NJ-PA",0.0,0.0,Passaic,242208,71959,3,623000.0,29,1999.5,2,12,27,3.7,3.0
+0,Bagelsmith,172 Perryville Rd,Hampton,8827,"Nw Yrk, NY-NJ-PA",0.0,0.0,Hunterdon,64523,112335,17,3819000.0,24,7499.5,3,5,2,4.4,294.0
+1,Benne's Tire & Auto Ctr,526 W Broad St,Paulsboro,8066,"Phl, PA-NJ-DE-MD",0.0,0.0,Gloucester,149747,81315,4,3952000.0,37,750.0,2,17,7,4.6,24.0
+1,Bergenline Supermarket Inc,8107 Bergenline Ave,North Bergen,7047,"Nw Yrk, NY-NJ-PA",0.0,0.0,Hudson,361189,73337,6,1383000.0,35,1999.5,3,99,55,4.2,289.0
+1,Bhavani Cash & Carry,392 US Highway 22,Green Brook,8812,"Nw Yrk, NY-NJ-PA",0.0,0.0,Somerset,171371,119731,3,1779000.0,11,1999.5,0,21,17,4.2,484.0
+1,Biedronka,1025 W Saint Georges Ave,Linden,7036,"Nw Yrk, NY-NJ-PA",0.0,0.0,Union,276382,80737,2,481000.0,8,3749.5,1,94,28,4.5,118.0
+1,Bk Fort Lee,1379 16th St,Fort Lee,7024,"Nw Yrk, NY-NJ-PA",0.0,0.0,Bergen,482038,100181,6,1515000.0,21,14999.5,3,44,40,3.9,445.0
+1,Bombolom Liquors Inc,192 E 16th St,Paterson,7524,"Nw Yrk, NY-NJ-PA",0.0,0.0,Passaic,242208,71959,2,676000.0,37,750.0,2,52,19,4.2,39.0
+1,Bongo African Grocery,9 S Tennessee Ave,Atlantic City,8401,"Atlantic Cty, NJ",0.0,0.0,Atlantic,120728,60826,2,529000.0,14,750.0,1,159,3,4.3,27.0
+1,Boulevard Food Store,520 Bergen Blvd,Palisades Park,7650,"Nw Yrk, NY-NJ-PA",0.0,0.0,Bergen,482038,100181,2,505000.0,18,1999.5,1,28,40,4.7,7.0
+1,Brooklawn Food Market,219 Browning Ln,Brooklawn,8030,"Phl, PA-NJ-DE-MD",0.0,0.0,Camden,253053,67135,2,443000.0,14,750.0,1,15,27,4.4,45.0
+1,Brother's Supermarket,361 Market St,Perth Amboy,8861,"Nw Yrk, NY-NJ-PA",0.0,0.0,Middlesex,439073,87666,2,458000.0,24,1999.5,1,98,12,4.1,9.0
+1,Brothers Grocery,425 Orange St # 1,Newark,7107,"Nw Yrk, NY-NJ-PA",0.0,0.0,Essex,368748,62875,2,486000.0,37,1999.5,1,108,17,3.7,6.0
+1,Browning Street Store,1301 Browning St,Camden,8104,"Phl, PA-NJ-DE-MD",0.0,0.0,Camden,253053,67135,2,443000.0,28,750.0,1,59,29,4.0,2.0
+1,Bubushka's Deli,491 S Livingston Ave,Livingston,7039,"Nw Yrk, NY-NJ-PA",0.0,0.0,Essex,368748,62875,4,971000.0,11,750.0,2,24,12,4.4,71.0
+1,Busy Bee Foods,86 Mill St,Newton,7860,"Nw Yrk, NY-NJ-PA",0.0,0.0,Sussex,73963,92284,5,1242000.0,26,3749.5,3,28,3,4.5,6.0
+1,C P's,210 Main Ave,Clifton,7014,"Nw Yrk, NY-NJ-PA",0.0,0.0,Passaic,242208,71959,4,831000.0,22,750.0,2,11,27,3.4,7.0
+1,Caprince Variety Market,1287 Martin Luther King Jr Blv,Trenton,8638,"Trenton, NJ",0.0,0.0,Mercer,202885,79979,2,352000.0,11,750.0,1,43,6,5.0,6.0
+1,Carmillo Mini Market,486 Union Ave # A,Paterson,7522,"Nw Yrk, NY-NJ-PA",0.0,0.0,Passaic,242208,71959,2,416000.0,12,1999.5,1,59,18,5.0,3.0
+1,Cedar Bridge Mini Mart,317 Cedarbridge Ave,Lakewood,8701,"Nw Yrk, NY-NJ-PA",0.0,0.0,Ocean,275023,68483,2,518000.0,17,750.0,1,84,10,3.7,3.0
+1,Center Convenience Food,301 Center Ave # 5,Westwood,7675,"Nw Yrk, NY-NJ-PA",0.0,0.0,Bergen,482038,100181,3,758000.0,21,1999.5,2,24,15,3.0,4.0
+1,Central Avenue Convienence,324 Central Ave,Jersey City,7307,"Nw Yrk, NY-NJ-PA",0.0,0.0,Hudson,361189,73337,3,692000.0,6,750.0,1,110,49,2.4,9.0
+1,Central Food Market-Camden,454 Royden St,Camden,8103,"Phl, PA-NJ-DE-MD",0.0,0.0,Camden,253053,67135,2,443000.0,14,750.0,1,45,31,4.3,10.0
+1,Cheap Food Market,424 Avon Ave,Newark,7108,"Nw Yrk, NY-NJ-PA",0.0,0.0,Essex,368748,62875,2,486000.0,15,1999.5,1,95,20,4.0,26.0
+1,Chen's Harrison Supermarket,735 Harrison Ave,Harrison,7029,"Nw Yrk, NY-NJ-PA",0.0,0.0,Hudson,361189,73337,2,461000.0,7,1999.5,0,30,16,4.3,169.0
+1,Choice Food Store,182 State Route 35,Keyport,7735,"Nw Yrk, NY-NJ-PA",0.0,0.0,Middlesex,439073,87666,2,458000.0,25,1999.5,1,31,11,4.7,9.0
+1,Cholula Deli & Grocery,128 Chestnut St,Roselle Park,7204,"Nw Yrk, NY-NJ-PA",0.0,0.0,Union,276382,80737,2,481000.0,10,1999.5,1,22,31,3.9,165.0
+1,Clark Lunch Box,1074 Raritan Rd,Clark,7066,"Nw Yrk, NY-NJ-PA",0.0,0.0,Union,276382,80737,2,481000.0,24,750.0,1,18,23,4.5,29.0
+1,Cliffside Park Marketplace Inc,744 Anderson Ave,Cliffside Park,7010,"Nw Yrk, NY-NJ-PA",0.0,0.0,Bergen,482038,100181,2,505000.0,6,1999.5,0,30,56,4.4,157.0
+0,Clifton Convenience,515 Clifton Ave,Clifton,7011,"Nw Yrk, NY-NJ-PA",0.0,0.0,Passaic,242208,71959,3,623000.0,14,750.0,1,77,29,3.0,4.0
+1,Commercial Mexicana LLC,3800 New Jersey Ave,Wildwood,8260,"Ocean City, NJ",0.0,0.0,Cape May,45947,62175,5,2041000.0,18,1999.5,2,40,7,4.4,181.0
+1,Compare Foods,1911 Bergenline Ave # 13,Union City,7087,"Nw Yrk, NY-NJ-PA",0.0,0.0,Hudson,361189,73337,5,1152000.0,37,1999.5,3,210,55,4.0,124.0
+1,Country Farm,321 W Branch Ave,Pine Hill,8021,"Phl, PA-NJ-DE-MD",0.0,0.0,Camden,253053,67135,2,443000.0,27,750.0,1,54,16,3.8,9.0
+1,Country Farms,849 W Bay Ave # 17,Barnegat,8005,"Nw Yrk, NY-NJ-PA",0.0,0.0,Ocean,275023,68483,2,518000.0,21,1999.5,1,19,6,4.7,15.0
+1,Country Farms Food Store,212 Broad St,Keyport,7735,"Nw Yrk, NY-NJ-PA",0.0,0.0,Monmouth,328661,99223,2,458000.0,16,750.0,1,31,11,3.7,6.0
+1,D D Grocery,424 Park Ave # 1,East Orange,7017,"Nw Yrk, NY-NJ-PA",0.0,0.0,Essex,368748,62875,3,728000.0,23,750.0,2,72,18,4.6,5.0
+1,Daisy's Supermarket,701 Monroe Ave,Elizabeth,7201,"Nw Yrk, NY-NJ-PA",0.0,0.0,Union,276382,80737,2,481000.0,6,1999.5,0,122,25,4.4,14.0
+1,Deco Daves Food Market Inc,939 Teaneck Rd,Teaneck,7666,"Nw Yrk, NY-NJ-PA",0.0,0.0,Bergen,482038,100181,4,1010000.0,8,1999.5,2,33,23,3.6,33.0
+1,Delite Supermarket,420 Washington St,Hoboken,7030,"Nw Yrk, NY-NJ-PA",0.0,0.0,Hudson,361189,73337,4,1333000.0,27,750.0,3,65,54,4.7,37.0
+1,Deterdings Family Market,502 E Gibbsboro Rd,Lindenwold,8021,"Phl, PA-NJ-DE-MD",0.0,0.0,Camden,253053,67135,2,443000.0,12,1999.5,1,54,16,3.9,518.0
+1,Divya Convenience Inc,2720 John F Kennedy Blvd,Jersey City,7306,"Nw Yrk, NY-NJ-PA",0.0,0.0,Hudson,361189,73337,2,461000.0,15,1999.5,1,200,39,5.0,1.0
+1,Duran Food Store,199 Washington St,Perth Amboy,8861,"Nw Yrk, NY-NJ-PA",0.0,0.0,Middlesex,439073,87666,2,458000.0,15,1999.5,1,98,12,4.6,17.0
+1,Duran Grocery,1100 Broadway,Camden,8103,"Phl, PA-NJ-DE-MD",0.0,0.0,Camden,253053,67135,4,886000.0,12,750.0,2,45,31,4.2,128.0
+0,Durso Associates,265 Cedar Ln # 1-2,Teaneck,7666,"Nw Yrk, NY-NJ-PA",0.0,0.0,Bergen,482038,100181,4,1010000.0,20,3749.5,2,33,23,5.0,1.0
+1,E Z Check Food Store,1015 N Wood Ave,Linden,7036,"Nw Yrk, NY-NJ-PA",0.0,0.0,Union,276382,80737,2,481000.0,22,750.0,1,94,28,3.3,6.0
+1,E-Z Food Stop Inc,2640 Sicklerville Rd,Sicklerville,8081,"Phl, PA-NJ-DE-MD",0.0,0.0,Camden,253053,67135,2,443000.0,23,750.0,1,32,11,4.5,4.0
+1,East West Food Mart LLC,67 Belleville Ave,Bloomfield,7003,"Nw Yrk, NY-NJ-PA",0.0,0.0,Essex,368748,62875,3,728000.0,7,750.0,1,78,25,3.9,209.0
+1,Eco Food Store I,135 33rd St,Union City,7087,"Nw Yrk, NY-NJ-PA",0.0,0.0,Hudson,361189,73337,2,461000.0,10,1999.5,1,210,55,4.2,1922.0
+1,Eddy's Supermarket,348 Clinton Ave,Newark,7108,"Nw Yrk, NY-NJ-PA",0.0,0.0,Essex,368748,62875,4,971000.0,27,1999.5,2,95,20,4.2,77.0
+1,Eight Five Six Market LLC,2798 Benson St,Camden,8105,"Phl, PA-NJ-DE-MD",0.0,0.0,Camden,253053,67135,4,886000.0,10,1999.5,2,69,29,4.1,40.0
+1,El Ideal Supermarket,269 Monroe St,Passaic,7055,"Nw Yrk, NY-NJ-PA",0.0,0.0,Passaic,242208,71959,2,416000.0,22,1999.5,1,250,29,4.7,15.0
+1,El Mercado,247 2nd St,Lakewood,8701,"Nw Yrk, NY-NJ-PA",0.0,0.0,Ocean,275023,68483,2,518000.0,10,1999.5,1,84,10,3.9,13.0
+1,El Padrino Grocery,111 Watchung Ave,Plainfield,7060,"Nw Yrk, NY-NJ-PA",0.0,0.0,Union,276382,80737,2,481000.0,11,1999.5,1,92,17,4.1,9.0
+1,El Pautenito's & Deli,151 Kansas St,Hackensack,7601,"Nw Yrk, NY-NJ-PA",0.0,0.0,Bergen,482038,100181,2,505000.0,7,1999.5,0,79,23,4.2,53.0
+1,El Rodeo,34 W Prospect St,Waldwick,7463,"Nw Yrk, NY-NJ-PA",0.0,0.0,Bergen,482038,100181,2,505000.0,18,1999.5,1,11,16,4.7,13.0
+1,El Tiburon Supermarket,18 N Broad St,Trenton,8608,"Trenton, NJ",0.0,0.0,Mercer,202885,79979,3,704000.0,9,1999.5,1,18,6,3.2,5.0
+1,El Toro Supermarket,1079 S Broad St,Trenton,8611,"Trenton, NJ",0.0,0.0,Mercer,202885,79979,3,704000.0,13,1999.5,1,78,8,4.2,24.0
+1,Ernie's Market,1500 Park Blvd,Camden,8103,"Phl, PA-NJ-DE-MD",0.0,0.0,Camden,253053,67135,2,443000.0,29,1999.5,1,45,31,4.1,55.0
+1,Europa Pombalense Supermarket,724 Jefferson Ave,Elizabeth,7201,"Nw Yrk, NY-NJ-PA",0.0,0.0,Union,276382,80737,6,1441000.0,28,1999.5,3,122,25,4.5,93.0
+1,Evelyn Grocery,144 President St,Passaic,7055,"Nw Yrk, NY-NJ-PA",0.0,0.0,Passaic,242208,71959,1,208000.0,37,750.0,1,250,29,5.0,1.0
+1,Evergreen Kosher Market,945 River Ave,Lakewood,8701,"Nw Yrk, NY-NJ-PA",0.0,0.0,Ocean,275023,68483,2,518000.0,4,3749.5,0,84,10,4.6,691.0
+1,Express Food Market,1850 Delsea Dr,Sewell,8080,"Phl, PA-NJ-DE-MD",0.0,0.0,Gloucester,149747,81315,3,476000.0,18,750.0,2,36,9,4.3,8.0
+1,Fair Deal Market,206 W Broad St,Gibbstown,8027,"Phl, PA-NJ-DE-MD",0.0,0.0,Gloucester,149747,81315,1,159000.0,29,750.0,1,7,5,3.7,39.0
+1,Fairfield Food Market,216 Horseneck Rd,Fairfield,7004,"Nw Yrk, NY-NJ-PA",0.0,0.0,Essex,368748,62875,4,971000.0,26,750.0,2,23,7,3.0,5.0
+1,Fairfield Food Mart & Deli,435 Hollywood Ave # 4,Fairfield,7004,"Nw Yrk, NY-NJ-PA",0.0,0.0,Essex,368748,62875,2,486000.0,19,1999.5,1,23,7,3.4,21.0
+1,Family Food Market,2015 State Route 57,Hackettstown,7840,"Allen-Bth-Est,PA",0.0,0.0,Warren,56060,77571,2,469000.0,30,750.0,1,37,4,4.2,9.0
+1,Farafina International Market,771 Springfield Ave # A,Irvington,7111,"Nw Yrk, NY-NJ-PA",0.0,0.0,Essex,368748,62875,3,728000.0,8,750.0,1,220,26,4.5,33.0
+1,Farm Market,233 State Route 18 # 21a,East Brunswick,8816,"Nw Yrk, NY-NJ-PA",0.0,0.0,Middlesex,439073,87666,4,916000.0,15,1999.5,2,54,8,3.8,56.0
+1,Fatima's Grocery,222 Park Ave,Paterson,7501,"Nw Yrk, NY-NJ-PA",0.0,0.0,Passaic,242208,71959,2,416000.0,14,1999.5,1,180,20,3.8,8.0
+1,Feldman's Grocery,430 Clifton Ave,Lakewood,8701,"Nw Yrk, NY-NJ-PA",0.0,0.0,Ocean,275023,68483,2,518000.0,22,750.0,1,84,10,4.9,13.0
+1,Fernandez Food Market,409 Straight St,Paterson,7501,"Nw Yrk, NY-NJ-PA",0.0,0.0,Passaic,242208,71959,2,416000.0,13,1999.5,1,180,20,4.8,5.0
+1,Finarc Market,1406a Stuyvesant Ave,Union,7083,"Nw Yrk, NY-NJ-PA",0.0,0.0,Union,276382,80737,2,481000.0,17,1999.5,1,71,29,4.6,5.0
+1,Fine Faire,621 Hamilton St,Somerset,8873,"Nw Yrk, NY-NJ-PA",0.0,0.0,Somerset,171371,119731,12,2750000.0,19,14999.5,3,81,10,4.3,19.0
+1,FM Supermarket,901 N 8th St,Camden,8102,"Phl, PA-NJ-DE-MD",0.0,0.0,Camden,253053,67135,2,443000.0,14,1999.5,1,42,28,1.0,1.0
+1,Food Choice Supermarket,1325 Springfield Ave,Irvington,7111,"Nw Yrk, NY-NJ-PA",0.0,0.0,Essex,368748,62875,2,486000.0,29,750.0,1,220,26,3.8,66.0
+1,Food Depot Select,23 Kearny Ave,Kearny,7032,"Nw Yrk, NY-NJ-PA",0.0,0.0,Hudson,361189,73337,2,461000.0,6,1999.5,0,47,20,4.2,403.0
+1,Food For Life,1605 Lemoine Ave # 5a,Fort Lee,7024,"Nw Yrk, NY-NJ-PA",0.0,0.0,Bergen,482038,100181,2,505000.0,16,3749.5,1,44,40,4.3,70.0
+1,Food Mart,345 N White Horse Pike,Magnolia,8049,"Phl, PA-NJ-DE-MD",0.0,0.0,Camden,253053,67135,2,443000.0,16,1999.5,1,9,25,4.8,35.0
+1,Food Plus,201 W Clements Bridge Rd # A,Runnemede,8078,"Phl, PA-NJ-DE-MD",0.0,0.0,Camden,253053,67135,2,443000.0,26,750.0,1,11,24,4.4,19.0
+1,Food Stores Inc,1069 Ringwood Ave # 314,Haskell,7420,"Nw Yrk, NY-NJ-PA",0.0,0.0,Passaic,242208,71959,2,416000.0,13,3749.5,1,9,7,4.5,31.0
+1,Fortuna's Food Market,1714 S 10th St,Camden,8104,"Phl, PA-NJ-DE-MD",0.0,0.0,Camden,253053,67135,3,665000.0,21,1999.5,2,59,29,3.6,8.0
+1,Frank's Deli,1734 S Broadway,Camden,8104,"Phl, PA-NJ-DE-MD",0.0,0.0,Camden,253053,67135,2,443000.0,37,750.0,1,59,29,4.5,89.0
+0,Fresh Picked,1014 Washington St # A,Hoboken,7030,"Nw Yrk, NY-NJ-PA",0.0,0.0,Hudson,361189,73337,2,461000.0,22,1999.5,1,65,54,5.0,6.0
+0,Fresh To Go,200 E Federal St,Burlington,8016,"Phl, PA-NJ-DE-MD",0.0,0.0,Burlington,230589,84470,2,473000.0,6,750.0,0,54,5,4.7,3.0
+1,Getty Deli & Grocery,367 Getty Ave,Paterson,7503,"Nw Yrk, NY-NJ-PA",0.0,0.0,Passaic,242208,71959,4,219000.0,7,750.0,1,65,24,4.1,28.0
+1,Golden Mango,200 Broadway,Paterson,7505,"Nw Yrk, NY-NJ-PA",0.0,0.0,Passaic,242208,71959,3,463000.0,15,750.0,2,37,18,3.8,394.0
+1,Grab-N-Go,341 State Rt 23,Pompton Plains,7444,"Nw Yrk, NY-NJ-PA",0.0,0.0,Morris,256698,112396,2,529000.0,18,1999.5,1,10,6,4.7,3.0
+1,Grande Market,258 Broadway,Long Branch,7740,"Nw Yrk, NY-NJ-PA",0.0,0.0,Monmouth,328661,99223,2,458000.0,29,750.0,1,42,7,4.5,19.0
+1,Haddon Food Ctr,1600 Mount Ephraim Ave,Camden,8104,"Phl, PA-NJ-DE-MD",0.0,0.0,Camden,253053,67135,2,443000.0,28,750.0,1,59,29,4.4,23.0
+1,Hanover Mart,209 Hanover St # 1,Pemberton,8068,"Phl, PA-NJ-DE-MD",0.0,0.0,Burlington,230589,84470,3,709000.0,24,1999.5,2,6,1,4.8,25.0
+1,Harry's Convenience Store,590 Newark Ave # 1,Jersey City,7306,"Nw Yrk, NY-NJ-PA",0.0,0.0,Hudson,361189,73337,2,461000.0,6,3749.5,0,200,39,5.0,1.0
+1,Helping Hand Food Pantry,349 Hillsdale Ave,Hillsdale,7642,"Nw Yrk, NY-NJ-PA",0.0,0.0,Bergen,482038,100181,2,505000.0,16,3749.5,1,13,14,5.0,1.0
+1,Henry's Fine Foods,318 Bloomfield Ave,Verona,7044,"Nw Yrk, NY-NJ-PA",0.0,0.0,Essex,368748,62875,4,971000.0,37,750.0,2,10,16,5.0,8.0
+1,Hightstown Convenience,315 Mercer St,Hightstown,8520,"Trenton, NJ",0.0,0.0,Mercer,202885,79979,3,704000.0,7,750.0,1,30,4,4.2,5.0
+1,Home Town Food Store,831 Monmouth Rd,Cream Ridge,8514,"Nw Yrk, NY-NJ-PA",0.0,0.0,Ocean,275023,68483,3,776000.0,11,750.0,1,7,0,3.2,5.0
+1,Honey Land Farm,389 Dover Chester Rd,Ironia,7845,"Nw Yrk, NY-NJ-PA",0.0,0.0,Morris,256698,112396,4,1057000.0,20,1999.5,2,1,6,5.0,3.0
+1,Indian Fields Market,475 Indian Ave,Bridgeton,8302,"Vineland, NJ",0.0,0.0,Cumberland,65061,51790,5,1194000.0,36,3749.5,3,71,2,4.0,26.0
+0,International Minimarket,255 Hope Ave,Passaic,7055,"Nw Yrk, NY-NJ-PA",0.0,0.0,Passaic,242208,71959,2,416000.0,12,750.0,1,250,29,3.0,1.0
+1,J F Deli Market,2940 Westfield Ave,Camden,8105,"Phl, PA-NJ-DE-MD",0.0,0.0,Camden,253053,67135,2,443000.0,15,1999.5,1,69,29,4.2,13.0
+1,J K Los Poblanos LLC,152 Market St,Passaic,7055,"Nw Yrk, NY-NJ-PA",0.0,0.0,Passaic,242208,71959,2,416000.0,9,750.0,1,250,29,3.3,6.0
+1,Jay's Food Mart,358 Herbertsville Rd,Brick,8724,"Nw Yrk, NY-NJ-PA",0.0,0.0,Ocean,275023,68483,2,518000.0,11,1999.5,1,30,9,4.6,8.0
+0,Jersey Pride Food Store,595 Palmer Ave,Hazlet Township,7734,"Nw Yrk, NY-NJ-PA",0.0,0.0,Monmouth,328661,99223,1,229000.0,13,750.0,0,16,9,3.8,12.0
+1,Jj Mini Market,855 Monroe Ave # A,Elizabeth,7201,"Nw Yrk, NY-NJ-PA",0.498960499,0.5,Union,276382,80737,2,481000.0,13,750.0,1,122,25,4.3,45.0
+1,Jo Jo's Market,1151 E State St,Trenton,8609,"Trenton, NJ",0.0,0.0,Mercer,202885,79979,2,469000.0,19,750.0,1,39,8,3.9,106.0
+0,Johnson's Grocery,5 Cassville Rd,Jackson,8527,"Nw Yrk, NY-NJ-PA",0.0,0.0,Ocean,275023,68483,3,776000.0,15,750.0,1,51,6,1.0,1.0
+1,Joseph Mini Market,5 Prospect St,Elizabeth,7201,"Nw Yrk, NY-NJ-PA",0.0,0.0,Union,276382,80737,2,481000.0,11,1999.5,1,122,25,4.0,1.0
+1,Jr Mini Market,69 W Palisade Ave,Englewood,7631,"Nw Yrk, NY-NJ-PA",0.9960474309999999,1.0,Bergen,482038,100181,2,505000.0,16,750.0,1,39,22,5.0,198.0
+1,Juta Foods LLC,69 Veronica Ave,Somerset,8873,"Nw Yrk, NY-NJ-PA",0.0,0.0,Somerset,171371,119731,3,290000.0,10,3749.5,1,81,10,5.0,1.0
+1,K S Food,1357 Stelton Rd,Piscataway,8854,"Nw Yrk, NY-NJ-PA",0.0,0.0,Middlesex,439073,87666,2,458000.0,7,1999.5,0,41,17,3.9,1094.0
+0,Kingdom Supermarket,510 Park Ave,Paterson,7504,"Nw Yrk, NY-NJ-PA",0.0,0.0,Passaic,242208,71959,2,416000.0,16,1999.5,1,21,23,4.4,20.0
+1,Kings Farm,747 Lyons Ave,Irvington,7111,"Nw Yrk, NY-NJ-PA",0.0,0.0,Essex,368748,62875,2,486000.0,25,750.0,1,220,26,3.9,17.0
+1,Kings Super Mar,778 Morris Tpke,Short Hills,7078,"Nw Yrk, NY-NJ-PA",0.0,0.0,Essex,368748,62875,2,486000.0,4,750.0,1,8,16,4.3,232.0
+1,Kings Super Markets,784 Old Springfield Ave,Summit,7901,"Nw Yrk, NY-NJ-PA",0.0,0.0,Union,276382,80737,2,481000.0,15,1999.5,1,15,17,4.0,139.0
+1,Kings Supermarket,64 Mountain Blvd,Warren,7059,"Nw Yrk, NY-NJ-PA",0.0,0.0,Somerset,171371,119731,2,459000.0,4,7499.5,1,14,7,4.1,156.0
+1,Kings Village Food Jc,420 Grand St,Jersey City,7302,"Nw Yrk, NY-NJ-PA",0.0,0.0,Hudson,361189,73337,2,461000.0,4,7499.5,0,73,48,4.8,4.0
+1,Krauser's,45 N Warren St,Dover,7801,"Nw Yrk, NY-NJ-PA",0.0,0.0,Morris,256698,112396,4,1057000.0,25,1999.5,2,23,10,3.4,5.0
+0,Krauser's Food Store,200 Ocean Ave N,Long Branch,7740,"Nw Yrk, NY-NJ-PA",0.0,0.0,Monmouth,328661,99223,1,179000.0,25,1999.5,1,42,7,3.2,6.0
+1,Krauzer's,16-15 River Rd,Fair Lawn,7410,"Nw Yrk, NY-NJ-PA",0.0,0.0,Bergen,482038,100181,2,505000.0,5,750.0,0,23,20,5.0,2.0
+1,Kruazer Food Store,109 W Pleasant Ave,Maywood,7607,"Nw Yrk, NY-NJ-PA",0.0,0.0,Bergen,482038,100181,2,505000.0,10,3749.5,1,5,23,4.2,5.0
+1,Kwick Mart,221 North Ave,Dunellen,8812,"Nw Yrk, NY-NJ-PA",0.0,0.0,Middlesex,439073,87666,4,916000.0,31,750.0,2,21,17,5.0,1.0
+1,KWIK Trip-Somerset,900 Easton Ave # 12,Somerset,8873,"Nw Yrk, NY-NJ-PA",0.0,0.0,Somerset,171371,119731,2,459000.0,22,7499.5,1,81,10,4.5,8.0
+1,LA Guadalupe Grocery,118 Main St,Matawan,7747,"Nw Yrk, NY-NJ-PA",0.0,0.0,Monmouth,328661,99223,3,687000.0,10,750.0,1,46,12,4.5,6.0
+1,LA Hacienda,251 French St,New Brunswick,8901,"Nw Yrk, NY-NJ-PA",0.0,0.0,Middlesex,439073,87666,4,239000.0,19,750.0,1,93,20,4.3,46.0
+1,LA Mia Meat Market,322 Madison St,Passaic,7055,"Nw Yrk, NY-NJ-PA",0.0,0.0,Passaic,242208,71959,2,349000.0,9,1999.5,1,250,29,3.7,10.0
+1,LA Michoacana Manasquan,109 Taylor Ave,Manasquan,8736,"Nw Yrk, NY-NJ-PA",0.0,0.0,Monmouth,328661,99223,1,229000.0,9,3749.5,0,17,10,5.0,3.0
+1,LA Plaza Grocery,429 Baldwin Ave,Jersey City,7306,"Nw Yrk, NY-NJ-PA",0.0,0.0,Hudson,361189,73337,1,231000.0,21,750.0,0,200,39,4.3,12.0
+1,LA Primera Grocery,63 Union St,Carteret,7008,"Nw Yrk, NY-NJ-PA",0.0,0.0,Middlesex,439073,87666,1,229000.0,23,750.0,0,28,18,4.3,76.0
+1,LA Valle Foods USA,235 Murray Hill Pkwy,East Rutherford,7073,"Nw Yrk, NY-NJ-PA",0.0,0.0,Bergen,482038,100181,2,505000.0,5,1999.5,0,23,28,5.0,2.0
+0,Labib Convenience & Deli,619 Main St,Paterson,7503,"Nw Yrk, NY-NJ-PA",0.0,0.0,Passaic,242208,71959,4,831000.0,6,750.0,1,65,24,5.0,3.0
+0,Lara Mini Market,619 Main St,Paterson,7503,"Nw Yrk, NY-NJ-PA",0.0,0.0,Passaic,242208,71959,2,416000.0,28,750.0,1,65,24,5.0,1.0
+1,Latino American Food,7620 Bergenline Ave,North Bergen,7047,"Nw Yrk, NY-NJ-PA",-0.166666667,-0.166666667,Hudson,361189,73337,5,1152000.0,22,3749.5,3,99,55,4.1,35.0
+1,Laurel Market,257 Laurel Ave,Hazlet Township,7734,"Nw Yrk, NY-NJ-PA",0.0,0.0,Monmouth,328661,99223,1,229000.0,25,750.0,0,16,9,4.1,45.0
+1,Liberty Food Market,701 Grier Ave,Elizabeth,7202,"Nw Yrk, NY-NJ-PA",0.0,0.0,Union,276382,80737,2,481000.0,35,750.0,1,67,28,4.7,22.0
+1,Linden Deli & Food Store Lic,1801 S Wood Ave,Linden,7036,"Nw Yrk, NY-NJ-PA",5.058823529,0.5,Union,276382,80737,2,481000.0,5,1999.5,0,94,28,4.8,168.0
+1,Lucky 3,341 Martin Luther King Jr Dr,Jersey City,7305,"Nw Yrk, NY-NJ-PA",0.0,0.0,Hudson,361189,73337,2,461000.0,18,1999.5,1,166,21,4.4,14.0
+1,M M Mini Market,1215 Hamilton Ave # 1,Trenton,8629,"Trenton, NJ",0.0,0.0,Mercer,202885,79979,3,704000.0,12,1999.5,1,17,8,3.8,12.0
+1,Mabel's Food Market,2216 Federal St,Camden,8105,"Phl, PA-NJ-DE-MD",0.0,0.0,Camden,253053,67135,4,3122000.0,29,1999.5,3,69,29,4.0,4.0
+1,MAC Supermarket Inc,61 4th St,Passaic,7055,"Nw Yrk, NY-NJ-PA",0.0,0.0,Passaic,242208,71959,3,623000.0,27,750.0,2,250,29,4.4,32.0
+1,Machala Deli,96 Elwood Ave,Newark,7104,"Nw Yrk, NY-NJ-PA",0.0,0.0,Essex,368748,62875,2,486000.0,16,750.0,1,158,17,2.4,7.0
+1,Main Street Deli & Grocery,240 Main St,Keansburg,7734,"Nw Yrk, NY-NJ-PA",0.0,0.0,Monmouth,328661,99223,3,687000.0,14,750.0,1,16,9,4.4,67.0
+0,Main Street Market,7 Main St,Branchville,7826,"Nw Yrk, NY-NJ-PA",0.0,0.0,Sussex,73963,92284,2,497000.0,2,750.0,0,9,0,3.7,20.0
+1,Maria's Corner Market,1724 Bergenline Ave,Union City,7087,"Nw Yrk, NY-NJ-PA",0.0,0.0,Hudson,361189,73337,2,461000.0,13,1999.5,1,210,55,4.6,7.0
+1,Market Litwin,801 Elm St,Camden,8102,"Phl, PA-NJ-DE-MD",0.0,0.0,Camden,253053,67135,2,443000.0,21,1999.5,1,42,28,4.4,73.0
+1,Market St Pizzeria LLC,1 Market St,Camden,8102,"Phl, PA-NJ-DE-MD",0.0,0.0,Camden,253053,67135,3,156000.0,12,3749.5,1,42,28,4.2,261.0
+1,Marmolejos,159 Hall Ave,Perth Amboy,8861,"Nw Yrk, NY-NJ-PA",0.0,0.0,Middlesex,439073,87666,2,458000.0,16,1999.5,1,98,12,4.4,19.0
+1,Martinez Grocery,2367 S 8th St,Camden,8104,"Phl, PA-NJ-DE-MD",0.0,0.0,Camden,253053,67135,2,443000.0,19,750.0,1,59,29,4.5,37.0
+1,Mary's Grocery & Deli,17 E West Jersey Ave,Pleasantville,8232,"Atlantic Cty, NJ",0.0,0.0,Atlantic,120728,60826,1,265000.0,19,750.0,0,59,7,4.9,12.0
+1,Melo Food Market,616 W Maple Ave,Merchantville,8109,"Phl, PA-NJ-DE-MD",0.0,0.0,Camden,253053,67135,2,443000.0,9,1999.5,1,30,28,3.4,14.0
+1,Mi Gente Minimarket,1662 John F Kennedy Blvd,Jersey City,7305,"Nw Yrk, NY-NJ-PA",0.0,0.0,Hudson,361189,73337,2,461000.0,13,1999.5,1,166,21,4.4,43.0
+1,Mi Guadalupana,2101 Summit Ave,Union City,7087,"Nw Yrk, NY-NJ-PA",0.0,0.0,Hudson,361189,73337,2,461000.0,11,1999.5,1,210,55,4.0,16.0
+1,Mi Tienda Fresh Market 943 LLC,943 Route 166,Toms River,8753,"Nw Yrk, NY-NJ-PA",0.0,0.0,Ocean,275023,68483,3,776000.0,1,1999.5,2,79,8,4.0,3.0
+1,Michael Supermart II,511 Broadway,Newark,7104,"Nw Yrk, NY-NJ-PA",0.0,0.0,Essex,368748,62875,3,728000.0,19,750.0,2,158,17,4.0,2.0
+1,Middlesex Quick Stop,518 Bound Brook Rd,Middlesex,8846,"Nw Yrk, NY-NJ-PA",0.0,0.0,Middlesex,439073,87666,3,687000.0,13,750.0,1,22,14,4.7,3.0
+1,Midland Square Market,247 Midland Ave,Garfield,7026,"Nw Yrk, NY-NJ-PA",0.0,0.0,Bergen,482038,100181,4,1010000.0,31,750.0,2,37,30,5.0,3.0
+1,Midtown Center,505 Saddle River Rd # E,Saddle Brook,7663,"Nw Yrk, NY-NJ-PA",0.0,0.0,Bergen,482038,100181,2,505000.0,17,1999.5,1,34,23,4.8,100.0
+1,Mike Food Mart,7415 Broadway,North Bergen,7047,"Nw Yrk, NY-NJ-PA",0.0,0.0,Hudson,361189,73337,2,461000.0,6,750.0,0,99,55,3.4,5.0
+1,Mikes Corner Deli,185 Chambers St # 1,Phillipsburg,8865,"Allen-Bth-Est,PA",0.0,0.0,Warren,56060,77571,5,267000.0,37,1999.5,2,46,5,4.5,76.0
+0,Milk Plus Deli & Groceries,338 21st Ave,Paterson,7501,"Nw Yrk, NY-NJ-PA",0.0,0.0,Passaic,242208,71959,2,416000.0,28,750.0,1,180,20,3.9,22.0
+1,Millerie Market,101 Rancocas Rd,Mount Holly,8060,"Phl, PA-NJ-DE-MD",0.0,0.0,Burlington,230589,84470,2,473000.0,16,750.0,1,43,6,3.2,11.0
+1,Milos Deli LLC,7300 Broadway,North Bergen,7047,"Nw Yrk, NY-NJ-PA",5.348623853,0.0,Hudson,361189,73337,3,692000.0,3,750.0,0,99,55,4.2,5.0
+1,Mini Market,416 Columbia Blvd,National Park,8063,"Phl, PA-NJ-DE-MD",0.0,0.0,Gloucester,149747,81315,2,318000.0,10,1999.5,1,4,16,3.3,8.0
+1,Mini Mart Foodstore Mini Mart,1051 Mcbride Ave # B,Woodland Park,7424,"Nw Yrk, NY-NJ-PA",0.0,0.0,Passaic,242208,71959,1,208000.0,15,750.0,0,48,19,3.7,6.0
+1,Minit Mart Convenience-Liquor,237 Palisade Ave,Cliffside Park,7010,"Nw Yrk, NY-NJ-PA",0.0,0.0,Bergen,482038,100181,2,505000.0,28,1999.5,1,30,56,4.4,14.0
+1,Minit Mart Food Stores,491 Manalapan Rd,Spotswood,8884,"Nw Yrk, NY-NJ-PA",0.0,0.0,Middlesex,439073,87666,2,458000.0,30,3749.5,1,14,10,5.0,1.0
+1,Monmouth Beach Supermarket,73 Riverdale Ave,Monmouth Beach,7750,"Nw Yrk, NY-NJ-PA",0.0,0.0,Monmouth,328661,99223,10,2290000.0,21,14999.5,3,2,9,3.9,53.0
+1,Monmouth Street Grocery & Deli,500 Monmouth St,Jersey City,7302,"Nw Yrk, NY-NJ-PA",0.0,0.0,Hudson,361189,73337,3,692000.0,36,1999.5,2,73,48,3.9,17.0
+1,Montclair Deli,62 Montclair Ave,Paterson,7503,"Nw Yrk, NY-NJ-PA",0.0,0.0,Passaic,242208,71959,3,623000.0,23,750.0,2,65,24,4.5,341.0
+1,Montgomery Food Mart,673 Montgomery St,Jersey City,7306,"Nw Yrk, NY-NJ-PA",0.0,0.0,Hudson,361189,73337,3,692000.0,19,1999.5,2,200,39,3.3,8.0
+1,My Family Deli & Grocery,39 Victoria Ave,Newark,7104,"Nw Yrk, NY-NJ-PA",0.0,0.0,Essex,368748,62875,2,486000.0,9,1999.5,1,158,17,4.4,41.0
+1,Nacho Mini Market,501 S 6th St,Vineland,8360,"Vineland, NJ",0.0,0.0,Cumberland,65061,51790,3,716000.0,19,1999.5,2,92,8,5.0,3.0
+1,Nanda's Mini Market,380 Chestnut St,Newark,7105,"Nw Yrk, NY-NJ-PA",0.0,0.0,Essex,368748,62875,2,486000.0,13,750.0,1,106,19,5.0,1.0
+0,National Food Stores Inc,37 Franklin St,Belleville,7109,"Nw Yrk, NY-NJ-PA",0.0,0.0,Essex,368748,62875,5,1214000.0,21,1999.5,3,41,26,4.4,20.0
+1,National News III,475 W Side Ave # A,Jersey City,7304,"Nw Yrk, NY-NJ-PA",0.0,0.0,Hudson,361189,73337,2,461000.0,27,750.0,1,118,32,4.2,6.0
+1,New Grand Ave Deli LLC,8016 Grand Ave,North Bergen,7047,"Nw Yrk, NY-NJ-PA",0.0,0.0,Hudson,361189,73337,2,461000.0,9,1999.5,1,99,55,4.4,14.0
+1,Nichlos Markets Inc Food Town,597 Pompton Ave,Cedar Grove,7009,"Nw Yrk, NY-NJ-PA",0.0,0.0,Essex,368748,62875,3,728000.0,12,1999.5,1,6,18,4.2,408.0
+1,Nizam Supermarkets,608 Anderson Ave # 3,Cliffside Park,7010,"Nw Yrk, NY-NJ-PA",0.0,0.0,Bergen,482038,100181,1,1142000.0,10,1999.5,0,30,56,4.5,258.0
+1,Nosso Mini Market,1000 Woodlane Rd,Beverly,8010,"Phl, PA-NJ-DE-MD",0.0,0.0,Burlington,230589,84470,2,473000.0,16,750.0,1,12,17,4.6,8.0
+1,Noya Bazaar LLC,139 Wayne Ave,Paterson,7502,"Nw Yrk, NY-NJ-PA",0.0,0.0,Passaic,242208,71959,5,1038000.0,15,3749.5,2,42,17,3.9,175.0
+1,NPGS Of Jackson,2080 W County Line Rd,Jackson,8527,"Nw Yrk, NY-NJ-PA",0.0,0.0,Ocean,275023,68483,2,518000.0,14,750.0,1,51,6,4.6,275.0
+1,Nutley Convenience Store LLC,232 Franklin Ave,Nutley,7110,"Nw Yrk, NY-NJ-PA",0.0,0.0,Essex,368748,62875,2,486000.0,7,1999.5,0,24,26,3.0,2.0
+1,Oak Hill Deli,78 South St,Freehold,7728,"Nw Yrk, NY-NJ-PA",0.0,0.0,Monmouth,328661,99223,2,458000.0,12,1999.5,1,86,10,4.5,44.0
+1,Oaxaca Grocery,284 Queen Anne Rd # 1,Teaneck,7666,"Nw Yrk, NY-NJ-PA",0.0,0.0,Bergen,482038,100181,2,505000.0,18,750.0,1,33,23,4.8,34.0
+1,Olden Deli & Grocery,635 S Olden Ave,Trenton,8629,"Trenton, NJ",0.0,0.0,Mercer,202885,79979,3,704000.0,8,1999.5,1,17,8,4.4,10.0
+1,Olympic Community Market,122 40th St,Irvington,7111,"Nw Yrk, NY-NJ-PA",0.0,0.0,Essex,368748,62875,1,243000.0,37,750.0,1,220,26,5.0,13.0
+1,One Stop Deli Grocery,3701 Bergen Tpke # 1,North Bergen,7047,"Nw Yrk, NY-NJ-PA",0.0,0.0,Hudson,361189,73337,1,231000.0,10,1999.5,0,99,55,4.3,3.0
+1,One Stop Food Store,804 Main St,Belford,7718,"Nw Yrk, NY-NJ-PA",0.0,0.0,Monmouth,328661,99223,1,229000.0,28,750.0,1,7,8,4.6,16.0
+1,One Stop Shop Of Jackson Inc,580 Toms River Rd,Jackson,8527,"Nw Yrk, NY-NJ-PA",0.0,0.0,Ocean,275023,68483,1,259000.0,37,750.0,1,51,6,4.0,21.0
+1,One Stop Shoppe,396 White Horse Pike,Atco,8004,"Phl, PA-NJ-DE-MD",0.0,0.0,Camden,253053,67135,2,443000.0,27,750.0,1,9,3,4.2,5.0
+1,One Stop Shoppe,Red Bank Ave & Interstate Hwy,Deptford,8096,"Phl, PA-NJ-DE-MD",0.0,0.0,Gloucester,149747,81315,2,318000.0,27,750.0,1,55,17,5.0,6.0
+1,One Stop Shoppe,717 Corkery Ln,Williamstown,8094,"Phl, PA-NJ-DE-MD",0.0,0.0,Gloucester,149747,81315,2,318000.0,27,750.0,1,32,5,4.8,4.0
+1,Original Deli Grocery,369 Bloomfield Ave,Bloomfield,7003,"Nw Yrk, NY-NJ-PA",0.0,0.0,Essex,368748,62875,2,486000.0,8,1999.5,1,78,25,4.5,11.0
+1,Original Quality Market,416 11th Ave,Paterson,7514,"Nw Yrk, NY-NJ-PA",0.0,0.0,Passaic,242208,71959,1,208000.0,23,1999.5,0,59,21,4.3,30.0
+1,Ortiz Deli Grocery,606 Monroe Ave,Elizabeth,7201,"Nw Yrk, NY-NJ-PA",0.0,0.0,Union,276382,80737,2,481000.0,31,1999.5,1,122,25,3.8,10.0
+1,Oyingbo Market,1106 Clinton Ave,Irvington,7111,"Nw Yrk, NY-NJ-PA",0.0,0.0,Essex,368748,62875,2,486000.0,2,750.0,0,220,26,4.7,63.0
+1,Palm Grove Food Plaza,4614 Bergenline Ave # B,Union City,7087,"Nw Yrk, NY-NJ-PA",0.0,0.0,Hudson,361189,73337,4,217000.0,10,750.0,1,210,55,5.0,4.0
+1,Pantry One Foodmart,4040 Marlton Pike,Pennsauken,8109,"Phl, PA-NJ-DE-MD",0.0,0.0,Camden,253053,67135,4,886000.0,16,750.0,2,30,28,4.5,40.0
+1,Parthenon Foods Inc,361 Fairview Ave,Fairview,7022,"Nw Yrk, NY-NJ-PA",0.0,0.0,Bergen,482038,100181,2,505000.0,37,750.0,1,34,55,4.0,11.0
+1,Penns Grove Food Mart,63 E Main St,Penns Grove,8069,"Phl, PA-NJ-DE-MD",0.0,0.0,Salem,29180,64524,2,666000.0,10,750.0,1,24,3,3.0,2.0
+1,Peoples Pantry,1001 Fischer Blvd # 1,Toms River,8753,"Nw Yrk, NY-NJ-PA",0.0,0.0,Ocean,275023,68483,2,518000.0,4,3749.5,1,79,8,4.3,150.0
+0,Perez Mini Market LLC,478 21st Ave,Paterson,7513,"Nw Yrk, NY-NJ-PA",0.0,0.0,Passaic,242208,71959,2,416000.0,9,1999.5,1,30,18,5.0,1.0
+1,Pick's Deli Market,1500 Main St,Belmar,7719,"Nw Yrk, NY-NJ-PA",0.0,0.0,Monmouth,328661,99223,3,687000.0,8,750.0,1,35,12,4.7,3.0
+1,Pioneer Supermarket,320 Martin Luther King Jr Dr,Jersey City,7305,"Nw Yrk, NY-NJ-PA",0.0,0.0,Hudson,361189,73337,19,4378000.0,37,7499.5,4,166,21,3.8,302.0
+1,Pioneer Supermarket,71 Mount Vernon Pl,Newark,7106,"Nw Yrk, NY-NJ-PA",0.0,0.0,Essex,368748,62875,5,1214000.0,37,3749.5,3,90,22,4.3,111.0
+1,Pk Food Market,170 Newark Ave,Jersey City,7302,"Nw Yrk, NY-NJ-PA",0.0,0.0,Hudson,361189,73337,3,692000.0,37,750.0,2,73,48,4.7,164.0
+1,Pochuck Valley Farms,962 County Rt 517,Glenwood,7418,"Nw Yrk, NY-NJ-PA",0.0,0.0,Sussex,73963,92284,3,419000.0,3,750.0,0,2,1,4.5,179.0
+1,Poli Market LLC,639 Passaic Ave,Nutley,7110,"Nw Yrk, NY-NJ-PA",0.0,0.0,Essex,368748,62875,2,486000.0,11,1999.5,1,24,26,5.0,1.0
+1,Polly's Deli Grocery,1201 Kennedy Blvd,North Bergen,7047,"Nw Yrk, NY-NJ-PA",0.0,0.0,Hudson,361189,73337,2,461000.0,10,1999.5,1,99,55,3.0,2.0
+1,Precious International Food,110 E 7th St,Plainfield,7060,"Nw Yrk, NY-NJ-PA",0.0,0.0,Union,276382,80737,2,481000.0,9,1999.5,1,92,17,4.5,17.0
+1,Prime Place Convenience,514 1st St,Hoboken,7030,"Nw Yrk, NY-NJ-PA",0.0,0.0,Hudson,361189,73337,2,461000.0,11,750.0,1,65,54,4.8,6.0
+1,Puebla Foods,118 1st St,Passaic,7055,"Nw Yrk, NY-NJ-PA",0.0,0.0,Passaic,242208,71959,2,2518000.0,12,1999.5,1,250,29,4.6,5.0
+1,Quick Fair Food Market,400 Madison Ave # D,Elizabeth,7201,"Nw Yrk, NY-NJ-PA",0.0,0.0,Union,276382,80737,2,481000.0,28,1999.5,1,122,25,3.8,6.0
+1,Quick In Food Store,396 Main St,Metuchen,8840,"Nw Yrk, NY-NJ-PA",0.0,0.0,Middlesex,439073,87666,3,687000.0,27,750.0,2,23,23,4.0,1.0
+1,Quick Mart,155 Lakeview Ave # A,Clifton,7011,"Nw Yrk, NY-NJ-PA",0.0,0.0,Passaic,242208,71959,2,416000.0,9,1999.5,1,77,29,4.7,10.0
+1,Quick Mart,588 Lawrence Square Blvd S,Trenton,8648,"Trenton, NJ",0.0,0.0,Mercer,202885,79979,2,469000.0,29,3749.5,1,38,10,4.3,7.0
+1,Quick Mini,122 Maple St,Weehawken,7086,"Nw Yrk, NY-NJ-PA",0.0,0.0,Hudson,361189,73337,2,461000.0,14,1999.5,1,16,56,4.1,16.0
+1,Quick Shop,601 Beverly Rancocas Rd,Willingboro,8046,"Phl, PA-NJ-DE-MD",0.0,0.0,Burlington,230589,84470,2,473000.0,27,1999.5,1,30,12,4.4,5.0
+1,Quick Stop,165 S New Prospect Rd # 3,Jackson,8527,"Nw Yrk, NY-NJ-PA",0.0,0.0,Ocean,275023,68483,4,1035000.0,7,3749.5,1,51,6,3.5,30.0
+1,Quick Stop,1356 S Broad St,Trenton,8610,"Trenton, NJ",0.0,0.0,Mercer,202885,79979,4,938000.0,15,1999.5,2,31,14,4.2,6.0
+1,Quick-Stop Food Store,305 US Highway 130,Bordentown,8505,"Phl, PA-NJ-DE-MD",0.0,0.0,Burlington,230589,84470,4,945000.0,16,750.0,2,32,8,5.0,6.0
+1,Quik Foods,745 Poole Ave # 1,Hazlet,7730,"Nw Yrk, NY-NJ-PA",0.0,0.0,Monmouth,328661,99223,2,458000.0,25,3749.5,1,22,12,5.0,43.0
+1,Qwik Stop,1004 Grand Central Ave,Lavallette,8735,"Nw Yrk, NY-NJ-PA",0.0,0.0,Ocean,275023,68483,2,518000.0,10,750.0,1,6,4,4.4,8.0
+0,Rami Grocery,589 N 6th St,Newark,7107,"Nw Yrk, NY-NJ-PA",0.0,0.0,Essex,368748,62875,1,243000.0,22,750.0,0,108,17,4.5,2.0
+1,Reys Supermarket,80 3rd St,Elizabeth,7206,"Nw Yrk, NY-NJ-PA",0.0,0.0,Union,276382,80737,15,3601000.0,27,3749.5,4,80,24,3.9,162.0
+1,Risoldi's Market,3100 Mercerville Quakerbridge,Trenton,8619,"Trenton, NJ",0.0,0.0,Mercer,202885,79979,3,431000.0,30,750.0,2,30,13,5.0,5.0
+1,Risoldi's Market,3100 Mercerville Quakerbridge,Trenton,8619,"Trenton, NJ",0.0,0.0,Mercer,202885,79979,3,431000.0,30,750.0,2,30,13,5.0,5.0
+1,River Food Market Inc,2000 River Ave,Camden,8105,"Phl, PA-NJ-DE-MD",0.0,0.0,Camden,253053,67135,2,443000.0,3,1999.5,0,69,29,4.0,505.0
+1,Riverdale Food Store,41 Hamburg Tpke,Riverdale,7457,"Nw Yrk, NY-NJ-PA",0.0,0.0,Morris,256698,112396,2,529000.0,27,1999.5,1,9,6,5.0,7.0
+1,Rocio's Grocery & Deli,379 Ocean Ave,Jersey City,7305,"Nw Yrk, NY-NJ-PA",0.0,0.0,Hudson,361189,73337,3,692000.0,15,1999.5,1,166,21,4.3,24.0
+1,Rudilcia Supermarket,846 E 2nd St,Plainfield,7062,"Nw Yrk, NY-NJ-PA",0.0,0.0,Union,276382,80737,2,481000.0,6,1999.5,0,19,15,4.4,9.0
+1,Sabas Grocery,79 3rd Ave,Paterson,7514,"Nw Yrk, NY-NJ-PA",0.0,0.0,Passaic,242208,71959,3,623000.0,19,750.0,2,59,21,4.6,9.0
+1,Sahara Fine Foods,242 S Summit Ave,Hackensack,7601,"Nw Yrk, NY-NJ-PA",0.0,0.0,Bergen,482038,100181,2,505000.0,24,750.0,1,79,23,4.2,56.0
+1,Salomons Bakery,300 Gordons Corner Rd,Manalapan,7726,"Nw Yrk, NY-NJ-PA",0.0,0.0,Monmouth,328661,99223,2,185000.0,8,1999.5,1,45,11,4.5,17.0
+1,Santa Maria LA Bella Mexican,815 Hooper Ave,Toms River,8753,"Nw Yrk, NY-NJ-PA",0.0,0.0,Ocean,275023,68483,2,518000.0,9,1999.5,1,79,8,4.5,51.0
+1,Santillo Bakery Pizza,639 S Broad St,Elizabeth,7202,"Nw Yrk, NY-NJ-PA",0.0,0.0,Union,276382,80737,2,119000.0,37,750.0,1,67,28,4.4,657.0
+1,Santos Food Market,501 Harrison Ave,Harrison,7029,"Nw Yrk, NY-NJ-PA",2.1889400919999997,-0.25,Hudson,361189,73337,2,461000.0,9,1999.5,1,30,16,4.0,23.0
+1,Santouka,595 River Rd,Edgewater,7020,"Nw Yrk, NY-NJ-PA",0.0,0.0,Bergen,482038,100181,10,632000.0,9,750.0,2,21,54,4.5,312.0
+1,Selecto Supermarket,531 S Broad St,Trenton,8611,"Trenton, NJ",0.0,0.0,Mercer,202885,79979,10,2345000.0,22,7499.5,3,78,8,4.1,200.0
+1,Sergeantsville General Store,600 Rosemont Ringoes Rd,Sergeantsville,8557,"Nw Yrk, NY-NJ-PA",0.0,0.0,Hunterdon,64523,112335,3,674000.0,37,750.0,2,2,0,3.8,19.0
+1,Shajanzeb Grocery & Deli,131 Monticello Ave # A,Jersey City,7304,"Nw Yrk, NY-NJ-PA",0.0,0.0,Hudson,361189,73337,2,461000.0,10,1999.5,1,118,32,5.0,1.0
+1,Shapiro's Bakery Wholesalers,250 Cedarbridge Ave,Lakewood,8701,"Nw Yrk, NY-NJ-PA",0.0,0.0,Ocean,275023,68483,4,185000.0,12,1999.5,2,84,10,3.7,3.0
+1,Shiloh Market,13 Roadstown Shiloh Rd,Shiloh,8353,"Vineland, NJ",0.0,0.0,Cumberland,65061,51790,8,1909000.0,20,1999.5,3,3,2,4.3,162.0
+1,Simple Simon's Super Deli,337 Essex St,Hackensack,7601,"Nw Yrk, NY-NJ-PA",0.0,0.0,Bergen,482038,100181,2,505000.0,36,1999.5,1,79,23,4.4,71.0
+1,Soitis African Market,624 N White Horse Pike,Stratford,8084,"Phl, PA-NJ-DE-MD",0.0,0.0,Camden,253053,67135,2,443000.0,17,1999.5,1,9,20,4.6,163.0
+1,South End III,443 Zion Rd,Egg Harbor Township,8234,"Atlantic Cty, NJ",0.0,0.0,Atlantic,120728,60826,2,529000.0,1,1999.5,1,40,9,4.3,200.0
+1,Sparrowhill Market-Liquor Str,3190 John F Kennedy Blvd # 3,Jersey City,7306,"Nw Yrk, NY-NJ-PA",0.0,0.0,Hudson,361189,73337,2,461000.0,37,750.0,1,200,39,4.1,29.0
+1,Speedy Mart,715 Somerdale Rd,Blackwood,8012,"Phl, PA-NJ-DE-MD",0.0,0.0,Camden,253053,67135,2,443000.0,27,1999.5,1,39,19,4.7,14.0
+1,Speedy Mart,59 State Rd,Princeton,8540,"Trenton, NJ",0.0,0.0,Mercer,202885,79979,2,469000.0,29,750.0,1,35,7,3.4,5.0
+1,St Cloud Deli Mkt,533 Northfield Ave,West Orange,7052,"Nw Yrk, NY-NJ-PA",0.0,0.0,Essex,368748,62875,3,728000.0,30,1999.5,2,52,11,4.3,38.0
+1,Steve's Food Store,42 N Main St,Flemington,8822,"Nw Yrk, NY-NJ-PA",0.0,0.0,Hunterdon,64523,112335,2,450000.0,28,750.0,1,36,4,2.1,15.0
+1,Steve's Market,601 Central Ave,East Orange,7018,"Nw Yrk, NY-NJ-PA",0.0,0.0,Essex,368748,62875,1,243000.0,16,750.0,0,92,15,4.1,22.0
+0,Subh Foods Inc,135 Old York Rd,Bridgewater,8807,"Nw Yrk, NY-NJ-PA",0.0,0.0,Somerset,171371,119731,4,917000.0,26,750.0,2,31,9,4.4,20.0
+1,Subhlaxmi,550 Stelton Rd,Piscataway,8854,"Nw Yrk, NY-NJ-PA",0.0,0.0,Middlesex,439073,87666,4,916000.0,11,1999.5,2,41,17,3.8,294.0
+1,Subia's Vegan Cafe,506 Jersey Ave,Jersey City,7302,"Nw Yrk, NY-NJ-PA",0.0,0.0,Hudson,361189,73337,4,922000.0,37,750.0,2,73,48,4.3,237.0
+1,Summit Food Mart LLC,944 Summit Ave # 1,Jersey City,7307,"Nw Yrk, NY-NJ-PA",0.0,0.0,Hudson,361189,73337,2,461000.0,5,750.0,1,110,49,5.0,6.0
+1,Sunny Food Mart,700 Warren St,Beverly,8010,"Phl, PA-NJ-DE-MD",0.0,0.0,Burlington,230589,84470,2,473000.0,21,750.0,1,12,17,5.0,2.0
+1,Sunny Mart Food Store,301 Port Reading Ave # 3,Port Reading,7064,"Nw Yrk, NY-NJ-PA",0.0,0.0,Middlesex,439073,87666,2,458000.0,25,1999.5,1,7,19,4.0,2.0
+1,Sunrise,6905 Bergenline Ave,West New York,7093,"Nw Yrk, NY-NJ-PA",0.0,0.0,Hudson,361189,73337,1,231000.0,26,750.0,1,149,59,4.3,6.0
+1,Sunrise Creek,30 Market St,Somerset,8873,"Nw Yrk, NY-NJ-PA",-0.7320261440000001,0.0,Somerset,171371,119731,2,459000.0,12,1999.5,1,81,10,4.9,25.0
+1,Sunset Food Market,983 State Route 12,Frenchtown,8825,"Nw Yrk, NY-NJ-PA",0.0,0.0,Hunterdon,64523,112335,4,899000.0,23,750.0,2,6,0,2.5,4.0
+1,Super Food Marketplace,543 Shaler Blvd,Ridgefield,7657,"Nw Yrk, NY-NJ-PA",0.0,0.0,Bergen,482038,100181,3,758000.0,12,750.0,1,19,48,4.1,47.0
+1,Supremo Food Market,323 Palisade Ave,Jersey City,7307,"Nw Yrk, NY-NJ-PA",0.0,0.0,Hudson,361189,73337,4,4798000.0,14,1999.5,3,110,49,4.1,722.0
+1,Swift Fuel,151 Corbin St,Newark,7114,"Nw Yrk, NY-NJ-PA",0.0,0.0,Essex,368748,62875,2,2421000.0,37,750.0,1,38,22,5.0,2.0
+1,T-A Ashland Food Market,10 Burnt Mill Rd,Cherry Hill,8003,"Phl, PA-NJ-DE-MD",0.0,0.0,Camden,253053,67135,1,222000.0,36,750.0,1,20,21,4.1,33.0
+1,Taveras Deli Grocery,75 Broadway,Newark,7104,"Nw Yrk, NY-NJ-PA",0.0,0.0,Essex,368748,62875,2,486000.0,10,1999.5,1,158,17,3.0,4.0
+1,Ted's Deli & Market,21 Grove St # 4,Kearny,7032,"Nw Yrk, NY-NJ-PA",0.0,0.0,Hudson,361189,73337,2,461000.0,10,1999.5,1,47,20,4.8,24.0
+1,Tims Westview Svc Station,87 Railroad Ave,Ridgefield Park,7660,"Nw Yrk, NY-NJ-PA",0.0,0.0,Bergen,482038,100181,3,3893000.0,37,750.0,2,18,29,4.4,17.0
+0,Torres Market,863 E Jersey St,Elizabeth,7201,"Nw Yrk, NY-NJ-PA",0.0,0.0,Union,276382,80737,2,481000.0,9,1999.5,1,122,25,5.0,2.0
+1,Torres Y Rodriguez Deli,21 Roebling Ave,Trenton,8611,"Trenton, NJ",0.0,0.0,Mercer,202885,79979,3,704000.0,14,750.0,1,78,8,4.6,31.0
+1,Tracy Grocery Multiservices,214 State St,Hackensack,7601,"Nw Yrk, NY-NJ-PA",0.0,0.0,Bergen,482038,100181,2,505000.0,11,3749.5,1,79,23,4.4,5.0
+1,TU Pais Supermarket,101 Anderson St,Trenton,8611,"Trenton, NJ",0.0,0.0,Mercer,202885,79979,2,469000.0,15,750.0,1,78,8,3.4,21.0
+1,Union Avenue Supermarket,373 Union Ave,Paterson,7502,"Nw Yrk, NY-NJ-PA",0.0,0.0,Passaic,242208,71959,3,623000.0,13,1999.5,1,42,17,3.5,23.0
+1,Union City Poultry Market,2408 Bergenline Ave,Union City,7087,"Nw Yrk, NY-NJ-PA",0.0,0.0,Hudson,361189,73337,2,461000.0,15,1999.5,1,210,55,4.0,44.0
+1,Universal Supermarket,2101 Federal St,Camden,8105,"Phl, PA-NJ-DE-MD",0.0,0.0,Camden,253053,67135,2,443000.0,6,1999.5,0,69,29,4.0,276.0
+1,Urena Mini Market,2101 S 9th St,Camden,8104,"Phl, PA-NJ-DE-MD",0.0,0.0,Camden,253053,67135,3,665000.0,15,1999.5,1,59,29,3.8,4.0
+1,Urenas Food Market,868 N 27th St,Camden,8105,"Phl, PA-NJ-DE-MD",0.0,0.0,Camden,253053,67135,2,443000.0,21,750.0,1,69,29,4.0,5.0
+0,Urvesh Grocery Inc,230 Main Ave,Passaic,7055,"Nw Yrk, NY-NJ-PA",0.0,0.0,Passaic,242208,71959,2,416000.0,24,750.0,1,250,29,5.0,1.0
+0,V R Supermarket,113 Main Ave,Passaic,7055,"Nw Yrk, NY-NJ-PA",0.0,0.0,Passaic,242208,71959,2,416000.0,14,750.0,1,250,29,4.3,16.0
+1,Valley Spa Inc,61 E Main St,Little Falls,7424,"Nw Yrk, NY-NJ-PA",0.0,0.0,Passaic,242208,71959,2,416000.0,18,750.0,1,48,19,5.0,1.0
+1,Vela-Ber MARKET LLC,315 Monroe St # A,Passaic,7055,"Nw Yrk, NY-NJ-PA",0.0,0.0,Passaic,242208,71959,2,416000.0,10,1999.5,1,250,29,4.2,47.0
+1,Village Express,48 W Broad St # E,Hopewell,8525,"Trenton, NJ",0.0,0.0,Mercer,202885,79979,2,469000.0,27,1999.5,1,3,2,4.4,10.0
+1,Vineland Deli,1841 W Landis Ave,Vineland,8360,"Vineland, NJ",0.0,0.0,Cumberland,65061,51790,2,478000.0,10,1999.5,1,92,8,4.3,61.0
+1,Virginia Subs,212 2nd St,Elizabeth,7206,"Nw Yrk, NY-NJ-PA",0.0,0.0,Union,276382,80737,4,238000.0,13,750.0,1,80,24,4.5,13.0
+1,Vj's Market,736 W Side Ave,Jersey City,7306,"Nw Yrk, NY-NJ-PA",0.0,0.0,Hudson,361189,73337,2,461000.0,16,750.0,1,200,39,5.0,6.0
+1,Walt's Grocery,4344 Tuckahoe Rd,Williamstown,8094,"Phl, PA-NJ-DE-MD",0.0,0.0,Gloucester,149747,81315,7,1110000.0,37,1999.5,3,32,5,4.6,84.0
+1,Welsh Farms,225 Liberty St,Long Branch,7740,"Nw Yrk, NY-NJ-PA",0.0,0.0,Monmouth,328661,99223,3,687000.0,23,750.0,2,42,7,4.0,2.0
+1,Welsh Farms Food Stores,492 Joline Ave # 9,Long Branch,7740,"Nw Yrk, NY-NJ-PA",0.0,0.0,Monmouth,328661,99223,2,458000.0,28,3749.5,1,42,7,4.7,3.0
+1,West Fourth Superett,601 W 4th St,Plainfield,7060,"Nw Yrk, NY-NJ-PA",0.0,0.0,Union,276382,80737,3,721000.0,28,1999.5,2,92,17,3.8,8.0
+1,West Kinney Mini Market LLC,30 W Kinney St,Newark,7102,"Nw Yrk, NY-NJ-PA",0.0,0.0,Essex,368748,62875,4,971000.0,8,750.0,2,74,17,4.9,10.0
+1,Wilkes Rock Road Deli,221 Rock Rd,Glen Rock,7452,"Nw Yrk, NY-NJ-PA",0.0,0.0,Bergen,482038,100181,6,1515000.0,37,1999.5,3,13,19,4.3,19.0
+1,Willy Mini-Market,451 Union Ave,Paterson,7522,"Nw Yrk, NY-NJ-PA",0.0,0.0,Passaic,242208,71959,2,416000.0,24,750.0,1,59,18,4.5,15.0
+1,Yerlin Deli Grocery Inc,191 Myrtle Ave,Irvington,7111,"Nw Yrk, NY-NJ-PA",0.0,0.0,Essex,368748,62875,2,486000.0,10,1999.5,1,220,26,4.3,67.0
+1,Cedar Knolls Farmers Market,99 Ridgedale Ave,Cedar Knolls,7927,"Nw Yrk, NY-NJ-PA",0.0,0.0,Morris,256698,112396,8,1424000.0,3,1999.5,1,9,13,4.5,48.0
+1,Cedar Knolls Farmers Market,99 Ridgedale Ave,Cedar Knolls,7927,"Nw Yrk, NY-NJ-PA",0.0,0.0,Morris,256698,112396,8,1424000.0,3,1999.5,1,9,13,4.5,48.0
+1,Floritas Deli Grocery,417 1/2 Kearny Ave,Kearny,7032,"Nw Yrk, NY-NJ-PA",0.0,0.0,Hudson,361189,73337,1,55000.0,15,750.0,0,47,20,5.0,2.0
+1,Foodtown Of WA Township,315 Pascack Rd,Township Of Washington,7676,"Nw Yrk, NY-NJ-PA",0.0,0.0,Bergen,482038,100181,2,505000.0,4,1999.5,0,2,15,4.2,666.0
+1,Shop-Rite Supermarkets Inc,107 Morristown Rd,Bernardsville,7924,"Nw Yrk, NY-NJ-PA",0.0,0.0,Somerset,171371,119731,2,459000.0,3,750.0,0,8,3,4.2,3507.0
+1,Shop-Rite Supermarkets Inc,295 Route 72 E,Manahawkin,8050,"Nw Yrk, NY-NJ-PA",0.0,0.0,Ocean,275023,68483,2,518000.0,3,750.0,0,32,6,4.1,952.0
+1,Shop-Rite Supermarkets Inc,1325 US Highway 206,Skillman,8558,"Nw Yrk, NY-NJ-PA",0.0,0.0,Somerset,171371,119731,2,459000.0,2,750.0,0,4,3,4.3,514.0
+1,Shop-Rite Supermarkets Inc,700 Delsea Dr,Westville,8093,"Phl, PA-NJ-DE-MD",0.0,0.0,Gloucester,149747,81315,2,318000.0,3,750.0,0,20,23,4.3,2014.0
+0,Tropical Supermarket,157 Jefferson Ave,Elizabeth,7201,"Nw Yrk, NY-NJ-PA",0.0,0.0,Union,276382,80737,2,481000.0,8,1999.5,1,122,25,3.7,43.0
+1,3rd St Grocery,171 3rd St # A,Elizabeth,7206,"Nw Yrk, NY-NJ-PA",0.0,0.0,Union,276382,80737,2,481000.0,10,1999.5,1,80,24,3.4,8.0
+1,Abuelita Food Market,408 Main St,Bradley Beach,7720,"Nw Yrk, NY-NJ-PA",0.0,0.0,Monmouth,328661,99223,3,687000.0,11,750.0,1,10,8,4.6,8.0
+1,Al Amin Grocery,63 Van Houten St,Paterson,7505,"Nw Yrk, NY-NJ-PA",0.0,0.0,Passaic,242208,71959,1,208000.0,24,750.0,0,37,18,5.0,5.0
+1,Aneuris Meat Market,115 Roseville Ave,Newark,7107,"Nw Yrk, NY-NJ-PA",0.0,0.0,Essex,368748,62875,3,598000.0,20,750.0,2,108,17,3.0,2.0
+1,Archie's Corner,562 Elizabeth Ave # A,Elizabeth,7206,"Nw Yrk, NY-NJ-PA",0.0,0.0,Union,276382,80737,3,721000.0,23,750.0,2,80,24,4.0,4.0
+1,Ayala Grocery,6039 Park Ave,West New York,7093,"Nw Yrk, NY-NJ-PA",0.0,0.0,Hudson,361189,73337,2,461000.0,12,750.0,1,149,59,4.3,3.0
+1,B-Corner Food Mart,118 Clements Bridge Rd,Barrington,8007,"Phl, PA-NJ-DE-MD",0.0,0.0,Camden,253053,67135,3,665000.0,27,1999.5,2,5,29,3.4,9.0
+1,Bachman's Market,510 Prospect St,East Orange,7017,"Nw Yrk, NY-NJ-PA",0.0,0.0,Essex,368748,62875,2,486000.0,37,1999.5,1,72,18,4.5,87.0
+1,Biedronka Polish Deli,65 E County Line Rd # 75,Lakewood,8701,"Nw Yrk, NY-NJ-PA",0.0,0.0,Ocean,275023,68483,2,518000.0,10,3749.5,1,84,10,4.4,56.0
+1,Big Pantry LLC,858 Amboy Ave,Perth Amboy,8861,"Nw Yrk, NY-NJ-PA",0.0,0.0,Middlesex,439073,87666,4,239000.0,5,750.0,0,98,12,4.3,46.0
+0,Brummer's Chocolates,125 E Broad St,Westfield,7090,"Nw Yrk, NY-NJ-PA",0.0,0.0,Union,276382,80737,4,238000.0,37,750.0,2,22,26,4.6,21.0
+1,Cangianos Marketplace,225 Pavonia Ave,Jersey City,7302,"Nw Yrk, NY-NJ-PA",0.0,0.0,Hudson,361189,73337,2,461000.0,1,1999.5,1,73,48,4.9,32.0
+1,Cathers Food Mart,159 Hudson St,Phillipsburg,8865,"Allen-Bth-Est,PA",0.0,0.0,Warren,56060,77571,1,235000.0,23,750.0,0,46,5,2.6,11.0
+1,Central Avenue Mini Market,216 1st St # A,Hackensack,7601,"Nw Yrk, NY-NJ-PA",0.0,0.0,Bergen,482038,100181,2,505000.0,20,750.0,1,79,23,4.4,7.0
+1,Chamberlain Mini Mart,456 Chamberlain Ave,Paterson,7522,"Nw Yrk, NY-NJ-PA",0.0,0.0,Passaic,242208,71959,2,416000.0,37,750.0,1,59,18,5.0,3.0
+1,Champion Meat Market,441 Martin Luther King Jr Dr,Jersey City,7304,"Nw Yrk, NY-NJ-PA",0.0,0.0,Hudson,361189,73337,2,461000.0,20,750.0,1,118,32,4.3,7.0
+1,Chester Convenience Store,71 Main St # 2,Chester,7930,"Nw Yrk, NY-NJ-PA",0.0,0.0,Morris,256698,112396,1,265000.0,16,750.0,0,14,4,3.0,2.0
+1,Christos Mini Mart & Pizzeria,301 8th St,Jersey City,7302,"Nw Yrk, NY-NJ-PA",0.0,0.0,Hudson,361189,73337,2,109000.0,22,750.0,1,73,48,3.5,63.0
+1,Cidra's Supermarket,318 N 7th St,Vineland,8360,"Vineland, NJ",0.0,0.0,Cumberland,65061,51790,6,1432000.0,16,1999.5,2,92,8,4.4,701.0
+1,Cidra's Supermarket,318 N 7th St,Vineland,8360,"Vineland, NJ",0.0,0.0,Cumberland,65061,51790,6,1432000.0,16,1999.5,2,92,8,4.4,704.0
+1,Coco Supermarket,293 Hamilton Ave,Paterson,7501,"Nw Yrk, NY-NJ-PA",0.0,0.0,Passaic,242208,71959,1,208000.0,23,1999.5,0,180,20,4.1,29.0
+1,Community Grocery Deli,97 Mcadoo Ave # 1,Jersey City,7305,"Nw Yrk, NY-NJ-PA",0.0,0.0,Hudson,361189,73337,1,231000.0,12,1999.5,0,166,21,4.5,19.0
+1,Corrado's Of Fairfield,480 US Highway 46,Fairfield,7004,"Nw Yrk, NY-NJ-PA",0.0,0.0,Essex,368748,62875,1,243000.0,10,1999.5,1,23,7,4.1,389.0
+1,Country Farm,3335 Route 524,Howell,7731,"Nw Yrk, NY-NJ-PA",0.0,0.0,Monmouth,328661,99223,1,229000.0,16,750.0,0,30,7,5.0,3.0
+1,Deli Planet,383 Newark Pompton Tpke,Pompton Plains,7444,"Nw Yrk, NY-NJ-PA",0.0,0.0,Morris,256698,112396,2,529000.0,4,1999.5,0,10,6,4.5,116.0
+1,East Brunswick News-Food Store,191 Old Bridge Tpke,East Brunswick,8816,"Nw Yrk, NY-NJ-PA",0.0,0.0,Middlesex,439073,87666,2,458000.0,29,1999.5,1,54,8,4.7,6.0
+0,El Encarguito Grocery Inc,66 Highland Ave,Newark,7104,"Nw Yrk, NY-NJ-PA",0.0,0.0,Essex,368748,62875,2,486000.0,13,1999.5,1,158,17,1.0,1.0
+1,Emporium 218 Supermarket,218 Ferry St,Newark,7105,"Nw Yrk, NY-NJ-PA",0.0,0.0,Essex,368748,62875,10,2427000.0,23,3749.5,3,106,19,4.3,68.0
+0,Everest Realty Inc,1112 Liberty Ave,Hillside,7205,"Nw Yrk, NY-NJ-PA",0.0,0.0,Union,276382,80737,5,683000.0,13,7499.5,4,39,27,4.4,20.0
+1,Fiji Convenience & Smoke Shop,732 Avenue E,Bayonne,7002,"Nw Yrk, NY-NJ-PA",0.0,0.0,Hudson,361189,73337,2,461000.0,2,750.0,0,106,18,4.7,15.0
+1,Francisco Mini Market,415 Crosby Ave # A,Paterson,7502,"Nw Yrk, NY-NJ-PA",0.0,0.0,Passaic,242208,71959,2,416000.0,23,1999.5,1,42,17,5.0,6.0
+1,Good Neighbor Mini Supermarket,918 Lee Ave,North Brunswick,8902,"Nw Yrk, NY-NJ-PA",0.0,0.0,Middlesex,439073,87666,2,458000.0,14,750.0,1,62,11,4.7,26.0
+0,Grab Itdeli & Smoke,217 Mcbride Ave,Paterson,7501,"Nw Yrk, NY-NJ-PA",0.0,0.0,Passaic,242208,71959,4,831000.0,5,750.0,1,180,20,4.3,18.0
+1,Hackettstown Health Food,106 E Moore St,Hackettstown,7840,"Allen-Bth-Est,PA",0.0,0.0,Warren,56060,77571,1,125000.0,10,750.0,0,37,4,4.7,23.0
+1,Harmony Spirits & Grocery,2330 Belvidere Rd,Phillipsburg,8865,"Allen-Bth-Est,PA",0.0,0.0,Warren,56060,77571,2,592000.0,25,750.0,2,46,5,5.0,34.0
+1,Havana Grocery Store,229 George St,New Brunswick,8901,"Nw Yrk, NY-NJ-PA",0.0,0.0,Middlesex,439073,87666,4,916000.0,37,750.0,2,93,20,4.5,59.0
+1,Hudson Food Market,517 Lincoln Pl,Orange,7050,"Nw Yrk, NY-NJ-PA",0.0,0.0,Essex,368748,62875,2,486000.0,24,750.0,1,92,16,4.1,9.0
+1,International Mini Market,425 8th St,Union City,7087,"Nw Yrk, NY-NJ-PA",0.0,0.0,Hudson,361189,73337,4,922000.0,37,750.0,2,210,55,4.6,12.0
+1,Jaritza Supermarket,1085 Summit Ave # A,Jersey City,7307,"Nw Yrk, NY-NJ-PA",0.0,0.0,Hudson,361189,73337,1,231000.0,10,1999.5,0,110,49,4.6,35.0
+1,Judy's Grocery,217 Talmadge Ave # 1,Bound Brook,8805,"Nw Yrk, NY-NJ-PA",0.0,0.0,Somerset,171371,119731,2,459000.0,29,750.0,1,21,8,3.8,20.0
+1,Kevins Corner Deli & Grocery,171 Hobart Ave,Bayonne,7002,"Nw Yrk, NY-NJ-PA",0.0,0.0,Hudson,361189,73337,1,231000.0,24,750.0,0,106,18,3.6,5.0
+1,KNT Food Store,24 W Hudson Ave,Englewood,7631,"Nw Yrk, NY-NJ-PA",0.0,0.0,Bergen,482038,100181,1,253000.0,13,750.0,0,39,22,4.4,5.0
+1,Kosher West,136 Hillside Blvd,Lakewood,8701,"Nw Yrk, NY-NJ-PA",0.0,0.0,Ocean,275023,68483,2,518000.0,14,1999.5,1,84,10,4.5,179.0
+1,Krauser's Food Store,787 Kearny Ave,Kearny,7032,"Nw Yrk, NY-NJ-PA",0.0,0.0,Hudson,361189,73337,2,461000.0,10,750.0,1,47,20,3.0,4.0
+1,LA Nueva Mercedes Inc,500 River St,Paterson,7524,"Nw Yrk, NY-NJ-PA",0.0,0.0,Passaic,242208,71959,9,1868000.0,16,1999.5,3,52,19,5.0,7.0
+1,Lee's International Foodmart,1316 Clinton Ave,Irvington,7111,"Nw Yrk, NY-NJ-PA",0.0,0.0,Essex,368748,62875,2,486000.0,35,750.0,1,220,26,5.0,8.0
+1,Midland Dairy,170 Midland Ave,Kearny,7032,"Nw Yrk, NY-NJ-PA",0.0,0.0,Hudson,361189,73337,10,2304000.0,34,3749.5,3,47,20,4.5,127.0
+1,Miguel Trinidad Grocery,98 Mallory Ave,Jersey City,7304,"Nw Yrk, NY-NJ-PA",0.0,0.0,Hudson,361189,73337,5,1152000.0,23,1999.5,3,118,32,4.8,85.0
+1,Minit Mart Food Store,148 Whitehead Ave # 1,South River,8882,"Nw Yrk, NY-NJ-PA",0.0,0.0,Middlesex,439073,87666,1,229000.0,28,3749.5,1,22,12,4.7,3.0
+1,Naz Foodmart,234 E Fort Lee Rd,Bogota,7603,"Nw Yrk, NY-NJ-PA",0.0,0.0,Bergen,482038,100181,2,505000.0,11,1999.5,1,6,27,3.7,3.0
+0,Olive With A Twist,12 Race St,Frenchtown,8825,"Nw Yrk, NY-NJ-PA",0.0,0.0,Hunterdon,64523,112335,8,932000.0,7,1999.5,1,6,0,4.5,49.0
+1,One Stop Food Market,205 Kates Blvd,Millville,8332,"Vineland, NJ",0.0,0.0,Cumberland,65061,51790,1,239000.0,30,750.0,1,35,4,3.0,3.0
+1,Pantry 1 Food Mart,2200 Mount Ephraim Ave,Oaklyn,8107,"Phl, PA-NJ-DE-MD",0.0,0.0,Camden,253053,67135,5,1108000.0,19,3749.5,2,29,26,3.8,5.0
+1,Pantry Market,7000 Kennedy Blvd E # M-22,Guttenberg,7093,"Nw Yrk, NY-NJ-PA",0.0,0.0,Hudson,361189,73337,2,461000.0,15,3749.5,1,149,59,3.7,9.0
+1,Paramus Quick & Fresh,100 N State Rt 17,Paramus,7652,"Nw Yrk, NY-NJ-PA",0.0,0.0,Bergen,482038,100181,2,505000.0,2,1999.5,0,35,22,4.8,5.0
+1,Pily Groceries,348 E 23rd St,Paterson,7514,"Nw Yrk, NY-NJ-PA",0.0,0.0,Passaic,242208,71959,1,208000.0,26,750.0,1,59,21,4.8,18.0
+1,Poblanita,425 E Main St,Wrightstown,8562,"Phl, PA-NJ-DE-MD",0.0,0.0,Burlington,230589,84470,2,473000.0,18,1999.5,1,10,1,5.0,6.0
+1,Quality Minimarket,310 Renner Ave,Newark,7112,"Nw Yrk, NY-NJ-PA",0.0,0.0,Essex,368748,62875,2,486000.0,10,1999.5,1,80,24,4.2,6.0
+1,Quick Stop,403 Outwater Ln,Saddle Brook,7663,"Nw Yrk, NY-NJ-PA",0.0,0.0,Bergen,482038,100181,4,1010000.0,12,1999.5,2,34,23,2.0,7.0
+1,Quinones Grocery,434 E 31st St,Paterson,7504,"Nw Yrk, NY-NJ-PA",0.0,0.0,Passaic,242208,71959,2,416000.0,17,750.0,1,21,23,4.6,56.0
+1,Qwik Stop,58 Leonard Ave,Leonardo,7737,"Nw Yrk, NY-NJ-PA",0.0,0.0,Monmouth,328661,99223,3,687000.0,27,1999.5,2,3,6,4.4,8.0
+1,Royal Supermarket,576 Broadway,Newark,7104,"Nw Yrk, NY-NJ-PA",0.0,0.0,Essex,368748,62875,2,486000.0,16,1999.5,1,158,17,4.4,24.0
+1,Scott Ave Grocery & Deli,497 W Scott Ave,Rahway,7065,"Nw Yrk, NY-NJ-PA",0.0,0.0,Union,276382,80737,2,481000.0,12,1999.5,1,50,25,4.1,10.0
+1,Seasons Kosher Supermarket,467 Allwood Rd,Clifton,7012,"Nw Yrk, NY-NJ-PA",0.0,0.0,Passaic,242208,71959,2,416000.0,4,1999.5,0,12,27,4.5,491.0
+1,Secaucus News LLC,1504 Paterson Plank Rd,Secaucus,7094,"Nw Yrk, NY-NJ-PA",0.0,0.0,Hudson,361189,73337,2,461000.0,14,1999.5,1,34,43,1.0,1.0
+1,Shoprite,333 South Ave E,Westfield,7090,"Nw Yrk, NY-NJ-PA",0.0,0.0,Union,276382,80737,2,788000.0,1,750.0,3,22,26,4.5,244.0
+1,Somerville Spanish-American,97 S Bridge St,Somerville,8876,"Nw Yrk, NY-NJ-PA",0.0,0.0,Somerset,171371,119731,2,459000.0,37,1999.5,1,30,8,4.7,9.0
+1,Sungate Deli & Dairy,253 Main St,Port Monmouth,7758,"Nw Yrk, NY-NJ-PA",0.0,0.0,Monmouth,328661,99223,2,114000.0,29,750.0,1,4,11,4.7,39.0
+1,Sunny Mart Food Store,1182 Rahway Ave,Avenel,7001,"Nw Yrk, NY-NJ-PA",0.0,0.0,Middlesex,439073,87666,2,458000.0,27,750.0,1,26,21,3.9,77.0
+1,Super 7 Food Market,219 Gibbsboro Rd,Lindenwold,8021,"Phl, PA-NJ-DE-MD",0.0,0.0,Camden,253053,67135,2,443000.0,6,1999.5,0,54,16,3.9,7.0
+1,Super Foods Supermarket,359 Pennington Ave # 1,Trenton,8618,"Trenton, NJ",0.0,0.0,Mercer,202885,79979,3,704000.0,11,3749.5,1,50,6,3.9,385.0
+1,Ultime Supermarket,89 Brookdale Ave,Newark,7106,"Nw Yrk, NY-NJ-PA",0.0,0.0,Essex,368748,62875,4,971000.0,37,1999.5,2,90,22,4.4,23.0
+1,West Food Grocery,4522 Park Ave,Weehawken,7086,"Nw Yrk, NY-NJ-PA",0.0,0.0,Hudson,361189,73337,3,692000.0,20,1999.5,2,16,56,4.5,4.0
+1,William Grocery,644 N 9th St,Camden,8102,"Phl, PA-NJ-DE-MD",0.0,0.0,Camden,253053,67135,2,443000.0,13,1999.5,1,42,28,4.7,7.0
+1,Yasai Net LLC,490 Kinderkamack Rd,River Edge,7661,"Nw Yrk, NY-NJ-PA",0.0,0.0,Bergen,482038,100181,2,505000.0,6,750.0,0,15,21,4.7,25.0
+1,7-Eleven,527 Florida Grove Rd,Perth Amboy,8861,"Nw Yrk, NY-NJ-PA",0.0,0.0,Middlesex,439073,87666,11,2518000.0,15,3749.5,3,98,12,1.9,14.0
+1,A1 Liquors,228 Drs James Parker Blvd,Red Bank,7701,"Nw Yrk, NY-NJ-PA",1.168965517,3.0,Monmouth,328661,99223,4,629000.0,4,750.0,0,47,12,5.0,20.0
+1,A1 Sub & Deli,1004 Roselle St # 1,Linden,7036,"Nw Yrk, NY-NJ-PA",0.0,0.0,Union,276382,80737,2,481000.0,24,750.0,1,94,28,3.9,179.0
+1,Affordable Trading LLC,689 Chancellor Ave,Irvington,7111,"Nw Yrk, NY-NJ-PA",0.0,0.0,Essex,368748,62875,2,486000.0,2,750.0,0,220,26,4.5,26.0
+1,Akmarket Grocery,320 Wabash Ave,Paterson,7503,"Nw Yrk, NY-NJ-PA",0.0,0.0,Passaic,242208,71959,2,416000.0,3,750.0,0,65,24,3.8,23.0
+1,Alex Mini Market,320 Central Ave # 1,Orange,7050,"Nw Yrk, NY-NJ-PA",0.0,0.0,Essex,368748,62875,2,486000.0,12,1999.5,1,92,16,4.0,13.0
+1,Allen's Automotive,3120 State Route 27,Kendall Park,8824,"Nw Yrk, NY-NJ-PA",0.0,0.0,Middlesex,439073,87666,3,622000.0,22,1999.5,3,10,8,4.2,82.0
+1,Almina Halal Supermarket,311 Crooks Ave,Paterson,7503,"Nw Yrk, NY-NJ-PA",0.0,0.0,Passaic,242208,71959,2,416000.0,2,750.0,0,65,24,4.8,88.0
+1,American Super Market,186 Speedwell Ave,Morristown,7960,"Nw Yrk, NY-NJ-PA",0.0,0.0,Morris,256698,112396,3,793000.0,10,1999.5,1,45,11,4.2,43.0
+1,Angelo's Deli,2 Ridgedale Ave W,East Hanover,7936,"Nw Yrk, NY-NJ-PA",0.0,0.0,Morris,256698,112396,4,253000.0,23,750.0,2,22,10,4.5,96.0
+1,Apna Bazaar,101 Portland Ave # C,Bergenfield,7621,"Nw Yrk, NY-NJ-PA",0.0,0.0,Bergen,482038,100181,2,505000.0,24,1999.5,1,27,20,2.8,31.0
+1,Aris Deli Grocery,413 Bloomfield Ave,Newark,7107,"Nw Yrk, NY-NJ-PA",0.0,0.0,Essex,368748,62875,1,243000.0,12,750.0,0,108,17,4.4,16.0
+1,Atco Mart,296 White Horse Pike,Atco,8004,"Phl, PA-NJ-DE-MD",0.0,0.0,Camden,253053,67135,2,443000.0,5,3749.5,0,9,3,4.8,6.0
+1,Avalon Supermarket,2868 Dune Dr,Avalon,8202,"Ocean City, NJ",0.0,0.0,Cape May,45947,62175,2,817000.0,9,1999.5,1,5,3,4.3,60.0
+1,Avalon Supermarket,2868 Dune Dr,Avalon,8202,"Ocean City, NJ",0.0,0.0,Cape May,45947,62175,2,817000.0,9,1999.5,1,5,3,4.3,60.0
+1,Baker Street Market,96 Baker St,Maplewood,7040,"Nw Yrk, NY-NJ-PA",0.0,0.0,Essex,368748,62875,2,486000.0,2,750.0,0,26,23,5.0,4.0
+1,Bamboo Leaf,722 Main St,Bradley Beach,7720,"Nw Yrk, NY-NJ-PA",0.0,0.0,Monmouth,328661,99223,6,341000.0,16,1999.5,2,10,8,4.5,321.0
+1,Barben Supermarket,950 Main St # 1,Paterson,7503,"Nw Yrk, NY-NJ-PA",0.0,0.0,Passaic,242208,71959,14,2906000.0,37,3749.5,3,65,24,4.3,129.0
+1,Belly Deli,408a Paterson Plank Rd,Union City,7087,"Nw Yrk, NY-NJ-PA",0.0,0.0,Hudson,361189,73337,2,461000.0,3,750.0,0,210,55,4.1,38.0
+1,Bernardsvile Latin Groc Store,13 Mount Airy Rd,Bernardsville,7924,"Nw Yrk, NY-NJ-PA",0.0,0.0,Somerset,171371,119731,2,459000.0,3,750.0,0,8,3,4.8,6.0
+0,Big Bear Natural Foods,239 N Union St,Lambertville,8530,"Nw Yrk, NY-NJ-PA",0.0,0.0,Hunterdon,64523,112335,5,1124000.0,13,1999.5,2,7,1,3.8,27.0
+1,Boemio Market,314 Route 70,Lakehurst,8733,"Nw Yrk, NY-NJ-PA",0.0,0.0,Ocean,275023,68483,2,518000.0,9,1999.5,1,7,2,4.2,47.0
+1,Broad Ave Mini Market,790 Broad Ave,Ridgefield,7657,"Nw Yrk, NY-NJ-PA",0.0,0.0,Bergen,482038,100181,1,253000.0,31,1999.5,1,19,48,5.0,1.0
+1,Bryans Luncheonette,42 Main St,Succasunna,7876,"Nw Yrk, NY-NJ-PA",0.0,0.0,Morris,256698,112396,6,1585000.0,37,3749.5,3,14,7,4.7,253.0
+1,Caporrino's News-Convienance,528 Adams St # A,Hoboken,7030,"Nw Yrk, NY-NJ-PA",0.0,0.0,Hudson,361189,73337,2,461000.0,20,750.0,1,65,54,4.0,20.0
+1,Cappuccio's Eastside Deli,5004 Landis Ave,Vineland,8360,"Atlantic Cty, NJ",0.0,0.0,Atlantic,120728,60826,2,529000.0,20,750.0,1,92,8,4.3,80.0
+1,Cherry Market,461 Broadway,Bayonne,7002,"Nw Yrk, NY-NJ-PA",0.0,0.0,Hudson,361189,73337,2,461000.0,12,1999.5,1,106,18,4.4,35.0
+1,Cioffi's Deli & Pizza,762 Mountain Ave,Springfield,7081,"Nw Yrk, NY-NJ-PA",0.0,0.0,Union,276382,80737,5,1201000.0,37,3749.5,3,45,22,4.6,199.0
+1,Cl Grocery LLC,79 Martin Luther King Ave,Morristown,7960,"Nw Yrk, NY-NJ-PA",0.0,0.0,Morris,256698,112396,3,793000.0,2,1999.5,0,45,11,5.0,8.0
+1,Cliff's Dairy Maid,1475 US Highway 46,Ledgewood,7852,"Nw Yrk, NY-NJ-PA",1.218309859,1.222222222,Morris,256698,112396,20,1263000.0,28,1999.5,3,11,8,4.7,1627.0
+1,Country Fresh Food Mart,645 Clements Bridge Rd,Barrington,8007,"Phl, PA-NJ-DE-MD",0.0,0.0,Camden,253053,67135,2,443000.0,19,750.0,1,5,29,3.7,7.0
+1,Dale's Market,66 State Route 94,Blairstown,7825,"Allen-Bth-Est,PA",0.0,0.0,Warren,56060,77571,27,6320000.0,27,7499.5,4,4,1,4.4,153.0
+1,Deal Food & Liquor Store,112 Norwood Ave,Deal,7723,"Nw Yrk, NY-NJ-PA",0.0,0.0,Monmouth,328661,99223,4,916000.0,37,750.0,2,4,7,4.3,3.0
+1,Deli Works,5561 Berkshire Valley Rd,Oak Ridge,7438,"Nw Yrk, NY-NJ-PA",0.0,0.0,Passaic,242208,71959,2,110000.0,31,750.0,1,7,1,4.5,86.0
+1,Despana Brand Foods,235 Nassau St,Princeton,8540,"Trenton, NJ",0.0,0.0,Mercer,202885,79979,3,704000.0,2,1999.5,0,35,7,4.6,57.0
+1,Dollar Plus,900 E Chestnut Ave,Vineland,8360,"Vineland, NJ",0.0,0.0,Cumberland,65061,51790,2,478000.0,20,1999.5,1,92,8,4.4,5.0
+1,E Z Mart,250 Central Ave,Newark,7103,"Nw Yrk, NY-NJ-PA",0.0,0.0,Essex,368748,62875,8,1941000.0,12,3749.5,2,119,15,4.0,4.0
+1,El Bodegon,260 Gregory Ave,Passaic,7055,"Nw Yrk, NY-NJ-PA",0.0,0.0,Passaic,242208,71959,1,208000.0,27,750.0,1,250,29,4.4,7.0
+1,Estevez Food Market,341 E 19th St,Paterson,7524,"Nw Yrk, NY-NJ-PA",0.0,0.0,Passaic,242208,71959,6,1246000.0,35,1999.5,3,52,19,4.5,271.0
+1,Food Ingredient Solutions,10 Malcolm Ave # 1,Teterboro,7608,"Nw Yrk, NY-NJ-PA",0.0,0.0,Bergen,482038,100181,19,4795000.0,15,14999.5,3,5,31,5.0,3.0
+1,Food Plus,609 Sicklerville Rd,Sicklerville,8081,"Phl, PA-NJ-DE-MD",0.0,0.0,Camden,253053,67135,2,443000.0,18,1999.5,1,32,11,4.4,15.0
+1,Foster's Farm Market,400 N Bay Ave,Beach Haven,8008,"Nw Yrk, NY-NJ-PA",0.0,0.0,Ocean,275023,68483,2,518000.0,9,750.0,1,20,1,4.6,13.0
+1,Franklin Corner Deli,177 Franklin Corner Rd # 1,Lawrence Township,8648,"Trenton, NJ",0.0,0.0,Mercer,202885,79979,5,1173000.0,18,3749.5,3,38,10,4.2,108.0
+1,Franklin Corner Deli,177 Franklin Corner Rd # 1,Lawrence Township,8648,"Trenton, NJ",0.0,0.0,Mercer,202885,79979,5,1173000.0,18,3749.5,3,38,10,4.2,108.0
+1,Friendly Auto Repair,528 Main St,Orange,7050,"Nw Yrk, NY-NJ-PA",0.0,0.0,Essex,368748,62875,5,499000.0,28,750.0,4,92,16,4.6,24.0
+1,Friendly Food Mart,1900 Greentree Rd,Cherry Hill,8003,"Phl, PA-NJ-DE-MD",0.0,0.0,Camden,253053,67135,3,665000.0,37,3749.5,2,20,21,4.6,14.0
+1,Fuel One,701 US Highway 1,Edison,8817,"Nw Yrk, NY-NJ-PA",0.0,0.0,Middlesex,439073,87666,7,1603000.0,14,1999.5,2,82,22,3.8,94.0
+1,Garden State Dairy,135 Oakland Ave,Closter,7624,"Nw Yrk, NY-NJ-PA",0.0,0.0,Bergen,482038,100181,4,1010000.0,33,750.0,2,11,13,4.5,8.0
+1,Gene's II Deli,163 Speedwell Ave,Morris Plains,7950,"Nw Yrk, NY-NJ-PA",0.0,0.0,Morris,256698,112396,2,529000.0,22,1999.5,1,19,14,4.1,16.0
+1,Giovanni's Italian Amer Deli,1102 N East Ave,Vineland,8360,"Vineland, NJ",0.0,0.0,Cumberland,65061,51790,17,4057000.0,21,3749.5,3,92,8,4.6,343.0
+1,Glatt Express,1400 Queen Anne Rd,Teaneck,7666,"Nw Yrk, NY-NJ-PA",0.0,0.0,Bergen,482038,100181,2,505000.0,30,750.0,1,33,23,4.4,163.0
+1,Gene's II Deli,163 Speedwell Ave,Morris Plains,7950,"Nw Yrk, NY-NJ-PA",0.0,0.0,Morris,256698,112396,2,529000.0,22,1999.5,1,19,14,4.1,16.0
+1,Glatt Express,1400 Queen Anne Rd,Teaneck,7666,"Nw Yrk, NY-NJ-PA",0.0,0.0,Bergen,482038,100181,2,505000.0,30,750.0,1,33,23,4.4,163.0
+1,Glen Rock Food Inc,920 Prospect St,Glen Rock,7452,"Nw Yrk, NY-NJ-PA",0.0,0.0,Bergen,482038,100181,3,758000.0,29,750.0,2,13,19,4.3,6.0
+0,Green Life Market,66 Morris St # 1,Morristown,7960,"Nw Yrk, NY-NJ-PA",0.0,0.0,Morris,256698,112396,25,2756000.0,8,69999.5,3,45,11,4.2,41.0
+1,Hudson Middle Food,168 S Center St # 1,Orange,7050,"Nw Yrk, NY-NJ-PA",0.0,0.0,Essex,368748,62875,3,728000.0,11,1999.5,1,92,16,3.7,3.0
+1,Isabelita Supermarket,341 Park Ave,Plainfield,7060,"Nw Yrk, NY-NJ-PA",0.0,0.0,Union,276382,80737,2,481000.0,5,1999.5,0,92,17,4.7,6.0
+1,Jersey Shore Deli,613 Hope Rd # 19,Eatontown,7724,"Nw Yrk, NY-NJ-PA",0.0,0.0,Monmouth,328661,99223,3,687000.0,13,3749.5,1,21,10,4.3,30.0
+1,Jimenez Grocery,2750 Federal St,Camden,8105,"Phl, PA-NJ-DE-MD",0.0,0.0,Camden,253053,67135,1,222000.0,36,750.0,1,69,29,4.5,16.0
+1,Juanito's Market,197 Shrewsbury Ave,Red Bank,7701,"Nw Yrk, NY-NJ-PA",0.0,0.0,Monmouth,328661,99223,3,687000.0,9,1999.5,1,47,12,4.1,133.0
+1,Juanito's Market,197 Shrewsbury Ave,Red Bank,7701,"Nw Yrk, NY-NJ-PA",0.0,0.0,Monmouth,328661,99223,3,687000.0,9,1999.5,1,47,12,4.1,133.0
+1,Kam Man Super Market LLC,200 State Route 10 # 10,East Hanover,7936,"Nw Yrk, NY-NJ-PA",0.0,0.0,Morris,256698,112396,3,793000.0,5,7499.5,1,22,10,4.2,518.0
+1,Khushiara Mini Market,22 Paterson Ave # 1,Paterson,7522,"Nw Yrk, NY-NJ-PA",0.0,0.0,Passaic,242208,71959,2,416000.0,18,750.0,1,59,18,5.0,4.0
+1,Kings Super Markets,700 Lanidex Plz # 200,Parsippany,7054,"Nw Yrk, NY-NJ-PA",0.0,0.0,Morris,256698,112396,3,793000.0,9,3749.5,0,60,13,3.3,14.0
+1,Ko Fro Foods,23 Mileed Way,Avenel,7001,"Nw Yrk, NY-NJ-PA",0.0,0.0,Middlesex,439073,87666,2,458000.0,12,1999.5,1,26,21,3.8,11.0
+1,Kollel Food Svc,403 Clifton Ave # 1,Lakewood,8701,"Nw Yrk, NY-NJ-PA",0.0,0.0,Ocean,275023,68483,10,2586000.0,37,7499.5,3,84,10,4.7,18.0
+1,Kosher Konnection Inc,200 Main Ave,Passaic,7055,"Nw Yrk, NY-NJ-PA",0.0,0.0,Passaic,242208,71959,6,1246000.0,29,3749.5,3,250,29,4.4,130.0
+1,Krauser's Food Mart,225 S Pavilion Ave,Riverside,8075,"Phl, PA-NJ-DE-MD",0.0,0.0,Burlington,230589,84470,2,473000.0,14,750.0,1,36,23,3.9,18.0
+1,LA Mexicanita,179 Spring St,Newton,7860,"Nw Yrk, NY-NJ-PA",0.0,0.0,Sussex,73963,92284,5,1242000.0,10,3749.5,2,28,3,4.3,14.0
+1,LA Placita Supermarket,152 48th St,Union City,7087,"Nw Yrk, NY-NJ-PA",0.0,0.0,Hudson,361189,73337,2,461000.0,7,1999.5,0,210,55,4.3,533.0
+1,LA Sorpresa Meat Market,4101 Ventnor Ave,Atlantic City,8401,"Atlantic Cty, NJ",0.0,0.0,Atlantic,120728,60826,5,1323000.0,13,3749.5,2,159,3,4.3,12.0
+1,LA Union Grocery Store,396 Communipaw Ave # A,Jersey City,7304,"Nw Yrk, NY-NJ-PA",0.0,0.0,Hudson,361189,73337,2,461000.0,19,750.0,1,118,32,4.5,6.0
+1,Lacey Auto Care,930 Lacey Rd,Forked River,8731,"Nw Yrk, NY-NJ-PA",0.0,0.0,Ocean,275023,68483,9,1562000.0,37,1999.5,4,15,3,4.4,34.0
+1,LC Supermarket,139 Speedwell Ave,Morristown,7960,"Nw Yrk, NY-NJ-PA",0.0,0.0,Morris,256698,112396,3,793000.0,13,1999.5,1,45,11,4.2,36.0
+1,Lee's Market,545 Valley Rd,West Orange,7052,"Nw Yrk, NY-NJ-PA",0.0,0.0,Essex,368748,62875,3,728000.0,37,750.0,2,52,11,4.9,29.0
+1,Livingston Mart,212 N Livingston Ave,Livingston,7039,"Nw Yrk, NY-NJ-PA",0.0,0.0,Essex,368748,62875,3,728000.0,18,750.0,2,24,12,4.1,21.0
+1,Local Links Market,533 Station Ave,Haddon Heights,8035,"Phl, PA-NJ-DE-MD",0.0,0.0,Camden,253053,67135,2,443000.0,6,1999.5,0,3,28,4.7,151.0
+1,Lopez Deli & Grocery,73 Mary St,Paterson,7503,"Nw Yrk, NY-NJ-PA",0.0,0.0,Passaic,242208,71959,2,416000.0,17,1999.5,1,65,24,4.5,391.0
+1,Madison Gas Mart Inc,215 Madison Ave,Morristown,7960,"Nw Yrk, NY-NJ-PA",0.0,0.0,Morris,256698,112396,4,5036000.0,16,750.0,2,45,11,3.9,39.0
+1,Maple Chek,1942 Springfield Ave,Maplewood,7040,"Nw Yrk, NY-NJ-PA",0.0,0.0,Essex,368748,62875,2,486000.0,31,1999.5,1,26,23,4.1,32.0
+1,Mcbride Convenience,500 Mcbride Ave,Woodland Park,7424,"Nw Yrk, NY-NJ-PA",0.0,0.0,Passaic,242208,71959,2,416000.0,10,1999.5,1,48,19,3.0,1.0
+1,Metal Supermarkets,80 Hobart St,Hackensack,7601,"Nw Yrk, NY-NJ-PA",0.0,0.0,Bergen,482038,100181,2,505000.0,1,1999.5,1,79,23,4.5,23.0
+1,Mexico Lindo Mini-Market,1143 Lawrence Rd,Lawrence Township,8648,"Trenton, NJ",0.0,0.0,Mercer,202885,79979,3,704000.0,10,1999.5,1,38,10,4.6,28.0
+1,Mi Tierra Deli Grocery,32 Broadway # 1,Jersey City,7306,"Nw Yrk, NY-NJ-PA",0.0,0.0,Hudson,361189,73337,2,461000.0,25,1999.5,1,200,39,4.6,34.0
+1,Milford Market,26 Bridge St,Milford,8848,"Nw Yrk, NY-NJ-PA",0.0,0.0,Hunterdon,64523,112335,15,3370000.0,25,7499.5,3,5,0,4.2,143.0
+1,Mini Mart,300 Park Ave # 1,Rutherford,7070,"Nw Yrk, NY-NJ-PA",0.0,0.0,Bergen,482038,100181,1,253000.0,33,1999.5,1,18,28,4.0,6.0
+1,Mini Mart Food Store,405 Danforth Ave,Jersey City,7305,"Nw Yrk, NY-NJ-PA",0.0,0.0,Hudson,361189,73337,2,461000.0,23,750.0,1,166,21,3.4,5.0
+1,Monmouth Health Foods,181 Main St,Manasquan,8736,"Nw Yrk, NY-NJ-PA",0.0,0.0,Monmouth,328661,99223,9,1102000.0,37,1999.5,2,17,10,5.0,12.0
+1,Narmada Indian Groceries,58 Main Ave,Clifton,7014,"Nw Yrk, NY-NJ-PA",0.0,0.0,Passaic,242208,71959,3,623000.0,6,750.0,2,11,27,4.1,646.0
+1,Newark Supermarket,515 Newark Ave # A,Jersey City,7306,"Nw Yrk, NY-NJ-PA",0.0,0.0,Hudson,361189,73337,2,461000.0,13,1999.5,1,200,39,4.0,18.0
+1,Northeast Kettle KORN,113 Mountain View Rd,Hillsborough,8844,"Nw Yrk, NY-NJ-PA",0.0,0.0,Somerset,171371,119731,2,459000.0,12,750.0,1,24,3,5.0,1.0
+1,Nunec Brothers,946 S 4th St,Camden,8103,"Phl, PA-NJ-DE-MD",0.0,0.0,Camden,253053,67135,4,886000.0,30,750.0,2,45,31,4.4,133.0
+1,One Stop Shop,36 Delsea Dr N,Glassboro,8028,"Phl, PA-NJ-DE-MD",0.0,0.0,Gloucester,149747,81315,2,318000.0,27,750.0,1,29,8,4.0,10.0
+1,Park Deli Grocery,33 N Park St,East Orange,7017,"Nw Yrk, NY-NJ-PA",0.0,0.0,Essex,368748,62875,2,486000.0,11,750.0,1,72,18,3.7,26.0
+1,Penny Pantry,4345 US Highway 9 # 19,Freehold,7728,"Nw Yrk, NY-NJ-PA",0.0,0.0,Monmouth,328661,99223,3,687000.0,27,3749.5,2,86,10,5.0,3.0
+1,Pitman Convenience Store,308 S Broadway,Pitman,8071,"Phl, PA-NJ-DE-MD",0.0,0.0,Gloucester,149747,81315,1,159000.0,15,750.0,0,7,7,4.7,21.0
+1,Prime Time Convenience,305 Willow Ave # A,Hoboken,7030,"Nw Yrk, NY-NJ-PA",0.0,0.0,Hudson,361189,73337,2,461000.0,14,750.0,1,65,54,4.0,2.0
+1,Pueblo Grocery,352 Grand St # 1,Paterson,7505,"Nw Yrk, NY-NJ-PA",0.0,0.0,Passaic,242208,71959,1,208000.0,18,750.0,0,37,18,4.1,12.0
+1,Quezada Grocery,1401 New York Ave,Union City,7087,"Nw Yrk, NY-NJ-PA",0.0,0.0,Hudson,361189,73337,1,231000.0,34,750.0,1,210,55,4.5,4.0
+1,Quick Food Mart,1023 Erial Rd,Pine Hill,8021,"Phl, PA-NJ-DE-MD",0.0,0.0,Camden,253053,67135,1,222000.0,13,750.0,0,54,16,4.3,4.0
+1,Quick Shop,48 Patterson St,Hillsdale,7642,"Nw Yrk, NY-NJ-PA",0.0,0.0,Bergen,482038,100181,2,505000.0,37,750.0,1,13,14,3.8,6.0
+1,Rodriguez Family Grocery LLC,224 S Orange Ave,Newark,7103,"Nw Yrk, NY-NJ-PA",0.0,0.0,Essex,368748,62875,3,728000.0,24,750.0,2,119,15,4.4,9.0
+1,Sandwich Time,495 Avenel St,Avenel,7001,"Nw Yrk, NY-NJ-PA",0.0,0.0,Middlesex,439073,87666,3,179000.0,7,750.0,0,26,21,4.4,158.0
+1,Santa Ana Grocery,374 Pacific Ave,Jersey City,7304,"Nw Yrk, NY-NJ-PA",0.0,0.0,Hudson,361189,73337,3,692000.0,14,1999.5,1,118,32,3.9,16.0
+1,Seas Star Food USA Inc,175 S Newman St,Hackensack,7601,"Nw Yrk, NY-NJ-PA",0.0,0.0,Bergen,482038,100181,2,505000.0,8,750.0,1,79,23,3.0,2.0
+1,Shaan Halal Meat Market,3029 State Route 27 # 5,Franklin Park,8823,"Nw Yrk, NY-NJ-PA",0.0,0.0,Somerset,171371,119731,2,459000.0,9,1999.5,1,13,0,3.7,111.0
+1,Shorty's Poultry Market,52 Madison St,Newark,7105,"Nw Yrk, NY-NJ-PA",0.0,0.0,Essex,368748,62875,2,486000.0,27,750.0,1,106,19,4.6,42.0
+1,Shreeji Convenience,100 W 15th St # 1,Linden,7036,"Nw Yrk, NY-NJ-PA",0.0,0.0,Union,276382,80737,2,481000.0,18,1999.5,1,94,28,5.0,2.0
+1,Sip Avenue Grocery,227 Sip Ave,Jersey City,7306,"Nw Yrk, NY-NJ-PA",0.0,1.0,Hudson,361189,73337,2,461000.0,21,750.0,1,200,39,5.0,5.0
+1,Spartan Auto Svc Inc,203 E Hanover Ave,Morristown,7960,"Nw Yrk, NY-NJ-PA",0.0,0.0,Morris,256698,112396,2,2518000.0,37,750.0,1,45,11,3.8,5.0
+1,Speedy Mart,123 S White Horse Pike,Berlin,8009,"Phl, PA-NJ-DE-MD",0.0,0.0,Camden,253053,67135,4,886000.0,14,1999.5,2,25,6,4.3,11.0
+1,Speedy Mart,182 Ridgedale Ave # 6,Florham Park,7932,"Nw Yrk, NY-NJ-PA",0.0,0.0,Morris,256698,112396,2,529000.0,6,3749.5,0,13,16,4.3,7.0
+0,Springfield Avenue Deli,1682 Springfield Ave,New Providence,7974,"Nw Yrk, NY-NJ-PA",0.0,0.0,Union,276382,80737,2,481000.0,21,750.0,1,7,14,4.5,17.0
+1,Sukhadia's India Cafe,124 Case Dr,South Plainfield,7080,"Nw Yrk, NY-NJ-PA",0.0,0.0,Middlesex,439073,87666,10,596000.0,9,3749.5,2,49,24,2.8,32.0
+1,Super Savers Markets,1210 Main St,Belmar,7719,"Nw Yrk, NY-NJ-PA",0.0,0.0,Monmouth,328661,99223,3,687000.0,6,1999.5,1,35,12,4.6,42.0
+1,Tana's Food Market,52 Cianci St,Paterson,7501,"Nw Yrk, NY-NJ-PA",0.0,0.0,Passaic,242208,71959,2,416000.0,37,750.0,1,180,20,4.4,52.0
+1,Tara's Deli,530 Valley St # A,Maplewood,7040,"Nw Yrk, NY-NJ-PA",0.0,0.0,Essex,368748,62875,3,728000.0,25,750.0,2,26,23,4.2,70.0
+1,TNC Mini Mart,80 1st Ave # E,Atlantic Highlands,7716,"Nw Yrk, NY-NJ-PA",0.0,0.0,Monmouth,328661,99223,2,458000.0,8,1999.5,1,9,7,4.3,3.0
+1,Trenton Farmer's Market,960 Spruce St,Trenton,8648,"Trenton, NJ",0.0,0.0,Mercer,202885,79979,4,241000.0,37,750.0,2,38,10,4.6,321.0
+1,Tropical Hut Catering,3366 US Highway 9,Old Bridge,8857,"Nw Yrk, NY-NJ-PA",0.0,0.0,Middlesex,439073,87666,6,1374000.0,21,1999.5,3,41,9,4.4,82.0
+0,Uncle Gino's Marketplace,300 Gordons Corner Rd,Manalapan,7726,"Nw Yrk, NY-NJ-PA",0.0,0.0,Monmouth,328661,99223,20,4580000.0,6,69999.5,3,45,11,4.7,52.0
+1,Wanda Supermarket,59 Park Ave,East Orange,7017,"Nw Yrk, NY-NJ-PA",0.0,0.0,Essex,368748,62875,2,486000.0,28,1999.5,1,72,18,4.5,30.0
+1,Welsh Farms,1500 Main St,Asbury Park,7712,"Nw Yrk, NY-NJ-PA",0.0,0.0,Monmouth,328661,99223,8,1832000.0,22,3749.5,3,60,9,4.1,29.0
+1,Welsh Farms,1330 Main Ave,Clifton,7011,"Nw Yrk, NY-NJ-PA",0.0,0.0,Passaic,242208,71959,2,416000.0,19,1999.5,1,77,29,2.3,15.0
+1,Welsh Farms,110 E Front St,Red Bank,7701,"Nw Yrk, NY-NJ-PA",0.0,0.0,Monmouth,328661,99223,2,2210000.0,24,750.0,1,47,12,4.3,8.0
+1,Welsh Farms,1500 Main St,Asbury Park,7712,"Nw Yrk, NY-NJ-PA",0.0,0.0,Monmouth,328661,99223,8,1832000.0,22,3749.5,3,60,9,4.1,29.0
+1,Welsh Farms,110 E Front St,Red Bank,7701,"Nw Yrk, NY-NJ-PA",0.0,0.0,Monmouth,328661,99223,2,2210000.0,24,750.0,1,47,12,4.3,8.0
+0,Big Savings Supermarket,761 Ocean Ave,Jersey City,7304,"Nw Yrk, NY-NJ-PA",0.0,0.0,Hudson,361189,73337,2,461000.0,10,1999.5,1,118,32,5.0,8.0
+1,Nunez Grocery,213 Slater St # A,Paterson,7501,"Nw Yrk, NY-NJ-PA",0.0,0.0,Passaic,242208,71959,2,416000.0,19,750.0,1,180,20,3.8,13.0
+1,61st Street Deli,6101 Newkirk Ave,North Bergen,7047,"Nw Yrk, NY-NJ-PA",0.0,0.0,Hudson,361189,73337,2,109000.0,26,750.0,1,99,55,4.2,98.0
+1,786 Food Market,295 E Railway Ave,Paterson,7503,"Nw Yrk, NY-NJ-PA",0.0,0.0,Passaic,242208,71959,15,3114000.0,19,7499.5,3,65,24,4.3,12.0
+1,American Way Food Store,2005 State Route 35 # 11,Oakhurst,7755,"Nw Yrk, NY-NJ-PA",0.0,0.0,Monmouth,328661,99223,3,687000.0,28,3749.5,2,11,9,2.9,15.0
+1,Anabellas House Mozz,900 Paterson Plank Rd,East Rutherford,7073,"Nw Yrk, NY-NJ-PA",0.0,0.0,Bergen,482038,100181,2,505000.0,4,1999.5,0,23,28,4.3,564.0
+1,Angelo's Italian Market Inc,68 Oceanport Ave,Little Silver,7739,"Nw Yrk, NY-NJ-PA",0.0,0.0,Monmouth,328661,99223,3,687000.0,5,750.0,1,7,11,4.9,65.0
+1,Arla Foods Inc USA,106 Allen Rd # 401,Basking Ridge,7920,"Nw Yrk, NY-NJ-PA",0.0,0.0,Somerset,171371,119731,15,2875000.0,6,69999.5,3,14,4,5.0,3.0
+1,Bodeguita Deli LLC,81 James St,Bloomfield,7003,"Nw Yrk, NY-NJ-PA",0.0,0.0,Essex,368748,62875,2,486000.0,1,1999.5,1,78,25,4.9,18.0
+1,Bud's Market,16 Main St,Quinton,8072,"Phl, PA-NJ-DE-MD",0.0,0.0,Salem,29180,64524,3,999000.0,14,750.0,1,1,0,4.8,173.0
+0,C Cavallo's Market,173 Bloomfield Ave,Nutley,7110,"Nw Yrk, NY-NJ-PA",0.0,0.0,Essex,368748,62875,2,486000.0,30,750.0,1,24,26,4.4,113.0
+1,Casablanca Supermarket,701 Marshall St,Elizabeth,7201,"Nw Yrk, NY-NJ-PA",0.0,0.0,Union,276382,80737,8,1921000.0,37,1999.5,3,122,25,4.4,484.0
+1,Chateau Of Spain Restaurant,11 Franklin St,Newark,7102,"Nw Yrk, NY-NJ-PA",0.0,0.0,Essex,368748,62875,11,655000.0,29,3749.5,3,74,17,4.4,1401.0
+1,Corner Stone,100 Kings Way E # D6,Sewell,8080,"Phl, PA-NJ-DE-MD",0.0,0.0,Gloucester,149747,81315,12,2679000.0,3,29999.5,3,36,9,4.9,240.0
+1,Dodge's Market,55 Chestnut St,Elmer,8318,"Phl, PA-NJ-DE-MD",0.0,0.0,Salem,29180,64524,6,1998000.0,21,3749.5,3,14,0,4.4,439.0
+1,Dodge's Market,55 Chestnut St,Elmer,8318,"Phl, PA-NJ-DE-MD",0.0,0.0,Salem,29180,64524,6,1998000.0,21,3749.5,3,14,0,4.4,439.0
+1,Eagle Supermarket,1102 Elizabeth Ave,Elizabeth,7201,"Nw Yrk, NY-NJ-PA",0.0,0.0,Union,276382,80737,28,6722000.0,26,29999.5,4,122,25,4.0,331.0
+1,East Coast Catering & Cafe,769 Avenue A,Bayonne,7002,"Nw Yrk, NY-NJ-PA",0.0,0.0,Hudson,361189,73337,8,1844000.0,27,1999.5,3,106,18,4.2,23.0
+1,Efe's Halal Food Market,4000 Route 130 # 12,Delran,8075,"Phl, PA-NJ-DE-MD",0.0,0.0,Burlington,230589,84470,2,473000.0,24,3749.5,1,36,23,4.4,74.0
+1,El Agila Dorada,830 Broadway,Bayonne,7002,"Nw Yrk, NY-NJ-PA",0.0,0.0,Hudson,361189,73337,10,542000.0,13,3749.5,2,106,18,4.5,699.0
+1,El Pueblito Market,782 Emerson St,Lindenwold,8021,"Phl, PA-NJ-DE-MD",0.543554007,0.0,Camden,253053,67135,2,443000.0,14,1999.5,1,54,16,4.0,92.0
+1,El Tepeyac Grocery,225 Monroe St # 1,Passaic,7055,"Nw Yrk, NY-NJ-PA",0.0,0.0,Passaic,242208,71959,2,416000.0,21,750.0,1,250,29,4.3,17.0
+1,Eli Auto Svc Ctr,618 Cedar Ln,Teaneck,7666,"Nw Yrk, NY-NJ-PA",0.0,0.0,Bergen,482038,100181,3,579000.0,27,750.0,3,33,23,4.4,44.0
+0,Esperanza Pueblo Grocery,466 Broadway,Paterson,7514,"Nw Yrk, NY-NJ-PA",0.0,0.0,Passaic,242208,71959,1,208000.0,23,750.0,0,59,21,4.3,4.0
+1,Express Mart Smoke Shop,30 Paterson St,New Brunswick,8901,"Nw Yrk, NY-NJ-PA",0.0,0.0,Middlesex,439073,87666,2,458000.0,11,1999.5,1,93,20,3.4,72.0
+1,Extra Supermarket,563 Central Ave,East Orange,7018,"Nw Yrk, NY-NJ-PA",0.0,0.0,Essex,368748,62875,23,5581000.0,25,14999.5,4,92,15,3.8,879.0
+1,Fat Louie's,132 E Red Bank Ave,Woodbury,8096,"Phl, PA-NJ-DE-MD",0.0,0.0,Gloucester,149747,81315,8,482000.0,7,1999.5,2,55,17,3.9,255.0
+1,Florham Park Exxon,151 Columbia Tpke,Florham Park,7932,"Nw Yrk, NY-NJ-PA",0.0,0.0,Morris,256698,112396,3,3777000.0,12,750.0,1,13,16,3.6,44.0
+1,Food Circus Super Markets Inc,Deal Rd & State Hwy No 35,Oakhurst,7755,"Nw Yrk, NY-NJ-PA",0.0,0.0,Monmouth,328661,99223,3,687000.0,3,1999.5,0,11,9,4.5,15.0
+1,Gaiss Market,1215 Bayshore Rd,Villas,8251,"Ocean City, NJ",0.0,0.0,Cape May,45947,62175,12,4898000.0,37,3749.5,3,6,5,4.7,185.0
+1,Ginkaku Japanese Bistro,787 New Jersey 34,Matawan,7747,"Nw Yrk, NY-NJ-PA",0.0,0.0,Monmouth,328661,99223,5,284000.0,2,750.0,0,46,12,4.6,85.0
+1,Ginkaku Japanese Bistro,787 New Jersey 34,Matawan,7747,"Nw Yrk, NY-NJ-PA",0.0,0.0,Monmouth,328661,99223,5,284000.0,2,750.0,0,46,12,4.6,85.0
+1,Globe Packaging Co,368 Paterson Plank Rd,Carlstadt,7072,"Nw Yrk, NY-NJ-PA",0.0,0.0,Bergen,482038,100181,10,7386000.0,16,7499.5,4,19,29,3.0,2.0
+1,Glory's Deli & Grocery,584 Cedar Swamp Rd,Jackson,8527,"Nw Yrk, NY-NJ-PA",0.0,0.0,Ocean,275023,68483,23,4101000.0,36,14999.5,4,51,6,4.4,119.0
+1,Gonzalez Mini Market,125 Presidential Blvd # 1,Paterson,7522,"Nw Yrk, NY-NJ-PA",0.0,0.0,Passaic,242208,71959,2,416000.0,4,1999.5,0,59,18,4.6,14.0
+1,Grassroots Natural Market,20 1st Ave # 3,Denville,7834,"Nw Yrk, NY-NJ-PA",0.0,0.0,Morris,256698,112396,25,2756000.0,25,29999.5,3,20,13,4.6,74.0
+1,Green Acres Health Food Store,1297 Centennial Ave # 4,Piscataway,8854,"Nw Yrk, NY-NJ-PA",0.0,0.0,Middlesex,439073,87666,8,1832000.0,36,7499.5,3,41,17,4.6,44.0
+1,Greenwich Deli LLC,458a County Road 519,Stewartsville,8886,"Allen-Bth-Est,PA",0.0,0.0,Warren,56060,77571,1,235000.0,16,1999.5,0,4,3,4.7,30.0
+1,Gromart,250 Mill St # 2,Belleville,7109,"Nw Yrk, NY-NJ-PA",-0.569911504,0.0,Essex,368748,62875,2,129000.0,13,750.0,0,41,26,4.5,4.0
+1,International Meat Market,588 River St,Paterson,7524,"Nw Yrk, NY-NJ-PA",0.0,0.0,Passaic,242208,71959,2,349000.0,14,750.0,1,52,19,4.7,9.0
+1,Ishatars Food Mart & Grill,64 Hancock,Springfield,7081,"Nw Yrk, NY-NJ-PA",0.0,0.0,Union,276382,80737,4,238000.0,3,750.0,0,45,22,4.3,307.0
+1,Jackson Service Station,2300 W County Line Rd,Jackson,8527,"Nw Yrk, NY-NJ-PA",0.0,0.0,Ocean,275023,68483,4,3779000.0,34,750.0,2,51,6,4.4,35.0
+1,Jazz Convenience,120 W Sylvania Ave,Neptune,7753,"Nw Yrk, NY-NJ-PA",0.0,0.0,Monmouth,328661,99223,2,458000.0,7,1999.5,0,55,8,5.0,9.0
+1,John's Friendly Market,622 Station Ave,Haddon Heights,8035,"Phl, PA-NJ-DE-MD",0.0,0.0,Camden,253053,67135,7,1551000.0,22,3749.5,3,3,28,4.7,119.0
+1,Kenny's Pit Stop,153 Newark Pompton Tpke,Pequannock,7440,"Nw Yrk, NY-NJ-PA",0.0,0.0,Morris,256698,112396,3,190000.0,9,750.0,1,1,6,4.8,34.0
+1,LA Nany Mini Market,356 Union Ave,Paterson,7502,"Nw Yrk, NY-NJ-PA",0.0,0.0,Passaic,242208,71959,2,416000.0,7,1999.5,0,42,17,4.2,990.0
+1,LA Parada Chilanga Mexican,399 Dover Rd,Toms River,8757,"Nw Yrk, NY-NJ-PA",0.0,0.0,Ocean,275023,68483,2,518000.0,3,1999.5,0,10,6,4.0,3.0
+1,LA Placita,52 Throckmorton St # A,Freehold,7728,"Nw Yrk, NY-NJ-PA",0.0,0.0,Monmouth,328661,99223,1,57000.0,15,750.0,0,86,10,4.0,29.0
+1,Landing Market,190 Mount Arlington Blvd,Landing,7850,"Nw Yrk, NY-NJ-PA",2.138339921,0.0,Morris,256698,112396,4,794000.0,20,1999.5,2,3,7,3.9,17.0
+1,Leblon Foods Inc,51 Arlington Ave,Kearny,7032,"Nw Yrk, NY-NJ-PA",0.0,0.0,Hudson,361189,73337,2,461000.0,9,1999.5,1,47,20,3.0,6.0
+1,Little Ferry Gas Corp,179 US Highway 46,Little Ferry,7643,"Nw Yrk, NY-NJ-PA",0.0,0.0,Bergen,482038,100181,5,6489000.0,15,1999.5,2,17,34,3.9,46.0
+1,Livotis Old World Market,160 US Highway 9,Englishtown,7726,"Nw Yrk, NY-NJ-PA",0.0,0.0,Monmouth,328661,99223,3,687000.0,7,7499.5,1,45,11,4.6,556.0
+1,Main Lake Market,234 S New Jersey Ave,Lake Hopatcong,7849,"Nw Yrk, NY-NJ-PA",0.0,0.0,Morris,256698,112396,3,793000.0,12,1999.5,1,6,4,4.5,104.0
+1,Maize Restaurant,50 Park Pl # A,Newark,7102,"Nw Yrk, NY-NJ-PA",0.0,0.0,Essex,368748,62875,13,774000.0,14,14999.5,2,74,17,3.9,226.0
+1,Mama Marie's Italian Market,29 S Broadway,Pitman,8071,"Phl, PA-NJ-DE-MD",0.0,0.0,Gloucester,149747,81315,2,318000.0,13,750.0,1,7,7,4.6,92.0
+1,Medina Supermarket,74 S 27th St,Camden,8105,"Phl, PA-NJ-DE-MD",0.0,0.0,Camden,253053,67135,3,665000.0,6,1999.5,1,69,29,3.7,3.0
+1,Metal Supermarkets,1 Just Rd,Fairfield,7004,"Nw Yrk, NY-NJ-PA",0.0,0.0,Essex,368748,62875,2,486000.0,6,1999.5,0,23,7,4.6,50.0
+1,Mini Mart,773 Palisade Ave,Cliffside Park,7010,"Nw Yrk, NY-NJ-PA",0.0,0.0,Bergen,482038,100181,1,1298000.0,13,750.0,0,30,56,3.8,9.0
+1,Mini Mart Food Store,151 Terrace St,Haworth,7641,"Nw Yrk, NY-NJ-PA",0.0,0.0,Bergen,482038,100181,2,505000.0,27,750.0,1,3,17,4.4,80.0
+1,Monchy Deli Grocery,200 N Clinton Ave,Trenton,8609,"Trenton, NJ",0.0,0.0,Mercer,202885,79979,3,704000.0,10,1999.5,1,39,8,4.0,69.0
+1,Monte Alban Latin America Groc,2773 US Highway 9,Howell,7731,"Nw Yrk, NY-NJ-PA",0.0,0.0,Monmouth,328661,99223,2,458000.0,4,750.0,0,30,7,5.0,1.0
+1,Natural Foods General Store,675 Batchelor St,Toms River,8753,"Nw Yrk, NY-NJ-PA",0.0,0.0,Ocean,275023,68483,8,2069000.0,36,1999.5,3,79,8,4.5,36.0
+1,NCH Minimart,86 Erie St,Jersey City,7302,"Nw Yrk, NY-NJ-PA",0.0,0.0,Hudson,361189,73337,2,461000.0,15,1999.5,1,73,48,4.8,11.0
+1,Netcost,700 Tennent Rd,Rahway,7065,"Nw Yrk, NY-NJ-PA",0.0,0.0,Union,276382,80737,2,481000.0,4,1999.5,0,50,25,4.4,957.0
+1,Nicola's Pasta Fresca,735 Fairfield Ave,Kenilworth,7033,"Nw Yrk, NY-NJ-PA",0.0,0.0,Union,276382,80737,2,481000.0,7,1999.5,0,15,31,5.0,3.0
+1,Nik Nak Food Market,500 Woodbury Turnersville Rd,Blackwood,8012,"Phl, PA-NJ-DE-MD",0.0,0.0,Camden,253053,67135,3,665000.0,20,750.0,2,39,19,3.6,14.0
+1,Nobles Smoke Shop,504 Arnold Ave,Point Pleasant Beach,8742,"Nw Yrk, NY-NJ-PA",0.0,0.0,Ocean,275023,68483,2,379000.0,37,750.0,1,39,8,3.9,22.0
+1,Norma's Eastern Mediterranean,145 Barclay Shopping Ctr,Cherry Hill,8034,"Phl, PA-NJ-DE-MD",0.0,0.0,Camden,253053,67135,11,569000.0,24,7499.5,3,32,25,4.5,440.0
+1,Oaxaca Food Market,421 Central Ave # A,Jersey City,7307,"Nw Yrk, NY-NJ-PA",0.0,0.0,Hudson,361189,73337,2,461000.0,5,1999.5,0,110,49,3.3,14.0
+1,Pac A Sack,704 Main St,Lumberton,8048,"Phl, PA-NJ-DE-MD",0.0,0.0,Burlington,230589,84470,11,589000.0,29,1999.5,3,10,6,4.3,22.0
+1,Pantry 1 Food Mart,2947 New Brooklyn Erial Rd,Sicklerville,8081,"Phl, PA-NJ-DE-MD",0.0,0.0,Camden,253053,67135,4,886000.0,14,1999.5,2,32,11,5.0,5.0
+1,Park Avenue Meat & Produce Mkt,597 Park Ave,Freehold,7728,"Nw Yrk, NY-NJ-PA",0.0,0.0,Monmouth,328661,99223,3,687000.0,6,1999.5,1,86,10,5.0,1.0
+1,Paul-Mart,462 S Main St,Phillipsburg,8865,"Allen-Bth-Est,PA",0.0,0.0,Warren,56060,77571,3,703000.0,22,750.0,2,46,5,3.4,117.0
+1,People Choice Market,234 Parker Ave,Clifton,7011,"Nw Yrk, NY-NJ-PA",0.0,0.0,Passaic,242208,71959,2,416000.0,13,1999.5,1,77,29,5.0,1.0
+1,Phil-AM Trading,324 Hoboken Ave,Jersey City,7306,"Nw Yrk, NY-NJ-PA",0.0,0.0,Hudson,361189,73337,2,461000.0,30,1999.5,1,200,39,4.3,3.0
+1,Plaza Azteca Sicklerville,611 Cross Keys Rd # 554,Sicklerville,8081,"Phl, PA-NJ-DE-MD",0.0,0.0,Camden,253053,67135,37,1914000.0,6,29999.5,3,32,11,4.2,852.0
+1,Pur International Inc,52 Main Ave,Passaic,7055,"Nw Yrk, NY-NJ-PA",0.0,0.0,Passaic,242208,71959,2,998000.0,29,750.0,0,250,29,4.8,4.0
+1,Que Chula Es Puebla,147 Ocean Ave,Lakewood,8701,"Nw Yrk, NY-NJ-PA",0.0,0.0,Ocean,275023,68483,6,317000.0,10,1999.5,1,84,10,3.7,3.0
+1,Quick Stop Deli,2026 Bergenline Ave,Union City,7087,"Nw Yrk, NY-NJ-PA",-0.529284165,1.0,Hudson,361189,73337,4,217000.0,4,1999.5,0,210,55,4.6,22.0
+1,Rey's Mini Market,284 Somerset St,New Brunswick,8901,"Nw Yrk, NY-NJ-PA",0.0,0.0,Middlesex,439073,87666,2,458000.0,4,1999.5,0,93,20,4.5,10.0
+1,SAS Graphic Supply Inc,52 Fadem Rd,Springfield,7081,"Nw Yrk, NY-NJ-PA",0.0,0.0,Union,276382,80737,12,1515000.0,14,14999.5,3,45,22,4.4,11.0
+1,Shalimar Halal Meat & Grocery,41 Middlesex Ave,Iselin,8830,"Nw Yrk, NY-NJ-PA",0.0,0.0,Middlesex,439073,87666,3,687000.0,13,1999.5,1,37,21,3.3,121.0
+0,Shop N Bag,7500 S Crescent Blvd # A,Pennsauken,8109,"Phl, PA-NJ-DE-MD",0.0,0.0,Camden,253053,67135,2,443000.0,10,1999.5,1,30,28,3.7,34.0
+1,Shop-N-Go,109 Johnson Rd,Turnersville,8012,"Phl, PA-NJ-DE-MD",0.0,0.0,Gloucester,149747,81315,2,318000.0,28,750.0,1,39,19,3.0,1.0
+1,Shore Fresh Seafood Market,703 Bridge Ave # 707,Point Pleasant Boro,8742,"Nw Yrk, NY-NJ-PA",0.0,0.0,Ocean,275023,68483,2,518000.0,21,1999.5,1,39,8,4.5,520.0
+1,Sinae Fresh Market,183 New Brunswick Ave,Perth Amboy,8861,"Nw Yrk, NY-NJ-PA",0.0,0.0,Middlesex,439073,87666,2,458000.0,6,750.0,0,98,12,4.6,42.0
+1,Speedymart Food Stores,915 County Road 517,Hackettstown,7840,"Allen-Bth-Est,PA",0.495327103,0.5,Warren,56060,77571,3,703000.0,30,3749.5,2,37,4,4.2,5.0
+1,Sticky's West Indian-Amer,1024 Clinton Ave,Irvington,7111,"Nw Yrk, NY-NJ-PA",0.0,0.0,Essex,368748,62875,1,60000.0,29,750.0,0,220,26,4.5,269.0
+1,Stop-N-Go,276 Lafayette Pl,Englewood,7631,"Nw Yrk, NY-NJ-PA",0.0,0.0,Bergen,482038,100181,3,758000.0,18,1999.5,2,39,22,4.6,8.0
+0,Subzi Mandi,1549 US Highway 46,Parsippany,7054,"Nw Yrk, NY-NJ-PA",0.0,0.0,Morris,256698,112396,7,1850000.0,21,1999.5,3,60,13,3.5,112.0
+1,Sunny's Supermarket,821 Clinton Ave,Newark,7108,"Nw Yrk, NY-NJ-PA",0.0,0.0,Essex,368748,62875,7,866000.0,22,3749.5,4,95,20,5.0,1.0
+1,Sunrise Food Market,1600 Main St,Belmar,7719,"Nw Yrk, NY-NJ-PA",0.0,0.0,Monmouth,328661,99223,5,1145000.0,21,1999.5,3,35,12,4.0,9.0
+1,Sunrise Food Trading Inc,163 Washington Valley Rd # 103,Warren,7059,"Nw Yrk, NY-NJ-PA",0.0,0.0,Somerset,171371,119731,2,459000.0,2,1999.5,0,14,7,5.0,2.0
+1,Sunrise Oriental Products,253 Main St,Hackensack,7601,"Nw Yrk, NY-NJ-PA",0.0,0.0,Bergen,482038,100181,2,505000.0,37,750.0,1,79,23,3.8,26.0
+1,Super Latin Store,30 Wilson Ave,Newark,7105,"Nw Yrk, NY-NJ-PA",0.0,0.0,Essex,368748,62875,5,688000.0,7,3749.5,1,106,19,4.0,1.0
+1,Super Supermarket,408 Haledon Ave,Haledon,7508,"Nw Yrk, NY-NJ-PA",0.0,0.0,Passaic,242208,71959,2,416000.0,12,3749.5,1,35,17,3.7,580.0
+1,Supremo Food Market,25 S Broad St,Elizabeth,7202,"Nw Yrk, NY-NJ-PA",0.0,0.0,Union,276382,80737,2,481000.0,21,3749.5,1,67,28,3.9,606.0
+1,Tropical Sun,390 Main St,East Orange,7018,"Nw Yrk, NY-NJ-PA",0.0,0.0,Essex,368748,62875,8,1941000.0,35,1999.5,3,92,15,4.1,624.0
+1,Unipak Foods Inc,2410 Iorio Ct,Union,7083,"Nw Yrk, NY-NJ-PA",0.0,0.0,Union,276382,80737,2,481000.0,3,1999.5,0,71,29,4.5,4.0
+1,Wegmans Food Markets Inc,29 Emmons Dr # G30,Princeton,8540,"Trenton, NJ",0.0,0.0,Mercer,202885,79979,3,704000.0,2,3749.5,0,35,7,4.6,1708.0
+1,Woo-Ri Mart,64 Princeton Hightstown Rd,Princeton Junction,8550,"Trenton, NJ",0.0,0.0,Mercer,202885,79979,4,474000.0,4,3749.5,0,15,8,4.6,450.0
+1,Xpress Mart,2778 S Main Rd,Vineland,8360,"Vineland, NJ",0.0,0.0,Cumberland,65061,51790,3,716000.0,8,1999.5,1,92,8,3.4,11.0
+1,Yogis Quick Shop,192 Fries Mill Rd,Turnersville,8012,"Phl, PA-NJ-DE-MD",0.0,0.0,Gloucester,149747,81315,3,476000.0,27,750.0,2,39,19,4.5,11.0
+1,Zenas American Mediterranean,400 Richey Ave,Oaklyn,8107,"Phl, PA-NJ-DE-MD",0.0,0.0,Camden,253053,67135,4,207000.0,10,750.0,1,29,26,3.8,138.0
+1,172 Market LLC,168 Market St,Elmwood Park,7407,"Nw Yrk, NY-NJ-PA",0.0,0.0,Bergen,482038,100181,2,505000.0,11,1999.5,1,21,25,1.0,1.0
+1,24 7 EZ Check,393 Central Ave,East Orange,7018,"Nw Yrk, NY-NJ-PA",0.0,0.0,Essex,368748,62875,2,486000.0,7,1999.5,0,92,15,4.3,39.0
+0,27 Farm Corp,92 State Route 27,Edison,8820,"Nw Yrk, NY-NJ-PA",0.0,0.0,Middlesex,439073,87666,3,335000.0,7,750.0,1,30,26,3.9,55.0
+1,AC Convenience Store,4002 Ventnor Ave,Atlantic City,8401,"Atlantic Cty, NJ",0.0,0.0,Atlantic,120728,60826,2,529000.0,8,1999.5,1,159,3,4.0,4.0
+1,AC Deli & Foodmarket,3104 Pacific Ave,Atlantic City,8401,"Atlantic Cty, NJ",0.0,0.0,Atlantic,120728,60826,2,529000.0,16,1999.5,1,159,3,4.6,251.0
+1,Addison Shop,268 Park Ave # A,Rutherford,7070,"Nw Yrk, NY-NJ-PA",0.0,0.0,Bergen,482038,100181,1,253000.0,27,1999.5,1,18,28,3.5,6.0
+1,African Market,725 Hamilton St # 8,Somerset,8873,"Nw Yrk, NY-NJ-PA",0.0,0.0,Somerset,171371,119731,2,459000.0,31,750.0,1,81,10,3.9,38.0
+0,Aj's Food Market,901 N Main St,Pleasantville,8232,"Atlantic Cty, NJ",0.0,0.0,Atlantic,120728,60826,3,2780000.0,15,750.0,1,59,7,5.0,1.0
+1,Ak Market Store,251 Crooks Ave,Paterson,7503,"Nw Yrk, NY-NJ-PA",0.0,0.0,Passaic,242208,71959,35,7265000.0,15,14999.5,3,65,24,3.8,23.0
+1,Albertson Village,100 Lindis Farne Ave,Haddon Township,8108,"Phl, PA-NJ-DE-MD",0.0,0.0,Camden,253053,67135,2,377000.0,4,3749.5,2,17,21,4.3,14.0
+1,Alex's Market,9712 3rd Ave,Stone Harbor,8247,"Ocean City, NJ",4.9902200489999995,5.0,Cape May,45947,62175,6,2449000.0,5,3749.5,1,8,2,5.0,22.0
+1,Ali Grocery,1615 Atlantic Ave,Atlantic City,8401,"Atlantic Cty, NJ",0.0,0.0,Atlantic,120728,60826,5,1323000.0,29,1999.5,3,159,3,4.1,80.0
+1,Angelo's Market,515 Brick Blvd,Brick,8723,"Nw Yrk, NY-NJ-PA",0.0,0.0,Ocean,275023,68483,5,1293000.0,4,7499.5,1,49,6,4.5,16.0
+1,Asian Food Market,79 S Main St,Marlboro,7746,"Nw Yrk, NY-NJ-PA",0.0,0.0,Monmouth,328661,99223,6,1374000.0,9,3749.5,1,14,5,4.2,517.0
+1,Atlantic Boston Chicken,501 N Indiana Ave,Atlantic City,8401,"Atlantic Cty, NJ",0.0,0.0,Atlantic,120728,60826,2,529000.0,11,1999.5,1,159,3,3.1,7.0
+1,Aunt Charlotte's Candies-Gifts,5 W Maple Ave,Merchantville,8109,"Phl, PA-NJ-DE-MD",0.0,0.0,Camden,253053,67135,30,2422000.0,37,7499.5,4,30,28,4.8,338.0
+1,Aunt Debbie's Health Food Str,816 N Main St,Pleasantville,8232,"Atlantic Cty, NJ",0.0,0.0,Atlantic,120728,60826,1,105000.0,22,750.0,0,59,7,4.8,53.0
+1,AWAN Convenience Store,3701 Ventnor Ave,Atlantic City,8401,"Atlantic Cty, NJ",0.0,0.0,Atlantic,120728,60826,2,1772000.0,19,750.0,1,159,3,4.0,6.0
+1,B E Princess Inc,515 Washington Ave,Carlstadt,7072,"Nw Yrk, NY-NJ-PA",0.0,0.0,Bergen,482038,100181,20,5047000.0,13,29999.5,3,19,29,5.0,4.0
+1,Aunt Charlotte's Candies-Gifts,5 W Maple Ave,Merchantville,8109,"Phl, PA-NJ-DE-MD",0.0,0.0,Camden,253053,67135,30,2422000.0,37,7499.5,4,30,28,4.8,338.0
+1,Aunt Debbie's Health Food Str,816 N Main St,Pleasantville,8232,"Atlantic Cty, NJ",0.0,0.0,Atlantic,120728,60826,1,105000.0,22,750.0,0,59,7,4.8,53.0
+1,Bagliani's Market,417 12th St,Hammonton,8037,"Atlantic Cty, NJ",0.0,0.0,Atlantic,120728,60826,23,6082000.0,22,7499.5,4,42,2,4.8,1168.0
+1,Bait Ul Laham Groceries Inc,447 Essex St,Hackensack,7601,"Nw Yrk, NY-NJ-PA",0.0,0.0,Bergen,482038,100181,2,505000.0,2,750.0,0,79,23,4.7,13.0
+1,Banzal Bazar Discount,1432 Atlantic Ave,Atlantic City,8401,"Atlantic Cty, NJ",0.0,0.0,Atlantic,120728,60826,2,346000.0,12,7499.5,1,159,3,4.5,4.0
+1,Barefoot Market,214 West Ave,Ocean City,8226,"Ocean City, NJ",0.0,0.0,Cape May,45947,62175,2,817000.0,8,1999.5,1,19,4,4.6,62.0
+1,Bellino's Market,45 S New York Rd,Galloway,8205,"Atlantic Cty, NJ",0.0,0.0,Atlantic,120728,60826,2,529000.0,4,3749.5,0,32,4,4.7,90.0
+1,Bergenline News,7416 Bergenline Ave # A,North Bergen,7047,"Nw Yrk, NY-NJ-PA",0.0,0.0,Hudson,361189,73337,2,461000.0,11,1999.5,1,99,55,5.0,1.0
+1,Best Food In Town Chinese,805 E Landis Ave,Vineland,8360,"Vineland, NJ",0.0,0.0,Cumberland,65061,51790,3,143000.0,32,750.0,1,92,8,4.1,183.0
+1,Bienaventurado Deli Grocery,475 Mcbride Ave,Paterson,7501,"Nw Yrk, NY-NJ-PA",0.0,0.0,Passaic,242208,71959,2,416000.0,7,1999.5,0,180,20,4.5,17.0
+1,Bill Young's Svc Ctr,67 N Main St,Wharton,7885,"Nw Yrk, NY-NJ-PA",0.0,0.0,Morris,256698,112396,3,3777000.0,37,750.0,2,13,8,3.7,15.0
+1,Blue Ribbon,681 River Ave # 1e,Lakewood,8701,"Nw Yrk, NY-NJ-PA",0.0,0.0,Ocean,275023,68483,2,518000.0,8,3749.5,1,84,10,4.7,49.0
+1,Blue Ribbon Grocery,400 Jefferson St,Hoboken,7030,"Nw Yrk, NY-NJ-PA",0.0,0.0,Hudson,361189,73337,1,231000.0,3,1999.5,0,65,54,3.3,8.0
+1,Bongo African Grocery,24 Old Tpke,Pleasantville,8232,"Atlantic Cty, NJ",0.0,0.0,Atlantic,120728,60826,2,529000.0,8,1999.5,1,59,7,4.0,24.0
+1,Bonji Bowl,412 Springfield Ave,Summit,7901,"Nw Yrk, NY-NJ-PA",0.0,0.0,Union,276382,80737,6,473000.0,3,1999.5,0,15,17,4.5,13.0
+1,Boonton Smoke & Deli,316 Main St,Boonton,7005,"Nw Yrk, NY-NJ-PA",0.0,0.0,Morris,256698,112396,3,793000.0,17,750.0,2,13,5,3.2,5.0
+1,Boyar's Market,1340 Asbury Ave,Ocean City,8226,"Ocean City, NJ",0.0,0.0,Cape May,45947,62175,10,4082000.0,35,3749.5,3,19,4,4.4,170.0
+1,Cape May Fish Market,408 Washington St,Cape May,8204,"Ocean City, NJ",0.0,0.0,Cape May,45947,62175,2,817000.0,12,1999.5,1,21,5,4.2,523.0
+1,Carniceria Latina,401 52nd St # A,West New York,7093,"Nw Yrk, NY-NJ-PA",0.0,0.0,Hudson,361189,73337,2,461000.0,19,1999.5,1,149,59,4.6,393.0
+1,Cedar Food Dollar Plus,101 N Pennsylvania Ave,Atlantic City,8401,"Atlantic Cty, NJ",0.0,0.0,Atlantic,120728,60826,1,265000.0,14,750.0,0,159,3,3.9,36.0
+1,Cedar Food Market,1125 Arctic Ave # A,Atlantic City,8401,"Atlantic Cty, NJ",0.0,0.0,Atlantic,120728,60826,4,1058000.0,20,1999.5,2,159,3,4.0,11.0
+1,Cedar Food Market,401 N Tennessee Ave,Atlantic City,8401,"Atlantic Cty, NJ",0.0,0.0,Atlantic,120728,60826,1,265000.0,10,750.0,0,159,3,3.3,18.0
+1,Cedar Food Market,500 S Main St,Pleasantville,8232,"Atlantic Cty, NJ",0.0,0.0,Atlantic,120728,60826,2,529000.0,5,1999.5,0,59,7,4.2,14.0
+1,Cedar Food Market Iv,1741 Baltic Ave,Atlantic City,8401,"Atlantic Cty, NJ",0.0,0.0,Atlantic,120728,60826,5,1323000.0,37,1999.5,3,159,3,4.1,113.0
+1,Cedar General Store,1700 Baltic Ave,Atlantic City,8401,"Atlantic Cty, NJ",0.0,0.0,Atlantic,120728,60826,2,529000.0,11,1999.5,1,159,3,4.1,24.0
+1,Cedar Market,918 S Main St,Pleasantville,8232,"Atlantic Cty, NJ",0.0,0.0,Atlantic,120728,60826,4,1058000.0,27,750.0,2,59,7,4.1,11.0
+1,Cedar Markets,646 Cedar Ln,Teaneck,7666,"Nw Yrk, NY-NJ-PA",0.0,0.0,Bergen,482038,100181,2,505000.0,8,1999.5,1,33,23,4.5,210.0
+1,Chikeeza LLC,1305 Baltic Ave,Atlantic City,8401,"Atlantic Cty, NJ",0.0,0.0,Atlantic,120728,60826,2,529000.0,5,1999.5,0,159,3,3.8,17.0
+1,City Grocery,2608 Pacific Ave,Atlantic City,8401,"Atlantic Cty, NJ",0.0,0.0,Atlantic,120728,60826,3,794000.0,12,750.0,1,159,3,4.8,5.0
+1,City Supermarket 2,525 Irvington Ave # 1,Newark,7106,"Nw Yrk, NY-NJ-PA",0.0,0.0,Essex,368748,62875,2,486000.0,12,3749.5,1,90,22,4.0,908.0
+1,Country Farm,125 Main St,Bradley Beach,7720,"Nw Yrk, NY-NJ-PA",0.0,0.0,Monmouth,328661,99223,4,916000.0,8,750.0,2,10,8,5.0,5.0
+1,Country Farm Convenience,10 E Kings Hwy,Mount Ephraim,8059,"Phl, PA-NJ-DE-MD",0.0,0.0,Camden,253053,67135,1,222000.0,21,750.0,0,12,27,3.8,6.0
+1,Country Farm Food Store,261 W White Horse Pike,Galloway,8205,"Atlantic Cty, NJ",0.0,0.0,Atlantic,120728,60826,2,529000.0,18,1999.5,1,32,4,4.0,4.0
+1,Cumberland Country Store Inc,5312 Route 49,Millville,8332,"Vineland, NJ",0.0,0.0,Cumberland,65061,51790,2,1141000.0,22,750.0,1,35,4,5.0,2.0
+1,D'Angelo Italian Market,35 Spring St,Princeton,8542,"Trenton, NJ",0.0,0.0,Mercer,202885,79979,5,1173000.0,10,1999.5,1,11,7,4.5,364.0
+1,Dale's Market,396 US Highway 206,Branchville,7826,"Nw Yrk, NY-NJ-PA",0.0,0.0,Sussex,73963,92284,23,1141000.0,37,3749.5,3,9,0,4.4,332.0
+1,Delval Food Ingredients Inc,733 Route 70 E # 308,Marlton,8053,"Phl, PA-NJ-DE-MD",0.0,0.0,Burlington,230589,84470,7,1654000.0,9,7499.5,2,44,13,5.0,8.0
+1,Ding Food Market,241 Harrison Ave,Harrison,7029,"Nw Yrk, NY-NJ-PA",0.0,0.0,Hudson,361189,73337,2,461000.0,3,750.0,0,30,16,4.8,79.0
+1,Ding Food Market,241 Harrison Ave,Harrison,7029,"Nw Yrk, NY-NJ-PA",0.0,0.0,Hudson,361189,73337,2,461000.0,3,750.0,0,30,16,4.8,79.0
+1,Eagle Mart News & Tobacco,501 Zion Rd,Egg Harbor Township,8234,"Atlantic Cty, NJ",0.0,0.0,Atlantic,120728,60826,2,501000.0,6,7499.5,0,40,9,4.2,25.0
+1,East Coast Foods,45 Jackson Dr,Cranford,7016,"Nw Yrk, NY-NJ-PA",0.0,0.0,Union,276382,80737,20,4801000.0,9,29999.5,4,22,27,5.0,1.0
+1,East State Deli,300 E State St,Trenton,8608,"Trenton, NJ",0.0,0.0,Mercer,202885,79979,3,704000.0,18,750.0,2,18,6,4.0,2.0
+1,East West Asian Market,67 Belleville Ave,Bloomfield,7003,"Nw Yrk, NY-NJ-PA",0.0,0.0,Essex,368748,62875,2,486000.0,7,1999.5,0,78,25,3.9,209.0
+1,El Nuevo Bodegon,359 Totowa Ave,Paterson,7502,"Nw Yrk, NY-NJ-PA",0.0,0.0,Passaic,242208,71959,2,416000.0,37,750.0,1,42,17,4.5,46.0
+1,Eleven Food Stores,1247 Teaneck Rd,Teaneck,7666,"Nw Yrk, NY-NJ-PA",0.0,0.0,Bergen,482038,100181,2,505000.0,9,750.0,1,33,23,3.1,17.0
+1,Fairview Liquors,36 Anderson Ave,Fairview,7022,"Nw Yrk, NY-NJ-PA",0.0,0.0,Bergen,482038,100181,2,505000.0,13,750.0,1,34,55,4.8,8.0
+1,Fernanito Super Market,1210 Yorkship Sq,Camden,8104,"Phl, PA-NJ-DE-MD",-0.333834586,-0.333333333,Camden,253053,67135,2,443000.0,17,750.0,1,59,29,3.7,7.0
+1,Ferry Supermarket,105 Ferry Ave,Woodlynne,8107,"Phl, PA-NJ-DE-MD",0.0,0.0,Camden,253053,67135,2,443000.0,8,1999.5,1,29,26,4.2,104.0
+1,Fiesta Supermarket,5500 Bergenline Ave,West New York,7093,"Nw Yrk, NY-NJ-PA",0.0,0.0,Hudson,361189,73337,10,2304000.0,29,7499.5,3,149,59,4.1,325.0
+0,Five Family Grocery,2303 Bergenline Ave,Union City,7087,"Nw Yrk, NY-NJ-PA",0.0,0.0,Hudson,361189,73337,5,1152000.0,11,1999.5,2,210,55,3.0,1.0
+1,Fiesta Supermarket,5500 Bergenline Ave,West New York,7093,"Nw Yrk, NY-NJ-PA",0.0,0.0,Hudson,361189,73337,10,2304000.0,29,7499.5,3,149,59,4.1,325.0
+0,Food Center,684 Bergen Blvd # 4,Ridgefield,7657,"Nw Yrk, NY-NJ-PA",0.0,0.0,Bergen,482038,100181,2,505000.0,23,3749.5,1,19,48,4.7,3.0
+1,Food Market Cedar,220 N Main St,Pleasantville,8232,"Atlantic Cty, NJ",0.0,0.0,Atlantic,120728,60826,3,794000.0,25,750.0,2,59,7,4.1,85.0
+1,Food Showcase,24-28 Fair Lawn Ave,Fair Lawn,7410,"Nw Yrk, NY-NJ-PA",0.0,0.0,Bergen,482038,100181,4,1010000.0,10,750.0,2,23,20,4.4,82.0
+1,Food Specialties Trading,31 Vreeland Ave,Totowa,7512,"Nw Yrk, NY-NJ-PA",0.0,0.0,Passaic,242208,71959,2,416000.0,8,1999.5,1,12,18,4.5,8.0
+1,Franco's Market,1346 Highway 77,Bridgeton,8302,"Vineland, NJ",0.0,0.0,Cumberland,65061,51790,6,1432000.0,33,1999.5,3,71,2,4.6,35.0
+1,Frank's,3300 River Rd,Camden,8105,"Phl, PA-NJ-DE-MD",0.0,0.0,Camden,253053,67135,4,886000.0,15,750.0,2,69,29,4.2,76.0
+1,Franco's Market,1346 Highway 77,Bridgeton,8302,"Vineland, NJ",0.0,0.0,Cumberland,65061,51790,6,1432000.0,33,1999.5,3,71,2,4.6,35.0
+1,Freshway Supermarket 1946,289 Bergen Blvd,Fairview,7022,"Nw Yrk, NY-NJ-PA",0.0,0.0,Bergen,482038,100181,20,5047000.0,1,14999.5,4,34,55,3.8,326.0
+1,Fusco's Market,165 Werimus Rd,Woodcliff Lake,7677,"Nw Yrk, NY-NJ-PA",0.0,0.0,Bergen,482038,100181,1,253000.0,33,1999.5,1,4,13,5.0,14.0
+1,Garcia's Deli & Grocery,911 Charles Dr,Toms River,8753,"Nw Yrk, NY-NJ-PA",0.0,0.0,Ocean,275023,68483,3,159000.0,2,750.0,0,79,8,5.0,13.0
+1,Glass Gardens Inc,244 W Passaic St # 244,Rochelle Park,7662,"Nw Yrk, NY-NJ-PA",0.0,0.0,Bergen,482038,100181,2,505000.0,21,1999.5,1,13,24,3.2,6.0
+1,Goodies & Groceries,3912 Ventnor Ave,Atlantic City,8401,"Atlantic Cty, NJ",0.0,0.0,Atlantic,120728,60826,2,529000.0,5,1999.5,0,159,3,4.9,12.0
+1,Green Valley Gyro Grill,2119 Whitesville Rd # 10,Toms River,8755,"Nw Yrk, NY-NJ-PA",0.49806949799999994,0.5,Ocean,275023,68483,3,776000.0,11,3749.5,1,32,8,4.4,160.0
+1,Healthy Italia,55 Main St # 1,Madison,7940,"Nw Yrk, NY-NJ-PA",0.0,0.0,Morris,256698,112396,3,793000.0,6,1999.5,1,7,14,4.9,24.0
+1,Herbal Tea House,740 Grand St,Jersey City,7304,"Nw Yrk, NY-NJ-PA",0.0,0.0,Hudson,361189,73337,1,231000.0,22,750.0,0,118,32,4.7,149.0
+1,Hometown Food Mart,600 Fischer Blvd,Toms River,8753,"Nw Yrk, NY-NJ-PA",0.0,0.0,Ocean,275023,68483,1,259000.0,19,1999.5,0,79,8,5.0,92.0
+1,Huber's Automotive,1 Hamburg Tpke,Riverdale,7457,"Nw Yrk, NY-NJ-PA",0.0,0.0,Morris,256698,112396,2,2518000.0,24,750.0,1,9,6,4.9,13.0
+1,Hometown Food Mart,600 Fischer Blvd,Toms River,8753,"Nw Yrk, NY-NJ-PA",0.0,0.0,Ocean,275023,68483,1,259000.0,19,1999.5,0,79,8,5.0,93.0
+1,Huber's Automotive,1 Hamburg Tpke,Riverdale,7457,"Nw Yrk, NY-NJ-PA",0.0,0.0,Morris,256698,112396,2,2518000.0,24,750.0,1,9,6,4.9,13.0
+1,India Bazaar,35 S White Horse Pike,Stratford,8084,"Phl, PA-NJ-DE-MD",0.0,0.0,Camden,253053,67135,8,1772000.0,18,3749.5,3,9,20,4.4,291.0
+1,J C Kosher Supermarket Inc,223 Martin Luther King Jr Dr,Jersey City,7305,"Nw Yrk, NY-NJ-PA",0.0,0.0,Hudson,361189,73337,1,231000.0,4,750.0,0,166,21,4.7,63.0
+1,J Q National Distributors,59 Lewis St,Paterson,7501,"Nw Yrk, NY-NJ-PA",0.0,0.0,Passaic,242208,71959,2,416000.0,11,1999.5,1,180,20,4.8,38.0
+1,J Wellness Shop,80 Kinderkamack Rd,Oradell,7649,"Nw Yrk, NY-NJ-PA",0.0,0.0,Bergen,482038,100181,5,1262000.0,2,3749.5,0,9,19,4.7,7.0
+1,Jaquez Deli Market,201 Spring St,Trenton,8618,"Trenton, NJ",0.0,0.0,Mercer,202885,79979,3,704000.0,10,1999.5,1,50,6,4.5,2.0
+1,J Wellness Shop,80 Kinderkamack Rd,Oradell,7649,"Nw Yrk, NY-NJ-PA",0.0,0.0,Bergen,482038,100181,5,1262000.0,2,3749.5,0,9,19,4.7,7.0
+1,JL Supermarket,5006 US-130 #3,Delran,8075,"Phl, PA-NJ-DE-MD",0.0,0.0,Burlington,230589,84470,2,473000.0,5,750.0,0,36,23,4.8,95.0
+1,Kennie's Food Store,726 Mola Blvd,Elmwood Park,7407,"Nw Yrk, NY-NJ-PA",0.0,0.0,Bergen,482038,100181,2,505000.0,7,750.0,0,21,25,2.0,3.0
+1,Kenvil Novelty,708 US Highway 46,Kenvil,7847,"Nw Yrk, NY-NJ-PA",0.0,0.0,Morris,256698,112396,2,529000.0,11,750.0,1,7,9,5.0,2.0
+1,Khan Market,142 US Highway 46 # A,Parsippany,7054,"Nw Yrk, NY-NJ-PA",0.0,0.0,Morris,256698,112396,4,1057000.0,27,750.0,2,60,13,3.8,135.0
+1,Kings Super Mar,86 E Main St,Mendham,7945,"Nw Yrk, NY-NJ-PA",0.0,0.0,Morris,256698,112396,2,283000.0,8,3749.5,1,5,3,4.1,185.0
+1,Kk Grocery,4229 Ventnor Ave,Atlantic City,8401,"Atlantic Cty, NJ",0.0,0.0,Atlantic,120728,60826,1,265000.0,13,1999.5,0,159,3,3.9,14.0
+1,Knight's Deli,202 Easton Ave,New Brunswick,8901,"Nw Yrk, NY-NJ-PA",0.0,0.0,Middlesex,439073,87666,1,229000.0,18,750.0,0,93,20,4.4,51.0
+1,Krauser's,714 Hamburg Tpke,Pompton Lakes,7442,"Nw Yrk, NY-NJ-PA",0.0,0.0,Passaic,242208,71959,3,623000.0,25,750.0,2,9,9,4.7,3.0
+1,LA Bottega Dei Sapori,100 Elmora Ave,Elizabeth,7202,"Nw Yrk, NY-NJ-PA",0.0,0.0,Union,276382,80737,4,238000.0,10,750.0,1,67,28,4.3,25.0
+1,LA Canasta,800 N New Rd,Pleasantville,8232,"Atlantic Cty, NJ",0.0,0.0,Atlantic,120728,60826,3,794000.0,11,3749.5,1,59,7,3.9,42.0
+1,LA Cosecha II LLC,2401 Atlantic Ave # A,Atlantic City,8401,"Atlantic Cty, NJ",0.0,0.0,Atlantic,120728,60826,2,529000.0,26,750.0,1,159,3,4.3,51.0
+1,LA Mexicanita II LLC,26 Kearny Ave,Kearny,7032,"Nw Yrk, NY-NJ-PA",0.0,0.0,Hudson,361189,73337,2,461000.0,10,1999.5,1,47,20,4.8,4.0
+1,LA Placita Poblana,900 Haddonfield Rd # 4,Cherry Hill,8002,"Phl, PA-NJ-DE-MD",0.0,0.0,Camden,253053,67135,2,443000.0,9,3749.5,1,48,25,4.4,27.0
+1,LA Sorpresa Supermarket,1319 Summit Ave,Union City,7087,"Nw Yrk, NY-NJ-PA",0.0,0.0,Hudson,361189,73337,6,1383000.0,37,1999.5,3,210,55,3.9,74.0
+1,LA Valentina,186 Broadway,Long Branch,7740,"Nw Yrk, NY-NJ-PA",0.0,0.0,Monmouth,328661,99223,2,458000.0,14,1999.5,1,42,7,3.8,280.0
+1,Las Cinco Familias,2303 Bergenline Ave,Union City,7087,"Nw Yrk, NY-NJ-PA",0.0,0.0,Hudson,361189,73337,2,461000.0,22,1999.5,1,210,55,5.0,6.0
+1,Latino Americano Super Market,11 S Essex St,Dover,7801,"Nw Yrk, NY-NJ-PA",0.0,0.0,Morris,256698,112396,3,793000.0,14,1999.5,1,23,10,4.4,244.0
+1,Latona's Specialty Foods LLC,279 Harrison Ave,Garfield,7026,"Nw Yrk, NY-NJ-PA",0.0,0.0,Bergen,482038,100181,2,416000.0,17,3749.5,1,37,30,4.8,56.0
+1,Laurel Mini-Market,120 N Laurel St,Bridgeton,8302,"Vineland, NJ",0.0,0.0,Cumberland,65061,51790,3,716000.0,20,1999.5,2,71,2,3.9,80.0
+1,Lews Farm Market LLC,864 N Lenola Rd,Moorestown,8057,"Phl, PA-NJ-DE-MD",0.0,0.0,Burlington,230589,84470,4,945000.0,16,750.0,2,22,24,4.8,80.0
+1,Little Grocery Uptown,1212 Washington St,Hoboken,7030,"Nw Yrk, NY-NJ-PA",0.0,0.0,Hudson,361189,73337,2,461000.0,6,1999.5,0,65,54,4.5,96.0
+0,Lopatcong Quickmart,401 Baltimore St,Phillipsburg,8865,"Allen-Bth-Est,PA",0.0,0.0,Warren,56060,77571,3,703000.0,11,1999.5,1,46,5,4.4,7.0
+1,Lucky 7 Deli & Food Store,1017 State Route 36 # 1,Union Beach,7735,"Nw Yrk, NY-NJ-PA",0.0,0.0,Monmouth,328661,99223,2,458000.0,15,3749.5,1,31,11,3.9,29.0
+1,Luis Records,2616 River Ave,Camden,8105,"Phl, PA-NJ-DE-MD",0.0,0.0,Camden,253053,67135,5,1108000.0,15,1999.5,2,69,29,4.6,365.0
+1,Main Street Pleasantville LLC,525 N Main St,Pleasantville,8232,"Atlantic Cty, NJ",0.0,0.0,Atlantic,120728,60826,2,529000.0,9,1999.5,1,59,7,3.7,23.0
+1,Main Street Supermarket,1609 W Main St,Millville,8332,"Vineland, NJ",0.0,0.0,Cumberland,65061,51790,27,6443000.0,37,7499.5,4,35,4,3.9,284.0
+1,Market Basket,300 Sicomac Ave # 2,Wyckoff,7481,"Nw Yrk, NY-NJ-PA",0.0,0.0,Bergen,482038,100181,9,2272000.0,30,7499.5,3,6,15,4.6,84.0
+1,Meating Place,1267 Ringwood Ave,Haskell,7420,"Nw Yrk, NY-NJ-PA",0.0,0.0,Passaic,242208,71959,1,175000.0,29,750.0,1,9,7,4.9,30.0
+1,Mecca Halal Meat,1960 N Olden Avenue Ext,Ewing,8618,"Trenton, NJ",0.0,0.0,Mercer,202885,79979,3,704000.0,5,1999.5,1,50,6,4.1,82.0
+1,Mexico Lindo Dely Grocery,807 Elizabeth Ave,Elizabeth,7201,"Nw Yrk, NY-NJ-PA",0.0,0.0,Union,276382,80737,4,961000.0,4,1999.5,0,122,25,4.2,18.0
+1,Mini Mart,453 Ramapo Valley Rd,Oakland,7436,"Nw Yrk, NY-NJ-PA",0.0,0.0,Bergen,482038,100181,2,505000.0,10,1999.5,1,18,9,4.4,18.0
+1,Moloney's Meat Market,627 Newark Ave,Jersey City,7306,"Nw Yrk, NY-NJ-PA",0.0,0.0,Hudson,361189,73337,3,163000.0,37,750.0,1,200,39,4.8,63.0
+1,Mompou Tapas Wine Bar & Lounge,77 Ferry St,Newark,7105,"Nw Yrk, NY-NJ-PA",0.0,0.0,Essex,368748,62875,15,893000.0,16,3749.5,3,106,19,4.4,710.0
+1,Mulberry Market,420 State Route 34,Colts Neck,7722,"Nw Yrk, NY-NJ-PA",0.0,0.0,Monmouth,328661,99223,3,687000.0,5,3749.5,1,6,1,5.0,3.0
+0,My City 2,74 Martin Luther King Jr Dr,Jersey City,7305,"Nw Yrk, NY-NJ-PA",0.0,0.0,Hudson,361189,73337,2,461000.0,16,750.0,1,166,21,4.4,20.0
+1,Nappy's,38 Carr Ave,Keansburg,7734,"Nw Yrk, NY-NJ-PA",0.0,0.0,Monmouth,328661,99223,6,341000.0,9,1999.5,1,16,9,4.6,79.0
+1,Natural Health,2001 College Dr # 1,Clementon,8021,"Phl, PA-NJ-DE-MD",0.0,0.0,Camden,253053,67135,13,1135000.0,37,14999.5,3,54,16,4.6,83.0
+1,Natures Nutrition,383 Brick Blvd,Brick,8723,"Nw Yrk, NY-NJ-PA",0.0,0.0,Ocean,275023,68483,5,1293000.0,19,7499.5,2,49,6,4.9,33.0
+1,New Hilsa Grocery Store,745 Newark Ave,Jersey City,7306,"Nw Yrk, NY-NJ-PA",0.0,0.0,Hudson,361189,73337,2,461000.0,7,1999.5,0,200,39,4.4,30.0
+1,New Jersey African-Carribean,1935 Greenwood Ave,Trenton,8609,"Trenton, NJ",0.0,0.0,Mercer,202885,79979,3,704000.0,9,750.0,1,39,8,4.5,162.0
+1,Ocean Grocery & Chicken LLC,415 Ocean Ave,Jersey City,7305,"Nw Yrk, NY-NJ-PA",0.0,0.0,Hudson,361189,73337,4,217000.0,9,750.0,1,166,21,4.8,4.0
+1,Olive May Health Foods,516 Main St,East Orange,7018,"Nw Yrk, NY-NJ-PA",0.0,0.0,Essex,368748,62875,4,971000.0,15,750.0,2,92,15,4.1,55.0
+1,Olson's Fine Foods,53 Palmer Sq W,Princeton,8542,"Trenton, NJ",0.0,0.0,Mercer,202885,79979,9,2111000.0,10,7499.5,2,11,7,4.7,50.0
+1,Om Oasis Market Inc,107 Route 50,Ocean View,8230,"Ocean City, NJ",0.0,0.0,Cape May,45947,62175,5,2041000.0,4,3749.5,1,10,2,4.5,54.0
+1,One Stop Shoppe,333 Sicklerville Rd,Sicklerville,8081,"Phl, PA-NJ-DE-MD",0.0,0.0,Camden,253053,67135,2,443000.0,34,1999.5,1,32,11,4.1,12.0
+1,Oradel Mini Market & Deli,219 Kinderkamack Rd,Oradell,7649,"Nw Yrk, NY-NJ-PA",0.0,0.0,Bergen,482038,100181,3,758000.0,29,750.0,2,9,19,2.8,17.0
+1,Otala Grocery Store,68 S 30th St,Camden,8105,"Phl, PA-NJ-DE-MD",0.0,0.0,Camden,253053,67135,3,665000.0,18,1999.5,2,69,29,4.1,17.0
+1,Pacific Food Market,1009 Pacific Ave,Atlantic City,8401,"Atlantic Cty, NJ",0.0,0.0,Atlantic,120728,60826,3,794000.0,12,750.0,1,159,3,2.2,6.0
+1,Park Avenue Foodmarket,105 Park Ave # 1,Newark,7104,"Nw Yrk, NY-NJ-PA",0.0,0.0,Essex,368748,62875,2,486000.0,21,750.0,1,158,17,4.7,273.0
+1,Patels Grocery,700 Black Horse Pike,Pleasantville,8232,"Atlantic Cty, NJ",0.0,0.0,Atlantic,120728,60826,2,529000.0,4,3749.5,0,59,7,3.9,109.0
+1,Pattys Farm Market,3005 Atlantic Ave,Atlantic City,8401,"Atlantic Cty, NJ",0.0,0.0,Atlantic,120728,60826,2,529000.0,9,1999.5,1,159,3,4.6,5.0
+1,Penalvert's Food Market,990 S West Blvd,Vineland,8360,"Vineland, NJ",0.0,0.0,Cumberland,65061,51790,3,716000.0,12,750.0,1,92,8,4.6,186.0
+1,Pitney Italian Mkt,323 E Jimmie Leeds Rd,Galloway,8205,"Atlantic Cty, NJ",0.0,0.0,Atlantic,120728,60826,2,529000.0,16,3749.5,1,32,4,4.7,42.0
+1,Plaza Mexicana LLC,144 Philadelphia Ave,Egg Harbor City,8215,"Atlantic Cty, NJ",0.0,0.0,Atlantic,120728,60826,2,529000.0,5,750.0,0,20,0,4.3,10.0
+1,Pochuck Valley Farm Market,962 County Rt 517,Glenwood,7418,"Nw Yrk, NY-NJ-PA",0.0,0.0,Sussex,73963,92284,5,428000.0,32,1999.5,2,2,1,4.5,179.0
+1,Primicia LA,452 W Side Ave,Jersey City,7304,"Nw Yrk, NY-NJ-PA",0.0,0.0,Hudson,361189,73337,1,231000.0,18,750.0,0,118,32,4.0,323.0
+1,Puff N Go,1054 Delsea Dr,Westville,8093,"Phl, PA-NJ-DE-MD",0.0,0.0,Gloucester,149747,81315,2,318000.0,2,1999.5,0,20,23,2.7,6.0
+1,Purest Colloids,600 Highland Dr # 602,Westampton,8060,"Phl, PA-NJ-DE-MD",0.0,0.0,Burlington,230589,84470,9,2127000.0,15,3749.5,2,43,6,4.0,2.0
+1,Quality Provision,1935 Swarthmore Ave # 1,Lakewood,8701,"Nw Yrk, NY-NJ-PA",0.0,0.0,Ocean,275023,68483,2,518000.0,7,3749.5,0,84,10,4.3,8.0
+1,Quick Stop Deli,814 Amboy Ave,Perth Amboy,8861,"Nw Yrk, NY-NJ-PA",0.0,0.0,Middlesex,439073,87666,2,458000.0,15,750.0,1,98,12,4.9,76.0
+1,Quick Stop Ready Mix Concrete,179 Goffle Rd,Hawthorne,7506,"Nw Yrk, NY-NJ-PA",0.0,0.0,Passaic,242208,71959,2,416000.0,8,1999.5,1,13,18,4.2,5.0
+1,Quick Strip LLC,1 Randolph St # B,Carteret,7008,"Nw Yrk, NY-NJ-PA",0.0,0.0,Middlesex,439073,87666,2,458000.0,6,750.0,0,28,18,5.0,43.0
+1,Quick Trip,100 Schuyler Ave,Kearny,7032,"Nw Yrk, NY-NJ-PA",0.0,0.0,Hudson,361189,73337,2,3029000.0,20,750.0,1,47,20,1.0,1.0
+1,Rainbow Food,280 Closter Dock Rd,Closter,7624,"Nw Yrk, NY-NJ-PA",0.0,0.0,Bergen,482038,100181,2,505000.0,19,750.0,1,11,13,4.5,40.0
+1,Raul Grocery,182 Sherman St,Passaic,7055,"Nw Yrk, NY-NJ-PA",0.0,0.0,Passaic,242208,71959,2,416000.0,13,1999.5,1,250,29,4.8,8.0
+1,Royal India Catering & Grocery,116 Broughton Ave,Bloomfield,7003,"Nw Yrk, NY-NJ-PA",0.0,0.0,Essex,368748,62875,4,971000.0,11,750.0,2,78,25,4.1,542.0
+1,Rt Grocery,7609 Broadway,North Bergen,7047,"Nw Yrk, NY-NJ-PA",0.0,0.0,Hudson,361189,73337,2,461000.0,11,1999.5,1,99,55,4.7,3.0
+1,Russert's Deli & Food Market,35 Robbinsville Allentown Rd,Trenton,8691,"Trenton, NJ",0.0,0.0,Mercer,202885,79979,6,486000.0,17,1999.5,2,16,6,4.6,11.0
+0,Ryders Stop,7514 Tonnelle Ave,North Bergen,7047,"Nw Yrk, NY-NJ-PA",0.0,0.0,Hudson,361189,73337,3,692000.0,7,1999.5,1,99,55,4.0,5.0
+1,Santori's Produce & Deli Mkt,325 E Jimmie Leeds Rd # 1,Galloway,8205,"Atlantic Cty, NJ",0.0,0.0,Atlantic,120728,60826,6,3195000.0,14,14999.5,3,32,4,4.6,323.0
+1,Selectos Supermarket 3,6508 Bergenline Ave,West New York,7093,"Nw Yrk, NY-NJ-PA",0.0,0.0,Hudson,361189,73337,2,461000.0,5,1999.5,0,149,59,4.6,27.0
+1,Shoprite Of English Creek,,Pleasantville,8232,"Atlantic Cty, NJ",0.0,0.0,Atlantic,120728,60826,2,529000.0,3,750.0,0,59,7,4.2,1491.0
+1,Sit N' Chat Diner,428 State Rt 23,Franklin,7416,"Nw Yrk, NY-NJ-PA",0.0,0.0,Sussex,73963,92284,5,1242000.0,5,3749.5,1,16,4,4.3,789.0
+1,Sofia's Fine Italian Cuisine,272 Morris Ave,Springfield,7081,"Nw Yrk, NY-NJ-PA",0.0,0.0,Union,276382,80737,4,238000.0,11,1999.5,1,45,22,4.5,342.0
+1,Sprout Market Place,70 Christopher Columbus Dr,Jersey City,7302,"Nw Yrk, NY-NJ-PA",0.0,0.0,Hudson,361189,73337,2,461000.0,4,1999.5,0,73,48,4.0,295.0
+1,Sterling Market,157 Sterling Ave,Jersey City,7305,"Nw Yrk, NY-NJ-PA",0.0,0.0,Hudson,361189,73337,2,461000.0,27,1999.5,1,166,21,4.6,17.0
+1,Stoc-Up,1249 Mays Landing Rd,Hammonton,8037,"Atlantic Cty, NJ",0.0,0.0,Atlantic,120728,60826,7,1851000.0,30,3749.5,3,42,2,4.6,75.0
+1,Stop N Go Convenience Store,81 Palisade Ave,Cliffside Park,7010,"Nw Yrk, NY-NJ-PA",0.0,0.0,Bergen,482038,100181,2,505000.0,24,1999.5,1,30,56,4.6,8.0
+1,Subzi Mandi,1400 Berlin Rd # 120,Cherry Hill,8003,"Phl, PA-NJ-DE-MD",0.0,0.0,Camden,253053,67135,3,665000.0,18,3749.5,2,20,21,3.5,326.0
+1,Subzi Mandi,251 Littleton Rd,Parsippany,7054,"Nw Yrk, NY-NJ-PA",0.0,0.0,Morris,256698,112396,2,529000.0,25,1999.5,1,60,13,4.1,680.0
+1,Super Fresco,294 Lee Ave,New Brunswick,8901,"Nw Yrk, NY-NJ-PA",0.0,0.0,Middlesex,439073,87666,3,687000.0,15,750.0,1,93,20,4.5,117.0
+1,Super Gold Convenience,157 Morris St,Morristown,7960,"Nw Yrk, NY-NJ-PA",0.0,0.0,Morris,256698,112396,3,793000.0,11,1999.5,1,45,11,3.6,11.0
+1,Super Mini Mart,2300 Atlantic Ave # A,Atlantic City,8401,"Atlantic Cty, NJ",0.0,0.0,Atlantic,120728,60826,1,265000.0,23,3749.5,0,159,3,3.0,9.0
+1,Tom The Green Grocer,2305 South Ave,Scotch Plains,7076,"Nw Yrk, NY-NJ-PA",0.0,0.0,Union,276382,80737,3,721000.0,12,750.0,2,15,17,4.8,73.0
+1,Top Quality Food Market,828 US Highway 46,Parsippany,7054,"Nw Yrk, NY-NJ-PA",0.0,0.0,Morris,256698,112396,3,793000.0,13,750.0,1,60,13,3.8,328.0
+1,Torres Mini-Market,403 Bruck Ave,Perth Amboy,8861,"Nw Yrk, NY-NJ-PA",0.0,0.0,Middlesex,439073,87666,2,458000.0,37,750.0,1,98,12,4.8,18.0
+1,Tri-County Co-Op Auction Mkt,619 Route 33 W,Hightstown,8520,"Trenton, NJ",-0.81640625,0.0,Mercer,202885,79979,1,1278000.0,37,3749.5,2,30,4,5.0,3.0
+0,Tri-Start Indian Grocery,68 S Washington Ave,Bergenfield,7621,"Nw Yrk, NY-NJ-PA",0.0,0.0,Bergen,482038,100181,2,505000.0,28,750.0,1,27,20,2.9,15.0
+1,Tropical Hut,388 US Highway 46,Parsippany,7054,"Nw Yrk, NY-NJ-PA",0.0,0.0,Morris,256698,112396,3,793000.0,4,750.0,2,60,13,4.5,139.0
+1,Twenty Four Seven Food Market,1406 Atlantic Ave,Atlantic City,8401,"Atlantic Cty, NJ",0.0,0.0,Atlantic,120728,60826,4,1058000.0,11,750.0,2,159,3,4.0,7.0
+1,Twin City Supermarket,216 Sip Ave,Jersey City,7306,"Nw Yrk, NY-NJ-PA",0.0,0.0,Hudson,361189,73337,6,1383000.0,8,3749.5,1,200,39,4.0,639.0
+1,Value Fresh Market,725 Secaucus Rd,Jersey City,7307,"Nw Yrk, NY-NJ-PA",0.0,0.0,Hudson,361189,73337,2,461000.0,3,750.0,0,110,49,4.3,128.0
+1,Victoria Grocery Corp,125 Watson Ave,West Orange,7052,"Nw Yrk, NY-NJ-PA",0.0,0.0,Essex,368748,62875,1,243000.0,12,750.0,0,52,11,4.8,6.0
+0,Vidalia Y Quisqueya Deli-Groc,98 Webster Ave,Jersey City,7307,"Nw Yrk, NY-NJ-PA",0.0,0.0,Hudson,361189,73337,2,461000.0,10,1999.5,1,110,49,4.8,12.0
+1,Village Pantry Deli,1720 Old Trenton Rd,Princeton Junction,8550,"Trenton, NJ",0.0,0.0,Mercer,202885,79979,3,704000.0,28,750.0,2,15,8,4.2,60.0
+1,Vince Lombardi Svc Area,Mile 115 New Jersey Tpke,Ridgefield,7657,"Nw Yrk, NY-NJ-PA",0.0,0.0,Bergen,482038,100181,5,6489000.0,9,750.0,2,19,48,3.7,4484.0
+1,Wally's Grocery & Deli,1116 N Delaware St,Paulsboro,8066,"Phl, PA-NJ-DE-MD",0.0,0.0,Gloucester,149747,81315,2,318000.0,20,1999.5,1,17,7,3.5,6.0
+1,Warren Glen Market,615 County Road 627,Bloomsbury,8804,"Allen-Bth-Est,PA",0.0,0.0,Warren,56060,77571,2,469000.0,13,1999.5,1,4,3,4.8,73.0
+1,Water Side Food,101 Boardwalk,Atlantic City,8401,"Atlantic Cty, NJ",0.0,0.0,Atlantic,120728,60826,2,529000.0,11,1999.5,1,159,3,4.5,12.0
+1,Welsh Farms,22 Wall St,West Long Branch,7764,"Nw Yrk, NY-NJ-PA",0.0,0.0,Monmouth,328661,99223,2,458000.0,16,750.0,1,12,11,4.2,6.0
+1,Welsh Farms,22 Wall St,West Long Branch,7764,"Nw Yrk, NY-NJ-PA",0.0,0.0,Monmouth,328661,99223,2,458000.0,16,750.0,1,12,11,4.2,6.0
+1,White's Market,1507 Central Ave,Barnegat Light,8006,"Nw Yrk, NY-NJ-PA",0.0,0.0,Ocean,275023,68483,25,6463000.0,13,14999.5,3,2,0,4.5,90.0
+1,Woori Mart,206 Pegasus Ave,Northvale,7647,"Nw Yrk, NY-NJ-PA",0.0,0.0,Bergen,482038,100181,12,3029000.0,14,29999.5,3,15,12,4.4,598.0
+1,Xi House Market,329 US Highway 46,Parsippany,7054,"Nw Yrk, NY-NJ-PA",0.0,0.0,Morris,256698,112396,8,1424000.0,8,3749.5,2,60,13,2.9,8.0
+1,Zia Deli & Grocery,1318 Pacific Ave,Atlantic City,8401,"Atlantic Cty, NJ",0.0,0.0,Atlantic,120728,60826,2,112000.0,10,750.0,0,159,3,4.6,120.0
+1,Key Food,574 Jersey Ave,Jersey City,7302,"Nw Yrk, NY-NJ-PA",0.0,0.0,Hudson,361189,73337,2,461000.0,2,750.0,0,73,48,4.3,449.0
+1,501 Food Market Inc,501 Richmond St,Plainfield,7060,"Nw Yrk, NY-NJ-PA",0.0,0.0,Union,276382,80737,2,481000.0,12,1999.5,1,92,17,4.1,16.0
+1,6-12 Food Market,1003 Woodlane Rd,Mount Holly,8060,"Phl, PA-NJ-DE-MD",0.0,0.0,Burlington,230589,84470,1,237000.0,27,750.0,1,43,6,4.2,17.0
+1,Abarrotes Los Puentes,147 Irving Ave,Bridgeton,8302,"Vineland, NJ",0.0,0.0,Cumberland,65061,51790,2,478000.0,14,1999.5,1,71,2,4.2,143.0
+1,Abbruzzi & Giunta's Italian,3211 Route 38,Mount Laurel,8054,"Phl, PA-NJ-DE-MD",0.0,0.0,Burlington,230589,84470,10,2363000.0,29,7499.5,3,41,15,4.8,130.0
+0,Abby's Place,423 Main St,West Orange,7052,"Nw Yrk, NY-NJ-PA",0.0,0.0,Essex,368748,62875,2,486000.0,10,1999.5,1,52,11,5.0,3.0
+1,Acme Markets,260 Dunns Mill Rd,Bordentown,8505,"Phl, PA-NJ-DE-MD",0.0,0.0,Burlington,230589,84470,30,7088000.0,3,14999.5,2,32,8,4.1,609.0
+1,Adam's Food Market,168 Maple Ave,Wallington,7057,"Nw Yrk, NY-NJ-PA",0.0,0.0,Bergen,482038,100181,5,1262000.0,13,3749.5,2,20,29,4.8,178.0
+1,Aiellos Market & Catering,2595 Highway 516,Old Bridge,8857,"Nw Yrk, NY-NJ-PA",0.0,0.0,Middlesex,439073,87666,25,1489000.0,22,7499.5,3,41,9,4.3,140.0
+1,Amer-Fil Foodmart,1075 Easton Ave # 1,Somerset,8873,"Nw Yrk, NY-NJ-PA",0.0,0.0,Somerset,171371,119731,3,3394000.0,23,1999.5,2,81,10,4.8,15.0
+1,Angel Food Market,500 Magnolia Ave # A,Elizabeth,7206,"Nw Yrk, NY-NJ-PA",0.0,0.0,Union,276382,80737,1,241000.0,25,1999.5,0,80,24,4.2,25.0
+1,Argyle Marketplace LLC,359 E Northfield Rd,Livingston,7039,"Nw Yrk, NY-NJ-PA",0.0,0.0,Essex,368748,62875,4,238000.0,37,750.0,2,24,12,4.3,151.0
+1,Artista Salumeria,423 Main St,Chester,7930,"Nw Yrk, NY-NJ-PA",0.0,0.0,Morris,256698,112396,3,793000.0,7,1999.5,1,14,4,4.7,43.0
+1,Astir IT Solutions,2 Austin Ave,Iselin,8830,"Nw Yrk, NY-NJ-PA",0.0,0.0,Middlesex,439073,87666,2,458000.0,14,3749.5,1,37,21,5.0,1.0
+1,Autumn Harvest Health Foods,1625 E 2nd St,Scotch Plains,7076,"Nw Yrk, NY-NJ-PA",0.0,0.0,Union,276382,80737,2,314000.0,37,750.0,1,15,17,4.8,36.0
+1,Azteca International LLC,41 S Laurel St,Bridgeton,8302,"Vineland, NJ",0.0,0.0,Cumberland,65061,51790,2,478000.0,9,1999.5,1,71,2,4.0,80.0
+0,Balboa's Deli Grocery,343 Morris Ave,Elizabeth,7208,"Nw Yrk, NY-NJ-PA",0.0,0.0,Union,276382,80737,1,241000.0,6,750.0,0,47,25,3.0,4.0
+1,Baraka Halal Grocery,76 Gould Ave,Paterson,7503,"Nw Yrk, NY-NJ-PA",0.0,0.0,Passaic,242208,71959,4,831000.0,12,750.0,2,65,24,4.4,125.0
+1,Barangay Union Grill-Food Mart,1045a Stuyvesant Ave,Union,7083,"Nw Yrk, NY-NJ-PA",0.0,0.0,Union,276382,80737,2,481000.0,12,750.0,1,71,29,4.4,35.0
+1,Bark N Bag LLC,1 N Johnston Ave # 3,Trenton,8609,"Trenton, NJ",0.0,0.0,Mercer,202885,79979,3,704000.0,6,1999.5,2,39,8,4.6,20.0
+1,Barth's Pork Store,41 South St,New Providence,7974,"Nw Yrk, NY-NJ-PA",0.0,0.0,Union,276382,80737,20,4801000.0,37,14999.5,4,7,14,4.8,149.0
+1,Bereket Marketplace,3790 US Highway 1,Monmouth Junction,8852,"Nw Yrk, NY-NJ-PA",0.0,0.0,Middlesex,439073,87666,5,1145000.0,3,7499.5,1,21,8,4.5,198.0
+1,Bernardsville Food Store,75 Morristown Rd,Bernardsville,7924,"Nw Yrk, NY-NJ-PA",0.0,0.0,Somerset,171371,119731,2,459000.0,24,1999.5,1,8,3,3.8,25.0
+1,Blitz's Market,8515 Landis Ave,Sea Isle City,8243,"Ocean City, NJ",0.0,0.0,Cape May,45947,62175,2,817000.0,21,750.0,1,7,4,3.1,22.0
+1,Bon Appetit,301 N Harrison St # 45,Princeton,8540,"Trenton, NJ",0.0,0.0,Mercer,202885,79979,20,1658000.0,37,29999.5,3,35,7,4.3,1039.0
+1,Bonterra Market,3112 Fire Rd,Egg Harbor Township,8234,"Atlantic Cty, NJ",0.0,0.0,Atlantic,120728,60826,15,1570000.0,18,7499.5,2,40,9,3.6,46.0
+1,Bonzao Supermarket,70 Adams St # 1,Newark,7105,"Nw Yrk, NY-NJ-PA",0.0,0.0,Essex,368748,62875,2,486000.0,11,1999.5,1,106,19,4.5,49.0
+1,Brian's Mini Market,295 Union Ave,Paterson,7502,"Nw Yrk, NY-NJ-PA",0.0,0.0,Passaic,242208,71959,2,416000.0,15,1999.5,1,42,17,4.2,17.0
+1,Bud's Market,8302 3rd Ave,Stone Harbor,8247,"Ocean City, NJ",0.0,0.0,Cape May,45947,62175,2,817000.0,11,1999.5,1,8,2,4.3,74.0
+1,Cabidan Grocery,246 5th Ave,Paterson,7524,"Nw Yrk, NY-NJ-PA",0.0,0.0,Passaic,242208,71959,2,416000.0,19,1999.5,1,52,19,4.0,1.0
+1,Cape May Peanut Butter Co,516 Carpenter Ln,Cape May,8204,"Ocean City, NJ",0.0,0.0,Cape May,45947,62175,2,817000.0,8,1999.5,1,21,5,4.7,512.0
+1,Caracas Grocery,1800 Palisade Ave,Union City,7087,"Nw Yrk, NY-NJ-PA",0.0,0.0,Hudson,361189,73337,1,231000.0,24,1999.5,0,210,55,5.0,5.0
+1,Casa Reyes Mexican Products,47 Myrtle St,Bridgeton,8302,"Vineland, NJ",0.0,0.0,Cumberland,65061,51790,2,95000.0,23,750.0,1,71,2,3.8,41.0
