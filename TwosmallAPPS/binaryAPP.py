@@ -28,12 +28,12 @@ st.set_option('deprecation.showPyplotGlobalUse', False)
 def main():
     st.title("Early Warning System Web App")
     st.sidebar.title("Early Warning System Web App")
-    st.markdown("Binary Classification on Grocery Store Dataset  🍄")
-    st.sidebar.markdown("Binary Classification on Grocery Store Dataset 🍄")
+    st.markdown("Binary Classification on Grocery Store Dataset  🏪")
+    st.sidebar.markdown("Binary Classification on Grocery Store Dataset 🏪")
 
     @st.cache(persist=True)
     def load_data():
-        data=pd.read_csv('G://google download/Research/UBS_pitch/final_modelling_data_1.csv')
+        data=pd.read_csv(os.path.join('final_modelling_data_1.csv'))
         #label = LabelEncoder()
         #for col in data.columns:
             #data[col] = label.fit_transform(data[col])
