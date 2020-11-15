@@ -28,8 +28,8 @@ st.set_option('deprecation.showPyplotGlobalUse', False)
 def main():
     st.title("Early Warning System Web App")
     st.sidebar.title("Early Warning System Web App")
-    st.markdown("Binary Classification on Grocery Store Dataset  🍄")
-    st.sidebar.markdown("Binary Classification on Grocery Store Dataset 🍄")
+    st.markdown("Binary Classification on Grocery Store Dataset  🏪")
+    st.sidebar.markdown("Binary Classification on Grocery Store Dataset 🏪")
 
     @st.cache(persist=True)
     def load_data():
